@@ -1,0 +1,9 @@
+county_fips,county_name,in_study_counties,fema_affected_minor_100yr_floodplain,fema_major_destroyed_100yr_floodplain,fema_affected_minor_500yr_floodplain,fema_major_destroyed_500yr_floodplain,fema_affected_minor_outside_floodplain,fema_major_destroyed_outside_floodplain,fema_affected_minor_total,fema_major_destroyed_total,fema_total_observations,source_objectid
+48039,Brazoria,True,1096,2,4,0,3,0,1103,2,1105,20
+48071,Chambers,False,22,0,0,0,0,0,22,0,22,36
+48157,Fort Bend,True,2043,1006,6156,3595,3440,264,11639,4865,16504,79
+48167,Galveston,True,4761,0,13,0,7,0,4781,0,4781,84
+48201,Harris,True,24524,5030,15690,3702,18624,1233,58838,9965,68803,101
+48291,Liberty,False,1068,1923,1056,83,238,133,2362,2139,4501,146
+48339,Montgomery,True,477,589,997,242,3555,2632,5029,3463,8492,170
+48473,Waller,False,182,252,111,34,215,63,508,349,857,237

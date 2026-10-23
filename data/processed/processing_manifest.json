@@ -1,0 +1,107 @@
+{
+  "storm_definitions": {
+    "Hurricane_Harvey_2017": {
+      "name": "Harvey",
+      "year": 2017,
+      "sid": "2017228N14314",
+      "claim_label": "Hurricane Harvey",
+      "claim_start": "2017-08-24",
+      "claim_end": "2017-09-13"
+    },
+    "Tropical_Storm_Imelda_2019": {
+      "name": "Imelda",
+      "year": 2019,
+      "sid": "2019261N28264",
+      "claim_label": "Tropical Storm Imelda",
+      "claim_start": "2019-09-17",
+      "claim_end": "2019-09-24"
+    },
+    "Hurricane_Nicholas_2021": {
+      "name": "Nicholas",
+      "year": 2021,
+      "sid": "2021256N21265",
+      "claim_label": "Tropical Storm Nicholas",
+      "claim_start": "2021-09-13",
+      "claim_end": "2021-09-16"
+    },
+    "Hurricane_Beryl_2024": {
+      "name": "Beryl",
+      "year": 2024,
+      "sid": "2024181N09320",
+      "claim_label": "Hurricane Beryl",
+      "claim_start": "2024-07-07",
+      "claim_end": "2024-07-09"
+    }
+  },
+  "counties": {
+    "48201": "Harris",
+    "48157": "Fort Bend",
+    "48339": "Montgomery",
+    "48039": "Brazoria",
+    "48167": "Galveston"
+  },
+  "weather_columns_and_units": {
+    "temperature_2m": "temperature_c",
+    "precipitation": "precipitation_in",
+    "rain": "rain_in",
+    "surface_pressure": "surface_pressure_hpa",
+    "wind_speed_10m": "wind_speed_10m_mph",
+    "wind_speed_100m": "wind_speed_100m_mph",
+    "wind_direction_10m": "wind_direction_deg",
+    "wind_gusts_10m": "wind_gusts_10m_mph",
+    "soil_moisture_0_to_7cm": "soil_moisture_m3_m3"
+  },
+  "weather_timezone": "America/Chicago",
+  "canonical_timezone": "UTC",
+  "outage_expected_interval_minutes": 15,
+  "missing_outage_policy": "unknown_no_zero_imputation",
+  "track_max_interpolation_gap_hours": 3,
+  "payment_fields": [
+    "netBuildingPaymentAmount",
+    "netContentsPaymentAmount"
+  ],
+  "claim_assignment": "exact_event_label_and_year_and_inclusive_loss_date_window",
+  "code_sha256": {
+    "__init__.py": "fdb47a35f11fa74085479ad3a36ca6689d38866d0164a8709fa6535f13cbe574",
+    "build.py": "444019b461a3c0cb44a5e48e48aa4f33c623d5adcf1cbe1a48d1a37c009021fc",
+    "common.py": "66c2d1c9417fb33a14151cd7832f923750ca55c993892512bcdbc484ac9543e9",
+    "drivers.py": "9b36d7cfae74da7314a851e8fd23110aaaa362f849233e3049f4d635ae219e38",
+    "fetch.py": "d87071a97f58dae5e3ba9eee48997609e64bd9dccd84c7b6d198744dbb394c17",
+    "filegdb.py": "0406680fb5e96e1fb9e104246e70b10c07212bede500f2256ef749f21c3fae4d",
+    "harvey.py": "b63d79ea6c3d897c62b89b726b793eacde821aa6ebc33ee1bd097640b5962e3c",
+    "reports.py": "34bba285440f61fd6248d3dd642a6df708656f77cba49d8141b9744696e6ed14",
+    "restoration.py": "b917064a4a55963063a637dd55985166c893a61f6c626bf4f460c49c2d8cb8dd",
+    "staging.py": "46b5fd2ba2b3e4b4524541524d7d29e7c51e5f390d59dc4cc70416285911e330",
+    "validate.py": "51ce20584b3fb1405355985fea403da95c0972431ccc5fdf710c831205c7bd94"
+  },
+  "output_sha256": {
+    "county_storm_hour.csv": "59105cfed975fbde2adbe2e307e3e26067804f1278720cdf0877a5a178131b90",
+    "county_storm.csv": "fbd91326f04c0374f58de0696ae9a1308ac278b5716f946f7e6c7b49df310450",
+    "claim_assignments.csv": "42d8c38b487b282100c7a14308fe51f4b5e01d8a39f33788558e3794a55ca649",
+    "excluded_outage_records.csv": "3c9b1244c9d7a7f19ffe0103a70200a5211b9df9ef3227187e8585117acf3ce1",
+    "descriptive_associations.csv": "4dd9fd0e0259d61fa32f665c235621a4e5a9804a0570183705573385f2adf340",
+    "centerpoint_beryl_milestones.csv": "bf17108a7ce10797d9850beb4913629f57a7639539b5f9c2032ac0681d927d40",
+    "counties.geojson": "8b118ea716c959a48a150749662ab3fdbeb867e22db78ba6007978dc62952bb3",
+    "source_manifest.json": "0d0db323c51eef0302400bc245f333e47464cf0ebc1581265dd9b786067447c3",
+    "validation_report.json": "573f384e4f2b0940dc953ca2956dfaee4d4991ce895731c9e6616df05ce7bcda",
+    "harvey_zip_county_assignments.csv": "1f1658f7c38b1b89cba84dc4d0fdb59f4b476afd60b34e57bb14589e97084f30",
+    "harvey_zip_outages_daily.csv": "cac518eead7e4e946865fe6d9684619da9571be8d30488b30136fec11c4ee814",
+    "harvey_county_outages_daily.csv": "6124775dc43533e02ac8566825948611c94a3eb9cf94f9155d9178ab741d8baf",
+    "harvey_fema_damage_assessments.csv": "927734308f6caf2116ad2aea5cecb6a19a46c27d6693e224f624e032c1a35386",
+    "harvey_county_supplement.csv": "026f3aa6dc88ac1f20e63242b0e2174e129ffb78153c1a2216cb76274eeaf58d",
+    "report_findings.csv": "ae92cf99c8e19f157fc3a82679f629131ec20ad970c39fcff4f06735b67d7df2",
+    "report_issue_consensus.csv": "5ef9a56e362d2809c2bc1992611c9c93eb0f55706d85b29dea7b1b85f8d104af",
+    "report_discrepancies.csv": "de60ef9eb9e1dc9beff133dbe696dd28cc1a7decd25d23fe8071cdd4dc0a671d",
+    "restoration_metrics.csv": "4830e4db3523e75e72f5730605b19d7f3ea12456f8aed50be98f84f716c9d340",
+    "harvey_zip_restoration.csv": "1922bf010dfa930b3a2559f943ed7d4e82f7f4e7d207eca1630758152d91164b",
+    "staging_whatif_candidates.csv": "0a6c21438ba18037b9d3fbcf6f8b121824af420c4cf5781e6747dbce38c5a141",
+    "staging_whatif_points.csv": "f5047cd56fd15e9391d863e1a3f21dc8b6880d516a8b40284dbdf5fe2bb4779c",
+    "staging_whatif_summary.json": "fb0ebe47f9943273836f142bb3ee8bbd724c4b1b09ce3a70c36e67fafe47531f",
+    "relief_sites.csv": "3f3f7e98c504aa5fb64798f381d1aa075030147602296cb844cbf94343ea12e7",
+    "hifld_substations.csv": "25dae18c923c03fa29b5f8ab984855ba744e254563b488bdd2c9175d22c96d7b",
+    "zip_downtime_drivers.csv": "33d42a36534ec96b4887d38844859ee67a7b045f37a3a7e16f68754dc4b460f5",
+    "downtime_driver_correlations.csv": "1abb3108c60de3de70d81362c3cca67c954da4d04fa7b0a08f6ef78d12388014",
+    "downtime_hotspots.csv": "a6a6cf6349b23bcdcf046d7cbb7016d5dc5b3083a6ae97505859bf586a37481a",
+    "downtime_recommendations.json": "1c4e6e9ccdb01b7c973d25b77b866993b6a1afc6473033e4ccb965b7e037be25"
+  }
+}

@@ -1,0 +1,2526 @@
+
+=== PAGE 1 ===
+~* TEX>~ 
+PUBL~ 
+4 
+Filing Receipt 
+Filing Date - 2024-11-21 02:43:15 PM 
+Control Number - 56822 
+Item Number - 198 
+=== PAGE 2 ===
+\ \illl'I l 
+PUBLIC UTILITY COMMISSION OF TEXAS 
+INVESTIGATION OF EMERGENCY 
+PREPAREDNESS AND RESPONSE BY UTILITIES IN 
+HOUSTON AND SURROUNDING COMMUNITIES 
+PROJECT NO: 56822 
+November 2024 
+=== PAGE 3 ===
+Public Utility Commission of Texas 
+Thomas J. Gleeson, Chairman 
+Lori Cobos, Commissioner 
+Jimmy Glotfelty, Commissioner 
+Kathleen Jackson, RE., Commissioner 
+Courtney Hjaltman, Commissioner 
+Connie Corona, Executive Director 
+Project Supervisors: John Lajzer and Luisa Venegoni 
+Staff acknowledgements: 
+Eduardo Acosta Zachary Dollar Jenna Keller 
+Mackenzie Arthur Barksdale English Scott Miles 
+David Bautista James Euton Van Moreland 
+Chuck Bondurant Sherryhan Ghanem John Poole 
+Chris Burch Therese Harris Rose Ramirez 
+Joseph Cooper Ty Harris Chris Roelse 
+Courtney Dean Shawn Hazard Jeffrey Wirth 
+Iliana De La Fuente Mike Hoke 
+=== PAGE 4 ===
+Contents 
+Executive Summary 7 
+1.0 Introduction 6 
+1.1 Investigation Approach and Methnrlq 6 
+1.2 May 2024 Derecho Overview and Impprtq 7 
+1.3 Hurricane Beryl Overview and Impacts 9 
+1.4 Greater Houston Area Electric Service Providerq 12 
+2.0 Impacts of Power Outages Following Hurricane Beryl and Derecho Event 16 
+2.1 Texans' Lived Experienrp 16 
+2.2 Impacts to Water Utilities 19 
+2.3 Impacts to Telecommunication Utiliti~ 71 
+2.4 Impacts to Retail Electric Providerq 73 
+3.0 Assessment of Utility Emergency Preparedness and Responqp 75 
+3.1 Emergency Preparedness and Response Planning. 75 
+3.2 Communication and Coordination R7 
+3.3 Customer Restoration Workflow R6 
+3.4 Physical Infrastructure RR 
+3.5 Vegetation Management 46 
+3.6 Staffing and Mutual Assistanrp 54 
+3.7 Mobile Generation Facilities 98 
+4.0 CenterPoint's Greater Houston Resiliency Initiative 61 
+Appendiw 62 
+1 
+=== PAGE 5 ===
+Executive Summary 
+Background and Objectives 
+In May and July 2024, two major weather events tested utilities in the Greater Houston area. A fast-moving 
+thunderstorm called a derecho hit Southeast Texas in May with winds over 100 MPH, damaging electric 
+infrastructure and causing over 1 million power outages. In July, Hurricane Beryl made Iandfall in 
+Matagorda Bay, disrupting electric service for 2.7 million customers, including 2.2 million CenterPoint 
+customers. 
+To restore power, utilities had to clear vegetation and debris and fix damaged infrastructure. Even a week 
+after Hurricane Beryl hit, hundreds of thousands of Texans were still without power, making daily life 
+difficult. 
+On July 14, 2024, Governor Greg Abbott directed the Public Utility Commission of Texas (PUCT) to 
+thoroughly review how well utilities in the Greater Houston area were prepared for and responded to 
+these severe weather events. 
+The investigation had these goals: 
+1. Determine how well utilities in the Greater Houston area were prepared for and responded to 
+severe weather events, especially the power outages after the May 2024 derecho and Hurricane 
+Beryl. 
+2. Develop recommendations for utilities and the Legislature to reduce the length and impact of 
+power outages after following future storms and recommend possible changes to Commission 
+rules. 
+Methodology 
+To gather information, PUCT Staff sent 94 formal requests for information (RFIs) to electric, water, and 
+telecommunications providers in the Greater Houston area. 
+The investigation's findings and recommendations are based on: 
+• Staff's analysis of responses to these requests 
+• Reports filed by utilities, including emergency operations plans (EOPs) and vegetation 
+management reports 
+• Public input collected online and at a first-of-its kind PUCT workshop held in Houston 
+• Input from affected people, entities and organizations in the Greater Houston area 
+• Information provided by emergency-response and weather experts at the Houston workshop. 
+PUCT staff, including engineers, attorneys, and investigators, analyzed this information to create the 
+investigation's findings and recommendations. This report summarizes and discusses common practices in 
+utilities' severe weather preparedness and response, and specific examples of successes and 
+shortcomings. 
+2 
+=== PAGE 6 ===
+Findings and Recommendations 
+Recommendations are numbered for ease of reference and not in order of importance. 
+Impacts of the Outages 
+• Texans ' Lived Experience : Feedback from a public questionnaire shows that Texans felt severe 
+discomfort and stress, mainly dueto health-related and financial concerns. They also had trouble 
+getting reliable, accurate information during the power restoration process. 
+• Water and Telecommunications : Water and telecommunications utilities need electricity to 
+operatetheir facilities. During power outages, they have to use backup generators. Water utilities 
+without enough mobile generators had longer service disruptions. Telecommunications outages 
+made it hard for electric service providers to coordinate with field crews to restore power. 
+• Retail Electric Providers ( REPs ): REPs had trouble getting timely , specific outage information from 
+utilities. Many REPs had to rely on publicly available information. 
+Utility Emergency Preparedness and Response 
+Planning : Utilities generally had emergency preparedness plans in place and conducted major storm drills , 
+but they did not involve other important stakeholders. Larger utilities had more sophisticated storm 
+tracking, outage tracking, and emergency operations management. However, many did not test outage 
+trackers before storms. 
+1. Utilities should include neighboring utilities, local governments, and emergency services in annual 
+hurricane and major storm drills. 
+2. The Commission should require pre-storm communication procedures in emergency operations 
+plans. 
+3. Utilities should incorporate outage tracker disruptions and high user demand as scenarios in 
+annual hurricane and major storm drills. 
+Communication and Coordination : Lack of reliable and accurate communication was the top challenge 
+customers faced during power restoration. CenterPoint's outage tracker failed before Hurricane Beryl, so 
+customers could not get critical information. Critical loads had difficulty contacting their service providers. 
+Less sophisticated utilities relied too much on social media and many do not have a 24-hour phone line or 
+an outage map. 
+4. The Legislature should codify a customer's right to information about restoration times and the 
+right to contact an electric service provider by phone. 
+Customer Restoration Workflow : Utilities focus on restoring power to critical loads and repairing damage 
+that impacts the greatest number of customers. This means customers in less populated areas or served 
+by a single line might have longer outages. 
+5. The Legislature should consider establishing a framework and penalty structure to assess IOU 
+service quality during major outage events. 
+3 
+=== PAGE 7 ===
+Physical Infrastructure : Utility pole infrastructure construction standards appear to be consistent and 
+aligned with the National Electric Safety Code's (NESC) standards forthegulf coast region. Few poles failed; 
+however, meeting standards should not be the onlygoal. 
+6. Utilities should assess poles constructed under prior NESC standards for replacement with poles 
+that meet current extreme wind and ice loading design standards. 
+7. Utilities should consider automated grid performance devices, like sectionalizers or automatic 
+circuit reclosers, to reduce unnecessary outage times and help restoration crews locate and 
+resolve faults more quickly. 
+8. In more densely vegetated areas, utilities should assess whetherto replace distribution lines with 
+covered conductor. 
+Vegetation Management : Utilities relying on analytics - based vegetation management strategies might 
+wait longer between trims in some areas. Most vegetation-related outages during Hurricane Beryl were 
+caused by trees outside of utility easements and rights-of-way. Utilities can only access these areas with 
+Iandowner permission. Fixingthese issues requires better customerengagement. Vegetation management 
+is mostly outsourced. Staffing decisions are influenced by vegetation clearing schedules. 
+9. The Commission should require utilities to establish a designated method for customers to report 
+vegetation hazards. 
+10. Utilities should use analytics-based vegetation management strategies to augment, not replace, 
+cyclical vegetation management plans. 
+11. The Legislature should consider increasingthe penalty cap for electric service quality violations. 
+Staffing and Mutual Assistance : Utilities use storm forecasts and damage predictions to plan for 
+restoration. During Hurricane Beryl, many outside workers came to help, causing coordination problems. 
+The challenges were made worse by telecommunications outages. 
+12. Utilities should scale up training in emergency response and Incident Command Response. 
+13. Utilities should ensure a resilient emergency communications platform is available to both local 
+and mutual assistance crews. 
+Mobile Generation Facilities : CenterPoint ' s process for deploying mobile generation to customers was 
+inefficient. In addition, the fleet was not right-sized for a Hurricane Beryl-type restoration event. As a 
+result , the company acquired an additional 21 units through mutual assistance or short - term leases after 
+Iandfall. 
+14. Utilities should pre-identity critical customer locations suitable for deployment of Temporary 
+Emergency Electric Energy Facilities. 
+4 
+=== PAGE 8 ===
+'gdl 
+GOVERNOR GREG ABBOTT 
+July 14, 2024 
+Mr. Thomas J. Gleeson 
+Chairman 
+Public Utility Commission of Texas 
+1701 North Congress Avenue 
+Austin, Texas 78711-3326 
+Dear Chairman Gleeson: 
+It is unacceptable that millions of Texans in the Greater Houston area have been (or were) left 
+without electricity for multiple days. It is imperative we investigate how and why some Texas 
+utilities were unable to restore power for days following a Category 1 Hurricane. 
+Texas utilities bear the responsibility of ensuring system resiliency in their respective service 
+territories. While weather-related disasters are outside of human control, their impact to our daily 
+lives can be mitigated or alleviated if proper system planning and pre-storm preparations are made. 
+Hurricane Beryl made it clear-improvements must be made. I am directing the Public Utility 
+Commission of Texas (PUC) to undertake a rigorous study to determine the causes of the repeated 
+and ongoing power failures in the Greater Houston area after severe weather events. Some questions 
+that must be answered include: Is the cause ofthe magnitude and duration of customer outages a 
+result of a physical infrastructure or personnel issue? What were the utilities pre-event planning 
+processes? Why exactly were so many Texans left without power for so many days? When and for 
+what purposes did utilities use their mobile generation resources? 
+These questions and more must be asked and answered by Texas utility companies. We must 
+identify why Hurricane Beryl impacted millions of Texans when there have been many similar 
+events in Texas' recent past that did not, and we must work to prevent any such future impacts. 
+I am instructing the PUC to deliver a report on its finding by December 1, 2024, to inform the Texas 
+Legislature prior to the 89th Legislative Session. I thank the PUC for its commitment to Texas and 
+look forward reviewing its report. 
+Sincerely, 
+Greg Ab64 
+Governor 
+POST OFFICE BOX 12428 AUSTIN, TEXAS 78711512-463-2000 (VOICE) DIAL 7-1-1 FOR RELAY SERVICES 
+=== PAGE 9 ===
+1.0 Introduction 
+1.1 Investigation Approach and Methods 
+On July 14, 2024, Governor Abbott directed the Commission to take a comprehensive look at the state of 
+preparation of and immediate response by electric utilities in the Greater Houston area to severe weather 
+events . Commission Staff opened Project No . 56822 , Investigation Of Emergency Preparedness and 
+Response by Utilities in Houston and Surrounding Communities,thefo\\ow\ng day. 
+To meet objectives of the investigation, Commission Staff identified seven primary areas of focus: 
+• Emergency preparedness and response planning 
+• Communication and coordination 
+• Customer restoration workflow 
+• Physical infrastructure 
+• Vegetation management 
+• Staffing and mutual assistance 
+• Mobile generation resources 
+Data and Information Gathering 
+In August 2024, Commission Staff issued 94 formal, comprehensive Requests for Information (RFIs) to 
+collect information relevant to the seven primary focus areas. Electric, water, and telecommunications 
+providers in the Greater Houston area were required to respond in writing to detailed questions. The 
+topics included preparation efforts, outage response, and restoration efforts related to Hurricane Beryl 
+and the May 2024 derecho. Each RFI included from 19 (water and sewer service providers) to 120 
+mandatory questions (electric service providers). The responses generated over 12,000 pages of 
+information. 
+Three classes of electric service providers received RFIs: 28 municipally owned utilities (MOUs), 32 electric 
+cooperatives (co-ops); and five investor-owned utilities (IOUs). Service providers were selected based on 
+their location in the path of the storm systems that created the conditions for the May 2024 derecho or of 
+Hurricane Beryl. A list of all entities issued RFIs can be found in the Appendix. 
+Commission Staff prioritized transparency with the public throughout the investigation. To this end, 
+documents used to inform the findings are filed in Project No. 56822.1 RFIs and responses were filed 
+publicly, except where information was otherwise protected in law from disclosure- for example, 
+personally identifiable information. Where information was filed confidentially, Commission Staff 
+conducted outreach to confirm the reason for confidential filing. 
+1 These filings are accessible through the Commission's Interchange atthe following link: 
+https://interchange.puc.texas.gov/search/filings/?UtilitvTvpe=A&ControINumber=56822&ltemMatch=Equal&Docu 
+mentTvpe=ALL&SortOrder=Ascending. The Interchange is a web-based tool that allows the public to locate 
+information that isfiled with the Commission. The public can access the Interchange's general filing search atthe 
+following link: https://interchange.puc.texas.gov. 
+6 
+=== PAGE 10 ===
+PUCT attorneys, investigators, engineers, and subject matter experts analyzed the responsive information. 
+In conjunction with the RFI response analysis, Staff reviewed utilities' existing Emergency Operations Plans, 
+vegetation management plans, and storm hardening plans. 
+Public Comments and Input from Other Impacted Entities 
+Members of the public and small businesses were encouraged to share their experiences with electric 
+service outages and restoration through an online questionnaire on the PUCT's website. The questionnaire 
+was live from August 1 to October 6,2024, and the Commission received 16,560 responses. Section 2.1 
+details the substance of this public comment. 
+Commission Staff also sought input from local governments, medical and eldercare facilities, trade 
+associations, and community organizations. Retail electric providers (REPs) and power generation 
+companies (PGCs) were also asked to provide feedback on their experiences during the restoration 
+periods. In filings on August 2,2024, Commission Staff invited these groups to respond to separate sets of 
+voluntary questions and received 16 responses. 
+Houston Workshop 
+On Saturday, October 5, the Commission held a workshop in Houston on utility preparedness and response 
+to severe storms. The Commissioners and Staff heard from 30 members of the public who described their 
+experiences with power outages following Hurricane Beryl and the May 2024 derecho. The Commission 
+also heard from invited experts on emergency preparedness, vegetation management, infrastructure 
+storm hardening, and mutual assistance. These experts represented: 
+• Texas Division of Emergency Management 
+• National Weather Service 
+• Texas A&M Forest Service 
+• MG Spoor Consulting 
+• GridSky Strategies Inc. 
+• Edison Electric Institute 
+• Southeastern Electric Exchange 
+1.2 May 2024 Derecho Overview and Impacts 
+On May 16, an expansive and fast-moving thunderstorm, called a derecho, pushed through southeast 
+Texas. Wind speeds were estimated to reach 100 MPH, with sustained winds above 75 MPH. 
+Unlike a hurricane, a derecho typically begins as a thunderstorm and develops quickly and with little or no 
+warning. Forecasts in the days priortothe May derecho had only noted a slight risk of thunderstorms. This 
+risk increased to moderate on the morning of the storm. 
+The storm spawned several tornados, and a track of straight-line wind damage was seen across Houston 
+and downthrough Baytown. The high winds associated with thestorm caused significant damageto power 
+lines and transmission towers. 
+1 
+=== PAGE 11 ===
+Thursday Mav 16- Statewide outages peaked at 8 p.m. on 
+May 16 with 1.05 million customers without power and at 
+r least 14 transmission lines sustaining damage. The bulk of 
+the impacts were within the CenterPoint service territory. 
+Sam Houston Electric Cooperative, Entergy, San Bernard 
+Electric Cooperative, Bluebonnet Electric Cooperative and ~ ~ j~~ 
+Jasper Newton Electric Cooperative also sustained W-i 
+damages. The most heavily impacted location was the Ltz~-:::/'--.. 
+Highway 290 corridor going west into Houston and ~© 
+tracking southeast along I-10 into Baytown. 
+..3%** 4/I:;.,--0 
+t· i 4: 
+0-* r;¥:im 
+During early assessments, utilities projected this would be -iie·4;L. 
+a multi-day restoration effort, especially for the b~126-~-~%7*i'1£~4;***Lf#i.,~%42M.~ 
+CenterPoint service territory. CenterPoint estimated ~~y*°*~*217.RF*2 4 
+restoration to be complete around May 22, while other 
+Source: National Weather Service utilities projected outage restoration by May 19. 
+Friday, Mav 17- At 3 p.m. on May 17, less than 24 hours after peaking with just over 1 million 
+outages, outage counts were down to about 675,000. 
+Saturday, Mav 18 - At 3 p.m., outages had been reduced to about 477,000. 
+Sunday, Mav 19 - At 3 p.m., outages were down to approximately 335,000, with 10,000 of those 
+outside CenterPoint. 
+Monday, Mav 20- At 3 p.m. on May 20, outages were down to 200,000. 
+Tuesday, Mav 21 - At 3 p.m., outages from the Derecho were down to 125,000, all in the 
+CenterPoint service territory. 
+Wednesday, Mav 22- Outage numbers continued to decline, and by May 22 there were 59,000 
+outages and three transmission lines needing repairs. 
+Bv Thursday, Mav 23, additional storm activity in other parts of the state drove overall outages 
+up, but restoration from the derecho was essentially complete. 
+Derecho Outages 
+1,200,000 -
+1,000,000 -
+800,000 -
+600,000 -
+400,000 -
+200,000 
+o '-
+5/16 5/17 5/18 5/19 5/20 5/21 5/22 
+8 
+=== PAGE 12 ===
+The weather incidents during the months preceding Hurricane Beryl were so numerous and impactful that 
+they were grouped together into a single federal disaster declaration. "Texas Severe Storms, Straight-line 
+Winds, Tornadoes, and Flooding/' (DR-4781-TX) covered the period from April 26,2024, through June 5, 
+2024. 
+1.3 Hurricane Beryl Overview and Impacts 
+Hurricane Beryl developed as a Category 1 hurricane inthe lesser Antilles on June 29. It rapidly intensified 
+as it moved westward, becoming the earliest in the hurricane season that a storm intensified into a 
+Category 5. 
+-!*1.111 Fll,1,1,1=1.1'.1.r 
+H-1•~i (m .1,11..„,1:1'.1.1, '.1:t.'illr.i.741.Or,1.I,~:,"~.NIili~FaU ~T„" „ ||~~|~ |||t/"9'1'~1•k„i 4,/ 1~11:-,ll „1,1Nlll ,. lili.i. 4,11.0/JAJ-/k~ i 
+{ ~3-=ju.-«% ---- 0 ,~. 
+1·.•1. I.m/.1 Al,• •k.I.I 
+K»/n . t T-$ 
+FL * 
+2 PM Sun 
+1 %3 
+25N 
+20N 
+lj-
+30N 
+t 
+=N 
+1 AM 
+20N 
+-~co ~ p /2 AM Sat 1 PM Sat 
+,\ 
+-e 
+2 AM Stinl >C 2' r5 PM Thu #J P" 4>ul, 
+29.M Sat/ ~-Jf .. 1 AM~Su~ ~ ~ 
+\, 1 AM Sat --' LA _ . 2.J?M Fr. I r, 
+/2 
+OAW 90W 
+5:Ll.~ 
+100~· 80W 105W 100W 95W -2.4 .w., *L 85W-3 · 80W 
+Hurricane Beryl Current information: x Forecast positions: Hurricane Beryl Current information: x Forecast positions: 
+Thursday July 04,2024 Center location 19.5 N 84.3 W OTropial Cyclone Opost/Potential TC Friday July 05,2024 Center location 20 1 N 86 9 W ~Tfop,cal Cyclone O PosUP/enlial TC 
+5 PM EDT Advisory 25 Maximum sustained wind 110 mph Sustained winds D < 39 mph 4 AM CDT Advisory 27 Maximum sustained wind 110 mph Suslatned w:nds. D < 39 mph 
+NWS National Hurricane Center Movement WNW at 20 mph S 39 73 mph H 74 110 mph M > 110 mph NWS Nabonal Hurricane Center Movemenl WNW at 15 mph S 39-73 mph H 74-110mph M >llomph 
+Potential track area: Watches: Warnings: Current wind field estimate: Potential track area: Watches: Warnings: Current wind field estimate: 
+~Day 1 -3 (ZIDay 4 5 Huri,cane Tro'Stm IHurricane=Tro'Stm -Hurricane Trop Stm ~Day 1·3 CEZD/94-5 Hur™:ane Ticp SIm ~Hurr·,ane~Tiop S:m IHumcane Trop Stm 
+On Thursday, July 4, the National Hurricane Center's 
+"Cone of Uncertainty" (Cone) began to indicate that 
+Hurricane Beryl could potentially impact southern 
+Texas near Brownsville. 
+At 4 a.m. on Friday, July 5, Brownsville was firmly in 
+the center of the Cone as the projected track began 
+to shift eastward, indicating that Texas was facing a 
+probable Iandfall along its coast. 
+~2111·1•1•111"'' ~"I·r"~·~"""' " '·~":Yf·'1·1'·~·'F·~W 4~I~•'11••~4~'1·~1·1/ .j 
+1=m=Lrr=21.:* =2. 
+--7 Ill < LA 
+QA 
+80W 
+r, 
+30N 1 AM Tue 
+1 PM M~-4-, 
+105W 100W 
+Tropical Storm Beryl 
+Ff,day July 05.2024 
+7 PM CDT Inlermediate Advisory 29A 
+NWS Nalional Hurricane Center 
+Current information: x 
+Cenler locabon 21.3 N 89 7 W 
+Maximum sustained wind 65 mph 
+Movement WNW at 15 mph 
+---*-B5W,. 
+Forecast positions: 
+OT,opleal Cyclone O Post,Potenl/TC 
+Sustained winds: D < 39 mph 
+S 39,73 mph H 74-110 mph M > 110 mph 
+1 A. .O. 
+1 PM Sup' 
+1 AM Sun' 
+29 /47 Sat 
+20N 
+105W 100W 95W 90W 
+Tropical Storm Beryl 
+Saturday July 06,2024 
+4 AMCDT Advisory 31 
+NWS Nal,onal Hurricane Centef 
+Current inlormation: x 
+Center Iocat,on 222 N 91 3 W 
+Maximum sustai/d wind 60 mph 
+Movemem WNW ai 12 mph 
+BOW 
+Forecast positions: 
+~Trop,cal Cyclone O Posl,Polential TC 
+Sustained winds: D<39 rnph 
+S 39·73 mph H 74·110 mph M> 110 mph 
+Potential track area: Watches: Warnings: Current wind field estimate: Potential track area: Watches: Warnings: Current wtnd fleld estimate: 
+CSD·iv , 3 ,- Iay 4·5 Hurrc.. T,oo Slm IH -Ti. /m IH r Tree S~nn Ch.Day 1 3 CZZDay 4 5 Hurricane Trof,Stm .Hvffieare=** -H/ne Tfop S!,r ai# 
+Twelve hours later, at 4 p.m. Friday, July 5, the track 
+had again shifted further to the east, projecting 
+Iandfall near Corpus Christi. 
+By 4 a.m. Saturday, July 6, the track indicated Iandfall 
+in Matagorda Bay, where the modeling remained 
+fairly consistent until Iandfall. 
+30N 
+1 PM Mon' 
+25N 1 AM Mon' K /~ 
+7 PM Fri 1 A~Sun/ 7·.U / 
+1 PM Sat/ 
+20N 
+9 
+=== PAGE 13 ===
+On Monday, July 8, at approximately 4 a.m., Hurricane Beryl made Iandfall as a Category 1 storm in 
+Matagorda Bay, Texas. Maximum sustained winds at Iandfall were reported at 80 MPH. The path curved 
+around the western part of the Houston Metro and continued through upper east Texas. By 1O p.m., Beryl 
+was in far east Texas and exited the state soon after. 
+40N UT 
+3 
+Note: i ne cone contains me Drotaole oath of the storm center but does not show 
+the size oT tne storm. Mazaraous conamons can occur outsiae, ir rne cone. 
+WY 
+CC 
+NM 
+4-7 AM Fri,' 
+4 
+~N < 
+w. ~f'~'~~~>u< 
+7 AMJbMV»e,n, 2 
+NE +AM Wed./ J I pA 
+-~FM Tue~ y·'' ~42L,~-h~/i·,vP,7.h*5 
+KY <f-j VA .~f 
+7 4M Tue# >7 207- TN 
+. lPM Upn - U 1 / MS AL GA 
+10 AM Sun 
+Mekico Y 
+OSN AZ 
+25N 
+84?muda 
+110W 1®\A 
+1 1 . OnespEN - . S · - k 
+1 100W 95W 90W O BfW -~~~75VrL' - 70W 65W 
+Tropical Storm Beryl Current information: x Forecast positions: 
+Sunday July 07,2024 Center location 25.9 N 95.1 W ~Tropical Cyclone 0 Post/Potential TC 
+10 AM CDT Advisory 36 Maximum sustained wind 65 mph Sustained winds: D < 39 mph 
+NWS National Hurricane Center Movement NW at 10 mph S 39-73 mph H 74-110 mph M > 110 mph 
+Potential track area: Watches: 
+Ch.Day l -3 e Day 4-5 Hurricane 
+Warnings: Current wind field estimate: 
+Trop Stm ~Hurricane ~Trop Stm ~Hurncane Trop Stin 
+Hurricane Beryl resulted in significant electric outages across southeast Texas. At the peak, there were 2.7 
+million hurricane-related outages. 
+There are a few reasons Hurricane Beryl had such a devastating impact on southeast Texas and the Greater 
+Houston area. High winds, heavy rainfall, vegetation issues, location of impact, and compounding impacts 
+from previous events all contributed. According to the National Weather Service (NWS), Hurricane Beryl 
+strengthened as it made Iandfall. The strongest winds associated with the thunderstorms in the eyewall 
+were more likely to make it to the ground and travel farther inland than they would have with a steady-
+state or weakening storm. Per the NWS: "Beryl as a CAT 1 actually produced stronger winds in the Houston 
+area than Hurricane Ike did as a CAT 2 Iandfalling hurricane and the eyewall with Ike went right over 
+Houston." 
+In addition, Beryl approached Houston from the southwest, placing the city on the storm's "dirty" side, 
+which has the highest winds, storm surge, and tornado threat. Heavy rains experienced in Southeast Texas 
+during the preceding winter and spring kept soils moist and made trees and vegetation more susceptible 
+to being uprooted. Trees and vegetation had also been weakened by recent cycles of freezing 
+temperatures in the winter and significant drought in the summers. The combination of these factors 
+resulted in considerable damage from Hurricane Beryl to electric infrastructure. The storm snapped power 
+poles and sent vegetative debris into power lines. 
+10 
+=== PAGE 14 ===
+<> 
+Source: Houston Public Media, Colleen DeGuzman Source: Canarv Media 
+Hurricane Beryl-Related Outages and Restoration Timelines 
+• Monday, Julv 8 - At 9 a.m. there were 1.5 million hurricane-related outages across the state. By 
+3 p.m. that number had increased to 2.7 million, and ERCOT reported damage to a little over 100 
+transmission circuits. All utilities affected anticipated this would be an extended multi-day 
+restoration event. 
+• Tuesday, Julv 9 - At 9 a.m. on July 9 there were 2.3 million hurricane-related outages, and ERCOT 
+reported 61 transmission circuits were still damaged. 
+• Wednesday, Julv 10 - On the morning of July 10 there were 1.7 million outages, bringing the 
+restoration total close to 1 million. 
+• Thursday Julv 11 - On July 11, 1.3 million outages remained, and utilities began giving estimated 
+restoration times. 
+• Friday, Julv 12 - Four days after Hurricane Beryl made Iandfall, approximately 1 million outages 
+remained across the state. 
+Beryl Outages 
+3,000,000 
+2,500,000 
+2,000,000 
+1,500,000 
+1,000,000 
+||hh.--
+500,000 
+0 
+7 / 8 7 / 9 7 / 10 7 / 11 7 / 12 7 / 13 7 / 14 7 / 15 7 / 16 7 / 17 7 / 18 7 / 19 
+11 
+=== PAGE 15 ===
+Restoration efforts continued over the next week. Outages steadily declined until July 19, when they fell 
+below 10,000. Restoration timelines varied widely among the utilities, depending on the number and 
+location of the outages. AEP Texas, Oncor, Sam Houston Electric Cooperative, and various other co-ops had 
+fully restored power to affected customers within a week of Iandfall. In the second week, Entergy, TNMP, 
+and CenterPoint fully restored power to their service territories. 
+1.4 Greater Houston Area Electric Service Providers 
+Investor-Owned Utilities (IOUs) 
+Investor-Owned Utilities (IOUs) are private companiesthattransport electricity from the generating power 
+plant to the consumer. IOUs with service areas in the greater Houston area include CenterPoint Energy 
+(CenterPoint), Entergy Texas (Entergy), Texas-New Mexico Power (TNMP), and American Electric Power 
+(AEP).These companies operate and maintain poles, wires, and substations. 
+Consumers 
+Some transmission direct to industrial 
+users 
+28*-*~t 
+Industrial 
+. 
+L]®]INL..G#* 
+5€%1:2» Residential 
+Generation Transmission Local Distribution .;3-i 
+Commercial 
+12 
+=== PAGE 16 ===
+Investor-Owned Utilities (IOUs) in the Greater Houston Area 
+V/A CenterPolnt 
+47726 The Woodlands 
+A 
+rd,> / F»+-1-t-+ / / h 
+Miles 0 10 20 San 6~f< 44 ll 
+~ 1 ~ Nation al Wttefhf@ 
+CenterPoint Energy 
+CenterPoint Energy ("CenterPoint") is an IOU that 
+serves the central Houston area. CenterPoint has 
+operated in Texas since January 1, 1906. The 
+company has approximately 2,753,976 points of 
+electric delivery and roughly 2,781 employees in 
+Texas. 
+6?ofin. 
+As an IOU, CenterPoint is regulated under the 
+Public Utility Regulatory Act (PURA).2 All rates 
+charged by CenterPoint for electric delivery service 
+must be approved by the Commission through a 
+ratemaking proceeding. CenterPoint's last full 
+ratemaking proceeding was in 2020/ with recent 
+interim adjustments in 2024 to reflect changes in 
+wholesale transmission costs4 and the legislature's 
+energy efficiency initiatives.5 
+CenterPoint currently has a pending rate case with the Commission. 
+In addition to rate regulation, PURA also tasks the Commission with oversight of CenterPoint's system 
+operations, including system reliability, safety, improvement and maintenance. The Commission has the 
+authority to impose administrative penalties of up to $25,000 against CenterPoint for each failure to 
+meet its service quality and system reliability standards, as well as any other failure to comply with 
+requirements under PURA, Commission rules, or the ERCOT Nodal Protocols.6 Over the past 10 years, the 
+Commission has fined CenterPoint $459,000 for violations of Commission rules, including $149,000 for 
+failures to meet standards for service quality.7 
+2 Public Utility Regulatory Act, Tex. Util. Code §§ 11.001-66.016. 
+3 Application of CenterPoint Energy Houston Electric, LLC for Authority to Change Rates, Docket No. 49421, Pina\ Order 
+(Mar. 9,2020). 
+4 Petition of CenterPoint Energy Houston Electric, LLC to Update its Transmission Cost Recovery Factor, Docket No. 
+56680, Notice of Approval (Jul. 25,2024). 
+5 Petition of CenterPoint Energy Houston Electric, LLC to Update its Energy Efficiency Cost Recovery Factor, Docket No. 
+55088 , Order ( Nov . 3 , 2023 ). See also PU RA § 39 . 905 . 
+6 PURA § 15.023(b). 
+7 Since 2014, the Commission has fined CenterPoint $149,000 for violations of the service quality metrics 
+established under PURA § 38.005(a) and 16 TAC § 25.52(g). However, it is important to note that the Commission's 
+ability to pursue administrative penalties for violations of 16 TAC § 25.52(g) is limited by the administrative penalty 
+cap of $25,000 per violation. See section 3.5 of the report. 
+13 
+=== PAGE 17 ===
+2Houston ..-------Q-. 
+Enterqv Texas 
+Entergy Texas ("Entergy") is an IOU that serves the 
+northeastern part of the greater Houston area. 
+The company was originally organized in Texas on 
+August 25, 1925. Entergy has approximately 
+511,718 utility customers in the state. 
+Entergy's current rates were approved by the 
+Commission on August 24,2023. 
+Over the past 10 years, the Commission has 
+imposed administrative penalties totaling $278,600 
+against Entergy, including $203,600 for failures to 
+meet system reliability standards. 
+San Bernard Miles 0 10 20 
+~771 Entergy National Wildlife 1 1 1 F? pfl,no 
+FREI TN M P j The Woodlands 
+C 
+/1 
+Texas-New Mexico Power (TNMP) 
+Texas-New Mexico Power (TNMP) is an IOU that 
+serves several areas of Texas, including two 
+portions of the southern greater Houston area. 
+I '1 l'(\ \ TNMP has been operating in Texas since January 1, 
+-_ljpouston- 1925 and has operated solely in Texas since 2006. 
+j The company has approximately 274,149 points of 
+- electric delivery and roughly 390 employees in 
+Texas. 
+/-293 
+\UA/A 
+TNMP's current rates were approved by the 
+Commission on December 20, 2018. 
+~ National Wildlife 
+F?Afi,np 
+Over the past 10 years, the Commission has 
+imposed administrative penalties totaling 
+$293,000 against TNMP for failures to meet system 
+reliability standards. 
+0 
+Miles 0 10 20 Sa-h Wernard 
+14 
+=== PAGE 18 ===
+[775| AEP Texas 
+&361 -t 
+The Woodlands ~ 0 
+American Electric Power Company (AEP) 
+American Electric Power Company (AEP) Texas is an 
+IOU that serves both North Texas and South Texas, 
+including the southwestern greater Houston area. 
+c*ouslon- AEP Texas was established through AEP's 
+acquisition of Central & South West Corporation in 
+1997. Central & South West formed in 1925. AEP 
+Texas has approximately 1,111,341 points of 
+electric delivery and 1,594 employees in Texas. 
+AEP's current rates were approved by the 
+Commission on October 3,2024. 
+San Bernard 
+National Wildlife 
+C?Afi,rl. 
+Over the past 10 years, the Commission has 
+10 20 imposed administrative penalties totaling at least 
+I I $821,000 against AEP Texas, including $540,000 for 
+failures to meet service quality standards. 
+Electric Cooperatives and Municipally Owned Utilities 
+Electric transmission and delivery services across Texas can also be provided by electric cooperatives and 
+municipally owned utilities (MOUs). An electric cooperative is an entity created by an agreement of 
+consumers in a designated area to distribute electricity. There are 32 member-owned electric cooperatives 
+in the greater Houston area governed by elected boards - for example: San Bernard Electric Cooperative, 
+Inc., Mid-South Electric Cooperative Association, and Sam Houston Electric Cooperative, Inc. There are 30 
+municipalities that own and operate utilities in the greater Houston area, including Bellville Light & Power 
+System, City of Hempstead, and City of Liberty. The PUCT does not have retail rate-setting authority over 
+electric cooperatives or MOUs. However, the PUCT does have limited appellate authority for the retail 
+rates of MOUs. 
+70 
+Miles 0 
+15 
+=== PAGE 19 ===
+2.0 Impacts of Power Outages Following Hurricane Beryl and Derecho 
+Event 
+2.1 Texans' Lived Experience 
+To get public feedback about outages and restoration, the PUCT used an online questionnaire, reviewed 
+complaints submitted to its Consumer Protection Division (CPD) and held a workshop in Houston. The 
+strong response provides the PUCT valuable insight from each of these efforts, as detailed below. 
+Questionnaire: 
+The online questionnaire asked individual customers and small businesses about duration of outages, 
+impact of theoutages on daily life, and communications from electric service providers. The questionnaire 
+was available on the PUCT's website from August 1 until October 10, 2024, and the PUCT received 16,560 
+responses. Respondents to the questionnaire were overwhelmingly dissatisfied with the preparedness 
+and response of electric service providers. Customers report outages ranging in duration from less than a 
+day to over 16 days. The largest category of respondents reported three to seven days without power. 
+Hardships included spoiled food and medication, temporary relocations, unplanned purchases, health 
+risks, financial strain, and discomfort. Respondents also expressed appreciation for the efforts of line 
+workers and the support from neighbors and community members. 
+Impact of Outages on Daily Life 
+Many people described losing all the food in their refrigerators and freezers, as well as refrigerated 
+medications, such as insulin. Health risks due to loss of refrigerated medications and inability to operate 
+electrically powered medical devices were key concerns. Some used personal generators or relocated to 
+locations with power to safeguard their health. Lack of reliable communication and updates from electric 
+service providers exacerbated the situation, making it difficult to plan and to manage medication needs. 
+People also discussed significant financial impacts stemming from the power outages. There were many 
+reports of financial strain associated with: 
+• Cost to replace lost refrigerated food and medication; 
+• Unplanned purchases of generators and other emergency preparedness equipment; 
+• Lost income due to inability to work or operate businesses; 
+• Costs of temporary relocation 
+16 
+=== PAGE 20 ===
+Did you experience any of the following due to a loss of power? 
+16,000 
+14,000 -
+12,000 
+. 
+y 10,000 
+C 8,000 0 
+K 6,000 
+4,000 
+.. 0 
+Food or medicine Temporary Unplanned Unable to operate Delayed delivery of 
+spoiled due to relocation due to purchase of a medical or other time-sensitive 
+failure of lack of power at generator or other healthcare-related products or 
+refrigeration your home emergency equipment materials 
+preparedness 
+equipment 
+Impacts from the outages were particularly hard on vulnerable individuals, including the elderly, 
+individuals with fixed or low incomes, and those with specific medical needs or mobility impairments. 
+Some quotes from questionnaire respondents highlighting the impacts of the outages are included below: 
+I am 74 with respiratory issues and I had several episodes where I had to get in my vehicle 
+to use my CPAP machine. The intense heat affected my heart condition as well. 
+We lost food and refrigerated medication due to the power outage. My husband has 
+diabetes and heart problems, and we didn't have lights for ten miserable days. 
+[M]aintaining the generator was a significant burden physically, mentally, and financially. 
+I devastatingly lost thousands Of dollars' worth Of refrigerated fertility medication that I 
+paid for out Of Pocket. As a cancer patient trying to start a family, losing my medicine has 
+caused more undue burden and financial stress for my family. 
+In addition to not being able to work for an entire week, the only viable option was for me 
+to use all Of my leave balance to receive compensation for the missed days. 
+Areas for Improvement 
+Respondents overwhelmingly noted communications from electric service providers as the biggest area 
+for improvement. Lack of reliable and accurate communication was the main issue faced during the 
+Hurricane Beryl and derecho power outages. Morethan a third of respondents indicated they never heard 
+from their electric service provider. Those who did reported receiving less than one communication per 
+17 
+=== PAGE 21 ===
+day. When they did receive communications, the information was often vague or inaccurate and did not 
+provide specific timelines for power restoration. Respondents noted: 
+CenterPoint emailed us to say our power was out on... the 9~h...and then told us it was 
+restored on the 10th when it wasn't. It was stressful thinking that they might think our 
+power was on when it wasn't. 
+Two texts were received after power loss which indicated that the power to my home had 
+been restored - that was on day one - but power was out and continued to be out for five 
+days. 
+Generic non-answers. No specifics. No explanation. No believable estimates for service 
+restoration. 
+Communication is key in a crisis. The failure to communicate clearly what was happening 
+created a great deal Of stress. 
+The questionnaire responses also indicated that one of the most significant issues with communication 
+was CenterPoint's often non-functioning and inaccurate outage map. The issues with CenterPoint's outage 
+map are described in more detail in Section 3 . 2 - Customer Communication and Coordination . 
+Workshop: 
+The PUCT conducted a workshop on October 5,2024 in Houston that included four hours of public 
+comment from 30 attendees. The individuals told personal stories about their experiences during 
+Hurricane Beryl, the derecho, and with power outages over the years. Nearly everyone noted the 
+persistent stress of power outages, as well as a loss of trust in CenterPoint's ability to adequately handle 
+severe storms. Even those with backup generators expressed concern about their growing reliance on 
+generators and affordability. Many recommended a thorough review of CenterPoint's rates and the 
+performance of CenterPoint's Temporary Emergency Electric Energy Facilities during Hurricane Beryl. 
+Many commenters had to rely on themselves or neighborsto provide necessary relief or information given 
+the widespread communication issues during the outages. Commenters also called for increased 
+coordination with local communities. Many suggested that electric service providers use fewer contractors 
+when responding to severe weather events. Commenters said that in-house workers are likely to know 
+the local communities better. 
+Customer Complaints: 
+The PUCT's Consumer Protection Division (CPD) received over 2,000 complaints related to Hurricane Beryl 
+and the derecho. Complaints against electric utilities described outages, hazardous conditions, inability to 
+report or receive information, and consumption charges while the customer was without service. 
+Complaints against REPs described inability to reach customer representatives and inaccurate billing for 
+service when consumers had no power. Complaints concerning water service described outages and 
+inability to report or receive information. Complaints concerning telecommunications described service 
+18 
+=== PAGE 22 ===
+outages, butthe numberof complaints was minimal. The PUCT continuesto receiveand address consumer 
+complaints stemming from the power outages. 
+2.2 Impacts to Water Utilities 
+Water and sewer utilities are largely dependent on electricity to provide service to their customers. Power 
+is needed to operate pumps and other equipment used to make water safe for consumption. For this 
+reason, these facilities are considered critical loads underthe Commission's rules. 
+A water utility isthe companythat owns and operates a water or sewer system. A single utility mayoperate 
+multiple water or wastewater systems in different areas or may operate only one system. To determine 
+how water and sewer utilities prepared for and responded to Hurricane Beryl and the May 2024 derecho, 
+Staff issued requests for information (RFIs) to the 20 largest utilities operating public water or sewer 
+systems in impacted counties: PUCT Staff received responses from 14 of the selected utilities. Because 
+utilities emphasizedtheir experience with Hurricane Beryl intheir responses, the discussion below focuses 
+on this storm rather than the derecho. 
+Emergency Preparation 
+Most water and sewer utility managers perform pre-storm site walkthroughs to ensure their facilities are 
+ready for forecasted severe weather. During a physical site inspection, water operators or other utility staff 
+secure or remove itemsthat could be damaged dueto high winds or flooding. Overflow tanks are emptied 
+to ensure maximum retention during severe weather. Ground tanks are filled with potable water to ensure 
+continuous and adequate service during and immediately after a disaster. Finally, utility staff ensure that 
+any backup generators are tested and topped off with fuel and water treatment tanks are topped off with 
+sufficient chemicals. 
+The majority of the water and sewer utilities contacted by PUCT Staff have their own backup generation 
+at critical facilities. Following Winter Storm Uri, the Texas Legislature passed legislation (SB 3 (2021,87th 
+Leg., R.S.) that set standards for how a wateror sewer utility can ensure continuous and adequate service. 
+Texas Water Code (TWC) § 13.1394(c) requires affected utilities to adopt an emergency preparedness plan 
+using at least one of thirteen specified methods to ensure continuous and adequate service during an 
+extended power outage. Water and sewer utilities can either install permanent backup generators or 
+provide reasonable alternatives to such measures to ensure continuous and adequate service during an 
+extended power outage.9 
+Effects of Hurricane Beryl 
+Many of the contacted water and sewer utilities had access to either mobile generation facilities or had 
+permanently installed backup generators at critical facilities. As a result, disruptions were generally limited 
+to facilities that experienced mechanical or operational failures with existing backup generators or were 
+8 See the appendix for the list of impacted counties. 
+9 TWC § 13.1395(d)(2 
+19 
+=== PAGE 23 ===
+delayed while mobile generation facilities were connected. Aqua Texas and Undine, LLC experienced the 
+greatest numbers and Iongestdurations of disruption of service, due in large partto an insufficient number 
+of mobile generators.10 
+Aqua Texas operates 107 water systems in the selected counties.11 Permanent backup generation is 
+installed at 34 of those systems. The remaining 73 water systems were left to share 18 mobile generators 
+in Aqua Texas's fleet (plus any mobile generators that could be acquired after the hurricane) to power 
+critical facilities. Service was interrupted for 72 hours for some Aqua Texas customers as generators were 
+relocated from systems that already had electric service restored.12 
+Undine, LLC operates 87 water systems in the selected counties. Undine, LLC obtained an additional five 
+mobile generation facilities (at a reported cost of $300,000) to assist with its restoration efforts in the 
+immediate aftermath of Hurricane Beryl. In several instances, Undine's customers were only able to be 
+returned to service once mobile generators were released from a different Undine water system. 
+CSWR-Texas has installed permanent backup generators at all critical facilities supporting the water 
+systems it operates.13 One backup generator ran for 360 hours (15 days) while waiting for electric service 
+to be restored. 
+Both mobile generation and permanent onsite backups are permissible approaches for emergency 
+preparedness plans under Texas Water Code §13.1394(c). The decision to use mobile generation instead 
+of installing permanent backup generators at each critical facility is likely economically efficient. However, 
+water and sewer utilities should carefully consider the proper ratio of generators owned or obtainable 
+through contractual agreement and thetotal number of facilities that could require backup power. A ratio 
+of one mobile generator for every four water systems - not facilities - likely requires reassessing.14 
+Challenges to Service Restoration 
+Water and sewer utilities also reported frustration with the level of communication with their electric 
+utilities. Lack of access to a priority contact method with the electric utility resulted in water and sewer 
+utilities reporting outages in the same manner as an individual customer. For example, Quadvest 
+commented that their electric utility's automated system would not permit information to be entered for 
+morethan three addresses per call.15 Due to this limitation, Quadvest had to place 18 calls to the electric 
+utility to report all 54 of their systems affected by Hurricane Beryl.16 
+10 A water and sewer utility may operate multiple public water systems or sewer systems in different areas. 
+11 The selected counties for the water and sewer RFIs were Austin, Brazoria, Chambers, Colorado, Fort. Bend, 
+Galveston, Harris, Liberty, Matagorda, Montgomery, Waller, and Wharton Counties. 
+12 Id. 
+13 RFI 1-4(f). 
+14 RF[ 1-8(b) 
+15 RFI 1-16. 
+16 See generally, RFI 1-3 
+20 
+=== PAGE 24 ===
+Resilience and Lessons Learned 
+A water and sewer utility's ability to provide continuous and adequate service to its customers is tied to 
+its access to reliable electricity. Water and sewer utilities contacted as part of this investigation leveraged 
+permanent backup generation, mobile generation, or a mix of the two. The water and sewer utilities that 
+experienced the shortest interruptions tended to have either permanently installed backup generators or 
+enough mobile generators to cover all critical facilities. 
+• Review of Emergency Preparedness Plans to Determine Needs Are Adequately Addressed: 
+Water utilities should ensure their emergency preparedness plans account for the number of 
+mobile generators necessary to provide coverage for all critical facilities. Several water systems 
+experienced prolonged disruptions while waiting for mobile generators to become available and 
+relocated. Utilities should also consider re-evaluating contractual agreementsto obtain additional 
+mobilegeneratorsduring emergencies to account fora possibleshortage of available units during 
+times of high demand. 
+2.3 Impacts to Telecommunication Utilities 
+The telecommunications market in Texas is made up of voice, broadband, and cable and video services. 
+The Commission only regulates the intrastate rates and services of certain providers of Iandline service. 
+Other telecommunications services, including broadband and wireless service, are regulated by the 
+Federal Communications Commission. For purposes of this report, the Commission issued requests for 
+information to all telecommunications service providers operating in Texas that may have been affected 
+by Hurricane Beryl. 
+The telecommunication sector is critical for ensuring continuity of electric service during and after severe 
+weather events due to its interdependence with electric utility operations. Electric utilities rely on 
+telecommunications for real-time coordination with field teams during a restoration event. Conversely, 
+the telecommunications networks depend on power from utility services to function. Without effective 
+communications systems, electric utilities face delays in restorations, while telecommunications utilities 
+need stable electric service to maintain their networks. 
+Effects of Hurricane Beryl 
+Telecommunications providers in the Greater Houston Area experienced widespread service disruptions 
+from Hurricane Beryl, mainly due to infrastructure damage and electricity outages. Disruptions began on 
+July 8 and lasted through July 16 for most providers. Nextlink restored services within days, while 
+Spectrum/Charter (Charter) fully restored service by July 9. AT&T faced significant restoration challenges 
+and achieved full recovery of wireless services by July 14 and wireline by July 18. 
+AT&T saw impacts to both wireless and wireline services affecting about 915,000 customers, with 11 
+counties operating at less than 80% capacity. AT&T also reported 351,000 customers with Voice/VoIP 
+numbers were affected. A substantial portion of AT&T's service outages were attributable to 
+infrastructure damage - 164 poles, 270,000 feet of fiber cable, and 120,000 feet of copper cable were 
+affected. However, 75% of the impacted infrastructure could be rehung without replacement. 
+21 
+=== PAGE 25 ===
+In contrast, smaller telecommunications companies such as Astound Broadband, Nextlink, and Charter 
+experienced disruptions that were attributable to electricity outages, affecting approximately 620,000 
+customers. Astound and Nextlink reported minimal damage to infrastructure. 
+Challenges to Service Restoration 
+A major challenge for many telecommunications providers was the need to coordinate with electric 
+utilities to restore power to telecommunications infrastructure. AT&T had representatives embedded 
+within emergencyoperations centers and maintained direct communication with IOUs such as CenterPoint 
+and Entergy. However, coordinating these efforts was often slow due to the unclear prioritization of 
+telecommunications by electric utilities. Additionally, smaller telecommunications utilities were not 
+proactively contacted by electric providers and made multiple unsuccessful attempts to communicate 
+restoration needs. 
+Telecommunications utilities also faced issues repairing infrastructure damage and refueling backup 
+power sources due to sustained inclement weather and right-of-way obstructions. Telecommunications 
+companies faced access issues due to road closures, fallen trees or road debris, and unsafe working 
+conditions. These challenges prevented timely infrastructure repair and complicated refueling of backup 
+power sources. AT&T field crews, for example, were often unable to safely deploy immediately after the 
+storm due to high winds and other dangerous conditions. These delays impeded access to critical 
+infrastructure and hampered the speed of recovery efforts. 
+Logistical challenges related to refueling generators and deploying additional temporary backup units 
+posed significant hurdles. The ability to deploy and maintain backup power was crucial to maintaining 
+operations during the electricity outages. AT&T kept thousands of cell tower sites online using on-site 
+backup and temporary generators. AT&T had dedicated teams periodically refueling these generators. In 
+contrast, Astound used 150+ backup power supplies that had to be constantly monitored and refueled 
+on an ad hoc basis. Theongoing need for fuel andthe risk of generator failurescreated additional pressure 
+during the restoration process. 
+Resilience and Lessons Learned 
+Telecommunication utilities rely on a combination of backup power systems, redundant infrastructure, 
+and proactive disaster planning to minimize service disruptions during severe weather events. These 
+resilience measures are critical to ensuring that customers-especially those in vulnerable and essential 
+services-remain connected. Hurricane Beryl revealed numerous opportunities for telecommunications 
+utilities to improve preparedness and response procedures for future events. 
+• Importance of Maintaining Backup Power Systems: 
+Hurricane Beryl emphasized the need for adequate and sustained backup power. AT&T and 
+Astound were able to keep much of their network operational with extensive use of backup 
+generators, but prolonged outages showed the limitations of current systems. In some cases, 
+battery systems provided only a limited window of service continuity, which prove insufficient 
+22 
+=== PAGE 26 ===
+during extended outages. Proactive maintenance of backup power like testing and maintaining 
+adequate reserves of fuel can minimize storm-related network issues. Providers should consider 
+increasing the capacity and duration of backup power systems to handle longer power outages 
+and incorporate more rigorous proactive maintenance. 
+• Improved Coordination with Electric Utilities: 
+Effective coordination with electric utilities was essential for timely power restoration and, by 
+extension, network recovery. AT&T's pre-storm engagement with CenterPoint and Entergy was a 
+key factor in reducing service disruption. Improved pre-storm coordination can expedite 
+recovery and reduce telecommunications service disruption. 
+• Rapid Deployment of Field Teams: 
+Quick mobilization of trained field teams played a significant role in the restoration of 
+telecommunications services. AT&T reported that pre-positioning of disaster recovery teams 
+near high-risk areas enabled faster repairs and generator refueling once conditions permitted. 
+Providers should continue to invest in mobile disaster recovery assets and ensure that personnel 
+are trained and equipped to work under challenging conditions. 
+2.4 Impacts to Retail Electric Providers 
+In the ERCOT region, consumers that are not served by an MOU or electric cooperative have a choice of 
+retail electric provider (REP). REPs buy power from power generators and sell power to consumers. REPs 
+also manage the retail relationship with the consumer, including billing and customer service. Investor-
+owned transmission and distribution utilities (TDUs), like CenterPoint, are responsible for maintainingthe 
+infrastructure that physically delivers power to the end-use customer. This means that a REP must rely on 
+the TDU for information regarding physical conditions on the transmission and distribution system that 
+could impact the REP's individual customers. 
+In August 2024, Commission Staff submitted voluntary requests for information (RFIs) to REPs to assess 
+REP experiences during the May 2024 derecho and Hurricane Beryl. Thoughthe RFIs focused onthese two 
+storms, the REPs' responses highlighted general patterns and issues that could occur in any similar 
+emergency. Consistent outreach efforts during both emergency events, the REPs had difficulty contacting 
+the TDUs. In addition, the little information the TDUs provided to the REPs was unsatisfactory. REPs largely 
+relied on TDU websites and local news reports for general restoration information. REPs could not obtain 
+premise-specific information on outage status or times of restoration for customers. 
+The REPs communicated any information they did receive from the TDUs orthrough other outlets to their 
+customers. REPs equipped customer relations employees with general information to field customer 
+questions on topics such as power outages, recovery updates, available payment assistance, and invoices 
+with estimated reads. Additionally, REPs used social media posts, press releases, emails, web page 
+updates, and account updates to relay information to customers. 
+REP communications to customers before the storms largely focused on storm preparation. During and 
+after the storms, communications with customers shifted to providing outage information and recovery 
+resources. Questions to REPs about outages and restoration efforts were most common from customers 
+in CenterPoint's service territory because CenterPoint was not easily accessible and struggled to maintain 
+23 
+=== PAGE 27 ===
+a functioning outage tracker. As recovery continued, communications pivoted to providing customers with 
+information regarding availability of payment assistance and usage data for billing purposes. For example, 
+REPs reported many instances of customer inquiries regarding charges for usage when electric service was 
+out. For such instances, the REPs focused on confirming the TDU was aware of the outage, informing 
+customers that the TDU was correcting any inaccuracies, and assuring customers that the REP would not 
+assess charges for usage when electric service was out. 
+Responding REPs overwhelmingly indicated thatthe main issue faced by REPs before, during, and afterthe 
+storms was the lack of timely, accurate outage information from the TDUs. REPs highlighted the absence 
+of an operational online outage tracker map, the inability of customers to successfully report outages to 
+the TDUs, and the absence of information regarding location of outages and estimated restoration times. 
+Timely, accurate outage information from TDUs is valuable because such information enables REPs to 
+provide meaningful responses to customerquestions aboutoutages. Manycustomers who contacted REPs 
+wanted restoration timing estimates and confirmation that the customer's TDU knew about the 
+customer's premise-specific outage. Because such information is not conveyed to REPs, communications 
+between REPs and their customers were challenging. 
+The Commission is pursuing some communication-related solutions through rulemakings.17 
+17 Electric Utility Outage Trackers and Hazardous Condition Reporting, Projed No. 56897 lpending); Provision of 
+Emergency Contact Information to Transmission and Distribution Utilities by Retail Electric Providers, Project No. 
+56898 (pending). 
+24 
+=== PAGE 28 ===
+3.O Assessment of Utility Emergency Preparedness and Response 
+3.1 Emergency Preparedness and Response Planning 
+Commission rules require electric service providers to maintain minimum levels of preparedness for 
+emergencies. Utilities, TDUs, power generation companies, MOUs, electric cooperatives, REPs, and ERCOT 
+must file emergency operation plans (EOPs).18 EOPs are a key component of an emergency management 
+program. They establish the overall authority, roles, and functions performed during an emergency event 
+or incident. Under Commission rules, an entity must continuously maintain its EOP.19 An entity also must 
+include certain information in its EOP, including common operational functions that are relevant across 
+emergency types and annexes (e.g., hurricane annex) that outline the entity's response to specific types 
+of emergencies.20 An entity is required to conduct or participate in at least one drill each calendar yearto 
+test its EOP unless the entity has activated its EOP in response to an emergency that calendar year.21 
+Following an annual drill, the entity must assess the effectiveness of its emergency response and revise its 
+EOP as needed.22 
+Hurricane and Major Storm Drills 
+The format of annual hurricane drills varied considerably both within and across the utility classifications. 
+The majority of IOUs conducted atabletop hurricane drill in 2024.23 The most commonlydrilled conditions 
+were Category 3 storms (111-129 mph winds) making Iandfall in or near the provider's service area. Drills 
+were generally conducted as tabletop exercises, involving a series of discussions focused on how to 
+implement aspects of the EOP to address the conditions contemplated for the drill. Condition sets were 
+often based on previous major regional storms. For example, CenterPoint based its 2024 drill on storm 
+surge and wind speed conditions of Hurricane Gilbert (1998) and outage figures from Hurricane Ike 
+(2008).24 Fewer than 20% of the contacted electric service providers conducted an operations-based or 
+functional exercise as part of their annual hurricane or major storm drill. 
+IOUs generally excluded external participation in their hurricane drills. However, IOUs were more likely 
+than MOUs and co-ops to invite third parties to observe at least a portion of their drill. 
+Just over 25% of the contacted MOUs and 54% of co-ops conducted hurricane drills. Five co-ops reported 
+that responses to eitherthe May 2024 derecho or Hurricane Beryl served in place of conducting a separate 
+hurricane or major storm drill. MOUs and smaller co-ops were more likely to have static drill conditions 
+(i.e., the overall format of the drill either does not change or has minimal adjustments year-to-year) than 
+the IOUs. 
+18 See 16 Tex. Admin. Code (TAC) 25.53. 
+19 /d 
+20 Id. 
+21 /d. 
+22 Id. 
+23 Oncor did not conduct a hurricane drill but does conduct major spring and winter storm drills. See RFI 1-1 
+24 CenterPoint's response to Staff RFI 1-1 
+25 
+=== PAGE 29 ===
+CenterPoint adjusts its hurricane drills year-to-year.25 CenterPoint conducted its 2024 hurricane drill as a 
+tabletop exercise. The conditions experienced in Hurricane Beryl were not markedly different from the 
+condition set used in the company's 2024 hurricane drill. 
+CenterPoint's 2024 Hurricane 
+Drill Test Conditions 
+Hurricane Beryl's actual 
+effect on CenterPoint 
+Category 3 storm 
+125 mph wind speed 
+150 mph gusts 
+2.1 million affected customers 
+Category 1 storm 
+80 mph wind speed 
+97 mph gusts 
+2.2 million affected customers 
+Performance during CenterPoint's 2024 drill was measured by participants' identifications and use of 
+plans, processes, or procedures that addressed drill injects, issues, and areas for improvement. Drill 
+participants stated that CenterPoint's drill conditions were plausible and realistic. After participating in the 
+drill, all participants reported feeling better prepared to deal with the capabilities and hazards addressed 
+in the drill. Additionally, 91% of participants reported increased understanding about and familiarity with 
+CenterPoint's response procedures, resources, and capabilities. Participants also reported that the drill 
+was well-structured, organized, and allowed for good collaboration and open communication. Overall, 
+CenterPoint considered the 2024 drill a success. 
+External participation in hurricane and major storm drills 
+Manyof the contacted electric service providers restricted participation in hurricane and majorstorm drills 
+to the provider itself and its subsidiaries. Only three electric service providers invited unaffiliated parties 
+to participate in their 2024 hurricane and major storm drills. For example, Hemphill City Government 
+invited county emergency management officials, area hospitals, and eldercare facilities to participate in its 
+hurricane drill. South Texas Electric Cooperative, which serves as the transmission service provider ESP) 
+for nine member cooperatives, extended invitations to all of its member utilities. Entergy invited Edison 
+Electric Institute to observe its 2024 hurricane drill, but it did not invite its MOU customers to participate 
+in the hurricane drill. 
+Several electric service providers cited confidentiality concerns centered around the provider's EOP as the 
+reason for limiting participation. As an alternative to external participation in drills, some electric service 
+providers attempted to incorporate feedback received from customers after major weather events into 
+future drills. 
+CenterPoint, like most electric service providers contacted in this investigation, restricted participation in 
+its hurricane drill to internal personnel.26 The City of Houston reported, for example, its last participation 
+25 CenterPoint conducted an operation-based drill in 2023. 
+26 CenterPoint reported that it had invited local governments, trade associations, and eldercare facilities to 
+participate in previous drills. 
+26 
+=== PAGE 30 ===
+in a hurricane preparedness exercise with CenterPoint was a panel discussion in May 2020.27 Restricted 
+participation limits assessment of communication strategies. Without external participation, an electric 
+service provider can only assess whether a message was delivered or speculate about customer 
+expectations. Importantly, the provider cannot assess whether the drill communication achieved the 
+desired result. For example, CenterPoint included a scenario in its 2024 hurricane drill in which customers 
+compared the restoration efforts taken to address the fictional storm to restorations to previous 
+thunderstorms: 
+~CenterPoillt. 
+Energy '. 
+Discussion Questions . 4 
+4$*5:WAi? 
+• Customers are comparing the restoration to previous 
+thunderstorms they have experienced and do not understand 
+why it is taking so long to restore outages. 
+• Communications: What are our communication topics and how can we 
+get ahead of the distrust in our restoration efforts? 
+• Operations: What is our processes for restoration timeline estimations? 
+• How is that shared with the public? 
+. Do we leverage our government officials to help us convey our message, and is 
+this done proactively pre-storm? 
+Despite testing for how to address customer expectation concerning restoration efforts, CenterPoint was 
+unprepared for how to address similar sentiment during its response to Hurricane Beryl. 
+Operation Condition Systems and Emergency Operations Plans 
+Nearly 70% of the contacted utilities use a multi-tiered operation condition system (OCS) in addition to an 
+EOR An OCS sets out clear steps for a utility to follow based on specific operating conditions, like 
+percentage of customers without power or the duration of outages. Most contacted utilities had several 
+OCS Mers that are designed to be activated before the EOR This design allows utilities to handle minor 
+disruptions without requiring a major interruption to normal operating procedures. 
+A key difference between OCSs and EOPs is that an OCS does not necessarily specify roles for individuals. 
+When an EOP is activated, an individual may be assigned a specific task that differs from that person's 
+usual duties. For example, Wharton County Electric Co-Op reported that during Hurricane Beryl, its 
+Operations Chief managed the workflow of mutual assistance and in-house crews. Duties included 
+handling lodging (and cooking for the crews) and serving as a contact for the media and government 
+officials. By contrast, an OCS might address a relatively minor issue by shifting crews instead of shifting 
+divisions, allowing the utility to continue normal operations during resolution. 
+27 City of Houston response to Commission staff's first request for information to local governments, Project 
+Number 56822. 
+27 
+=== PAGE 31 ===
+Commission Staff reviewed several OCSs that required activation of the EOP toward the final stage of the 
+OCS. This means assessing a utility's preparedness solely based on when it activated its EOP may overlook 
+important pre-EOP steps. For example, confirming availability of preferred contractors, contacting mutual 
+assistance organizations, and recalling critical personnel may occur in the second tier of OCS, before the 
+EOP is activated. CenterPoint, which uses two distinct OCSs, activates its EOP only when conditions reach 
+the third of four possible Mers of its transmission system-specific OCS. CenterPoint activated its EOP on 
+July 6,2024 - two days before Hurricane Beryl made Iandfall. However, response preparation within 
+CenterPoint's Emergency Preparedness and Response Team (EP&R) began as early as June 25, 2024 (13 
+days before Iandfall, 11 days before EOP activation) and calls to line workers were made on July 2,2024 (6 
+days before Iandfall, 4 days before EOP activation). 
+Storm Tracking 
+Better technological storm tracking tools generally meant storms could be tracked earlier and more 
+accurately. At minimum, most utilities used a mix of local news and national weather services as part of 
+their storm tracking programs. The overwhelming majority of the IOUs and approximately half of the 
+electric cooperatives use advanced storm tracking resources, like StormGeo or Ventusky. Advanced storm 
+tracking resources aggregate weather-related data from multiple national and international weather 
+services. These resources allow the progression of weather systems to be modeled beyond a medium 
+range (6 days out) forecast. Utilities that relied solely on local and national weather services generally 
+began tracking Hurricane Beryl two to five days later than utilities leveraging more advanced tracking 
+services. CenterPoint used a combination of storm tracking resources, including StormGeo, national 
+weather services, and the Harris County Office of Homeland Security Emergency Management Tropical 
+Awareness Update. 
+Most of the OCSs and EOPs reviewed by Commission Staff used either location of a storm or estimated 
+time to Iandfall as trigger mechanisms for escalating conditions to a higher degree of system readiness. 
+Utilities that implemented strategies to track storms by location (e.g., as they entered the Gulf of Mexico) 
+tended to react and prepare for Hurricane Beryl faster than utilities that tracked storms based on 
+estimated timeto Iandfall. IOUstended totrack storms based on location instead of timeto Iandfall, while 
+MOUs and smaller co-ops were more likely to track storms based on estimated time to Iandfall. Notably, 
+most IOUs acted on storms significantly earlierthan MOUs and smaller co-ops. 
+28 
+=== PAGE 32 ===
+'AKOTA 
+IOWA ch)¢ago• T-
+IANSAS M./UR 
+OKLAHOMA 
+BC-Tue Jul 9 IPM 30mph 1005mb 
+f /NN.5[! 
+Tue Jul9 4:AM 30mph 1004mb Atlanta• b,o, 
+AJ,~8AMA GEO~GIA 
+Mon Jul 84PM 45mph 993mb 
+*.*A / 
+33 X , 
+Mon Jul 8 4AM 80mph Ca 
+~ -Sun Ju:74PM 65mph 9 
+A ~un Jul 7 4AM 60mph 
+UD{t. 
+id de 
+dco 
+T/0/?A 
+Sat Jul 6 4P M 60mph 997mb 
+, Sat Jul 6 4AM 6{mph 1001 mb 
+~_ 'Fri Jul 5 4PM 65mph 989mb 
+:F/ Jul 5 4.AM 11 Omph Cat 2 971mb 
+/ - ~ _Tk..1.I I ADL~ .4A..·...~ 
+. e-Thu Jul 11 7AM 30mph 
+Torontc~..•' 
+O-Wed Jul 10 loPM 35mph 1003mb 
+5.CHUSEMS 
+\Wed Jul 10 4PM 35mph 1001mb 
+04AM 30mph 1000mb 
+Washil,gto~•i 
+~IRGINIA 
+iRIM CAROUNA Qllillilill 
+Ilaml • 
+CUBA 
+--Thu Jul 4 4AM 120mph Cat 3 968mb PUERTO RICO· sTMARTIN 
+~ '--<,-2-Wed Jul 3 4PM 140mph Cat 4 959mb 
+~.tld Jul 3 4AM 145mph Cat 4 946,nbONTSERRAT 
+I •-I -Tue J ul 2 4PM 155mph Cat 4 943mb 
+~ -I-1.-~~.Tue Jul 2 4AM'f656*h Cat 5 935mb 
+IMon Jul 1 4PM 150mph Cat 4 944mb 
+'-I_~!NT VINCENT A 'Mon Jul 1 4AM 120mph Cat 3 965mb -~RENAD,N 
+CURAQAO ,Sun Jun 304PM 130mph Cat 4 960mb GRENn 
+/ Sun Jun 30 4AM 100mph Cat 2 981mb 
+Caraca.• TRINIDAD , Sat Jun 29 4PM 75mph Cat 1 992mb ANDTOBAGO °--·C»--=ML Jun 294AM 50mph 1001,nb 
+F/Jun 28 4PM 35mph 100/mb 
+BEL-
+'--'---'"'*A GUATEMALA 
+~ COSTA RICA 
+PAN 
+Outage Tracker Testing 
+Thirty-three of the contacted electric service providers have an outage tracker that allows a customer to 
+determine whether a home or business is experiencing an outage. For this purpose Cloud-based systems 
+are often preferred over server-based systems because they can be scaled more easily to address surges 
+in demand.28 Commission Staff found that outagetrackers are not meaningfullytested as part of pre-storm 
+preparation and tracker disruptions were not incorporated into hurricane drill condition sets. 
+Utilities that had external-facing outage trackers generally review these systems on a daily or weekly basis. 
+However, daily checks are not meaningful replacements for pre-storm checks. Daily checks confirm system 
+availability and accuracy but don't necessarily test accessibility and capacity. For example, a daily check 
+of a system might involve attempting to trip a set of test circuits to see if the information flags on the 
+tracker. Stress tests help determine how many users can accessthetracker simultaneously before it begins 
+to fail. 
+Many utilities - especially coops and MOUs - do not incorporate outage tracker testing into system 
+readiness operations before a hurricane or major storm. Only three MOUs and 18 coops tested their 
+outage trackers (external and internal) as part of their pre-hurricane season or pre-storm preparations. 
+TNMP did not test its outage tracker in advance of hurricane season or as part of pre-storm preparations, 
+relying instead on daily monitoring. Oncor conducts internal tests on its cloud-based outage tracker29, but 
+28 Cloud-based systems in other industries have been contacted by distributed denial-of-service (DDoS) attacks, 
+which serve to disrupt the functionality of the system by overloading its capacity. 
+29 Oncor'S response to RFI Staff 1-8 
+29 
+=== PAGE 33 ===
+does not stress test its tracker. However, Oncor does alert its vendor about the potential for heightened 
+traffic on the outage tracker in advance of major weather events. 30 CenterPoint used an on-premises, 
+server-based outage tracker until August 1, 2024. This tracker underwent monthly testing consisting of 
+taking primary servers down and routing the program through the backup server. However, CenterPoint 
+had never load tested its server - based outage tracker . As detailed in Section 3 . 2 - Communication and 
+Coordination , CenterPoint ' s outage tracker failed during the May 2024 derecho and Hurricane Beryl 
+because its servers could not handle the increased traffic. 
+None of the utilities reported incorporating outage tracker disruptions as part of the condition in their 
+hurricane or major storm drills. 
+Pre-Storm Communications 
+Post-Iandfall communication with local and state officials are generally addressed in significant detail (with 
+regard to frequency, duration, and content) in a utility's EOR However, few EOPs addressed a utility's 
+communication strategy or process with critical loads and government officials as part of pre-storm 
+preparation . As discussed in Section 2 . 2 - Impacts to Water Utilities , none of the contacted water utilities 
+reported being contacted by their electric utilities (generally utilities in the larger classification in this 
+section) before Hurricane Beryl. 
+Many contacted MOUs and Co-Ops indicated either making no special effort to communicate with these 
+stakeholders before a major storm or only reach out as needed. All IOUs reported plans to coordinate with 
+government organizations before a major storm, but they are less proactive about working with other 
+groups. For example, CenterPoint specifically stated that it "did not have a specific process in placeto push 
+out communication directlyto all Critical Load customers in advance of the storm. ;;31 Critical load includes 
+medical facilities, elder care facilities, police stations, firehouses, and other critical infrastructure. 
+CenterPoint relied on a series of generalized stakeholder group meetings held between May and June to 
+communicate with these facilities. 
+CenterPoint's communication strategy is representative of the plans exhibited by many other IOUs, MOUs, 
+and cooperatives. These stakeholders are expected to reach out to the utility if special consideration is 
+needed. By failing to proactively coordinate with these groups in advance, utilities may miss opportunities 
+to address potential issues before they occur. 
+May 2024 Derecho Emergency Operations Plans Activations 
+The speed and suddenness of the May 2024 derecho led to varied EOP activation timelines across utilities. 
+derechos, while rare, are typically predictable as severe weather systems. However, these storms are often 
+initially treated as severe thunderstorms until the threat from high winds becomes clear. Only a few 
+utilities reported tracking the systems that became the May 2024 derecho. Four (Oncor, Entergy, City of 
+Bellville, and Sam Houston Electric Co-Op) activated their EOP in the days before the storm hit. 
+30'd. 
+31 CenterPoint Energy Houston Electric, LLC's Response to the Public Utility Commission of Texas First 
+Requests for Information at 1074-75 (Aug. 30, 2024). 
+30 
+=== PAGE 34 ===
+EOP Activation Date Utility 
+May 13 Entergy 
+May 14 Oncor; City of Bellville 
+May 15 Sam Houston Electric Co-Op 
+Around a third of the contacted utilities (21) reported outages due to the derecho, which affected 
+approximately 1.1 million customers. The most common cause of outage was damage due to straight-line 
+wind, at times exceeding 90 mph. These winds caused significant damage to 14 transmission lines within 
+CenterPoint's service territory. Most utilities - even those significantly affected by the storm - did not 
+activate their EOPs for the May 2024 derecho. 
+CenterPoint activated its EOP after 3:00 p.m. on May 16, 2024. Approximately 84% of the total effected 
+customers were within the CenterPoint service territory, accounting for about 920,000 customer outages 
+at the peak. Entergy had the second highest customers on outage, with a peak of 69,448 (6.3% of the total 
+affected customers). 
+The suddenness of the derecho limited utilities' ability to pre-position additional line workers and 
+vegetation management crews in advance of the storm. Similarly, pre-storm communication was largely 
+impossible. CenterPoint did not report any issues with staging or acquiring mutual aid during the May 
+2024 derecho. 
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+1. Utilities should include neighboring utilities, local governments, and emergency services in annual 
+hurricane and major storm drills. 
+• Utilitiesthat restricted participation in hurricane drillsto internal participants could not effectively 
+test key aspects of their EOP, specifically relating to communication with external stakeholders. 
+Instead, utilities tested communication strategies by discussing them internally. Similarly, water, 
+sewer, and telecommunications utilities should participate in periodic group drills because each 
+utility has a downstream effect on the others. This is particularly true for electric utilities that 
+serve as transmission service providers (TSPs) for smaller electric utilities. 
+2. The Commission should require pre-storm communications procedures in emergency operations 
+plans. 
+• Many electric utilities lack proactive strategies for communicating with other utilities and 
+stakeholders before major weather events. Proactive outreach could allow utilities to identify and 
+address potential issues before they arise. The Commission's current rules require that EOPs 
+31 
+=== PAGE 35 ===
+include a communication plan . 3233 However , this generally only addresses communication during 
+emergencies. 
+3. Utilities should incorporate outage tracker disruptions and high user demand as scenarios in annual 
+hurricane and major storm drills. 
+• Functioning outage trackers provide the public with critical information concerning restoration 
+status during electricity outages. The issues with CenterPoint's outage tracker during Hurricane 
+Beryl highlight the importance of ensuring, before an emergency, that outage trackers are 
+properly functioning and able to handle high user demand. Hurricane and major storm drills 
+provide electric utilities with an opportunity to test the capability of outage trackers and practice 
+scenarios involving disruptions to outage trackers. 
+3.2 Communication and Coordination 
+Commission Staff issued Requests for Information (RFIs) to electric service providers to determine how 
+utilities communicate and coordinate with customers and stakeholders during major weather events. RFI 
+response data indicates Investor-Owned Utilities (IOUs) employ more sophisticated communications 
+strategies than Municipally Owned Utilities (MOUs) and electric cooperatives. Among all utilities, there is 
+room to improve proactive coordination with community stakeholders and other utility services. 
+In addition to the RFIs, the Commission collected input from Houstonians about their experiences 
+communicating with electric service providers during severe weather through an online questionnaire. 
+Respondents identified the lack of reliable and accurate communication as a top issue faced during the 
+power restoration process . For additional detail on questionnaire responses , see Section 2 . 1 Texans ' Lived 
+Experience. 
+Customer Communication Strategies 
+Customercommunication strategies rely heavilyon social media. Nearlyall contacted utilities used at least 
+two forms of media-typically their website and social media-to communicate with customers before, 
+during, and after major weather events. Most IOUs and cooperatives indicated they also provide 
+information using some form of text messaging service, email service, or smartphone application. Other 
+electric utilities also used radio, news releases, and other forms of traditional media to deliver information 
+to a broad customer base. 
+Before and duringthe Mayderecho and Hurricane Beryl, utilities overwhelmingly focused on social media 
+to share storm preparation and safety messaging. In the aftermath of both storms, all impacted utilities 
+used social media-particularly Facebook-to share information about physical damage, outages, 
+32 16 Tex. Admin. Code 25.53(d)(2). 
+33 Specifically, an entity with transmission or distribution service operations must describe in its EOP the 
+procedures during an emergency for handling complaints and for communicating with the public; the media; 
+customers; the commission; the Office of Public Utility Counsel (OPUC); local and state governmental entities, 
+officials, emergency operations centers, the reliability coordinator for its power region; and critical load customers 
+directly served by the entity 
+32 
+=== PAGE 36 ===
+restorations, and customer safety. With the exception of CenterPoint, Commission Staff's review of 
+customer feedback showed no specific concerns about the sufficiency of public-facing, post-storm 
+communications. 
+Critical Loads 
+Post-storm communications between utilities and critical loads were problematic, particularly for long-
+term care facilities. Hundreds of nursing and assisted living facilities were impacted by Hurricane Beryl. 
+the Texas Assisted Living Association reported that its members had difficulty obtaining information 
+followingthe storm. Assisted living facility staff waited on customer service hold lines for hours, and utility 
+representatives "could not consistently note whether the assisted living facility's account showed a 
+current priority restoration status ." See section 3 . 1 Emergency Preparedness and Response Planning for 
+additional discussion about proactive communication with critical loads. 
+CenterPoint's Outage Tracker 
+Customer feedback revealed widespread frustration with CenterPoint's outage tracking systems. The 
+company's storm recovery communications focused largely on sharing general information through 
+interviews, media inquiries, press releases, and social media posts. However, CenterPoint failed to provide 
+its customers with critical information: a reliable estimate of when power would be restored in a given 
+location. 
+CenterPoint's original outage tracker could not withstand the site traffic associated with the derecho. The 
+utility failed to prioritize the development of a functional replacement tracker in the months that 
+followed. Without a working outage tracker CenterPoint's customers were left without access to critical 
+information about their restoration status in the aftermath of Hurricane Beryl. 
+Outage Tracker Failures 
+Between May 1 and July 31, 2024, CenterPoint utilized three different web-based outage tracking 
+systems: 
+May 16, May 20, July 10, 
+2004 2024 2024 2024 
+b-- Il I ---
+. A A / Y Y y y 
+Original Static Beryl-Specific Static Minimal Outage Outage Image Map Tracker Capability Outage Tracker Tracker 
+Original Outage Tracker 
+Effectively Collapses 
+• The original outage tracker launched in 2004 and was last updated in July 2022. This outage 
+tracker effectively collapsed on May 16, 2024, when it was overwhelmed by site traffic during and 
+after the derecho. Less than two percent of impacted customers were able to successfully access 
+the webpage. 
+33 
+=== PAGE 37 ===
+• Four days later, on May 20,2024, CenterPoint replaced the original outage tracker with a "static 
+outage traci<er" as an interim solution. The static outage tracker displayed only the total number 
+customer outages and restorations. There was no information about specific outage status or 
+estimated restoration times. A color-coded, derecho-specific map was later added to show 
+restoration progress. However, customers reported it was still unreliable and inaccurate, 
+sometimes reflecting restored power where outages were still ongoing. Despite these issues, 
+CenterPoint retained the static tracker until July 10, 2024-two days after Hurricane Beryl 
+knocked out power for approximately 90% of CenterPoint's customers.52 
+• For the first two days of Hurricane Beryl recovery, over 2.2 million CenterPoint customers lacked 
+independent access to information abouttheir outage statuses. On July 10, CenterPoint launched 
+a third outage tracker: a Beryl-specific static image map updated daily with color-coded areas 
+showing active service, assigned repairs, and areas still to be assessed. Like the previous map, it 
+sometimes incorrectly reflected power had been restored to areas with ongoing outages, leaving 
+customers to wonder if the company was aware of their outages. 
+CenterPoint's reliance on an inadequate tracker raises questions about why it did not prioritize launching 
+a more functional interim outage tracker sooner. As an electric utilitysituated in a region pronetotropical 
+weather patterns, the company was aware of the Iooming hurricane season. Further, following the 
+derecho recovery efforts, it was aware its static outage tracker was insufficient.53 
+Current Outage Tracker 
+On August 1, 2024, CenterPoint launched a new, cloud-based interactive outage tracker. This new tracker 
+is hosted by a vendor that employs "autoscaling" technology that automatically increases the number of 
+servers hosting the application as user demand grows. The map is guaranteed to remain functional with 
+100,000 concurrent users. Prior to the launch, CenterPoint successfully load tested it with 30,000 
+concurrent users. 
+Municipally Owned Utility Customer Communication 
+RFI response data indicates that municipally owned utility (MOU) communication strategies fall short of 
+their peersi, leaving customers without reliable ways to contact their utility during an outage. For 
+example, while 100% of contacted IOUs and over 90% of contacted cooperatives maintain a public-facing 
+outage tracker, only 10% of responding MOUs do.54 
+Further, more than half of responsive MOUs have no call center or help desk resources and instead rely 
+on other city employees to field calls during emergencies. MOUs that do maintain call centers 
+overwhelmingly rely on the availability of other city employees to augment call center staff during 
+emergency events-(fthey supplement call center staffing at all.55 It is unclear how MOU customers can 
+report outages or other emergencies in circumstances where other city employees are unavailable to 
+answer calls, such as after regular business hours or during emergency weather events. 
+MOUs are often small utilities with fewer resources, and the costs of solutions like interactive outage 
+trackers may outweigh the potential benefits they would provide. However, the majority of contacted 
+MOUs appear underprepared to handle customer communication during a major outage event. Ensuring 
+34 
+=== PAGE 38 ===
+customers can contact their electric service provider by phone during emergencies is a key part of a 
+modern customer communications strategy. 
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+4. The Legislature should codify a customer's right to information about restoration times and the 
+right to contact an electric service provider by phone. 
+• All customers experiencing an outage should have reasonable access to information about their 
+outage status and estimated restoration time. The Commission has launched an administrative 
+rulemaking requiring IOUs to maintain functional and accurate public-facing outage trackers. 
+However, the Commission lacks the authority to require the same of MOUs and co-ops. 
+Additionally, customers should have the ability to contact their electric service provider to report 
+outages and other electrical emergencies 24 hours a day. Approximately half of the MOUs 
+contacted by Commission during this investigation did not have call center resources. 
+The Legislature should consider adding these protections to the Public Utility Regulatory Act 
+(PURA) Chapter 17, which outlines customer protections. 
+• Further, critical loads, such as assisted living facilities and water utilities, must be able to contact 
+their electric service provider directly during an emergency. The Legislature should consider 
+codifying a critical customer's right to timely contact with utility representatives during significant 
+power outages. Some of these customers reported waiting on hold for hours to speak to a 
+customer service representative following Hurricane Beryl. 
+35 
+=== PAGE 39 ===
+3.3 Customer Restoration Workflow 
+Restoring power for electric customers depends on the continuous operation of a complex network of 
+physical infrastructure. 
+1 
+J 
+A 
+The first part of that 
+network-the 
+transmission 
+system-involves a 
+chain of high-voltage 
+transmission lines 
+that move electricity 
+from the place it is 
+generated to the 
+local distribution 
+systerns 
+4 
+When electricity 
+reaches a local 
+distribution system, 
+it passes through an 
+~ 
+electric "substation." 
+Substations lower 
+the voltage to make 
+it suitable for short-
+distance travel along 
+local power lines. 
+From there, 
+electricity travels 
+along "feeders" 
+which are power 
+~ 
+lines extending from 
+a substation. These 
+feeders deliver 
+electricity to 
+neighborhoods and 
+commercial areas. 
+Finally, the electricity 
+passes through 
+transformers, which 
+~ 
+adjust the voltage for 
+safe residential or 
+commercial use 
+before it flows to 
+individual customers. 
+Damage to any part of a utility's transmission or distribution system may disrupt service for customers 
+located "downstream." Forexample, damage to a transformer may cause an outage on one side of a street, 
+while damage to a substation may impact whole neighborhoods. After a major storm, it is not uncommon 
+for customers to be impacted by damage to more than one of the electric facilities used to provide service 
+to that customer. To restore power, the utility must repair all damage affecting the flow of electricity to a 
+customer's premises. 
+A review of workflow restoration procedures indicates that the most effective way to optimize the 
+restoration process is to proactively enhance the reliability of system infrastructure. Ensuring utility 
+infrastructure is prepared to withstand the expected hazards of a utility's service territory will reduce the 
+total number of outages following a major storm and reducethe extent of damage responsible for outages 
+that do occur. 
+Outage Reporting and Management 
+Utilities follow similar procedures for incorporating outage reports into restoration workflow. Most IOUs 
+and electric cooperatives use technology to ensure the outage reporting process is simple and accessible 
+for most customers. Typically, customers can report outages to customer service agents, interactive voice 
+response (IVR) systems, or online through utility websites or mobile applications. Outages reported to 
+36 
+=== PAGE 40 ===
+IOUs and electric cooperatives are then entered into outage management systems, which allow utilities to 
+track outages, assign restoration crews, and monitor restoration progress. 34 
+The speed with which a utility responds to a specific outage is influenced by a number of factors. The 
+presence of critical facilities, the size of the outage, safety concerns, and the equipment necessary to repair 
+the damage each play a role. When there is widespread damage, utilities may delay the deployment of 
+work crews until damage is assessed and utilities can determine how to allocate restoration resources. 
+Effective pre-storm management-especially pre-staging crews and materials, when possible-helps 
+reduce logistical delays in the restoration process. 
+For MOUs, the outage restoration process is less clear-cut. In August 2024, the Commission sent RFIs to 
+MOUs to determine how customer calls were incorporated into restoration workflow following Hurricane 
+Beryl. Most contacted MOUs did not provide a substantive response to the question, either because they 
+were not impacted by Hurricane Beryl or because they do not have a customer call center.35 MOUs that 
+did provide a substantive response described strategies that mirrored those described by IOUs and electric 
+cooperatives. It is not clear how MOUs that lack call center resources receive outage reports, or how long 
+it takes those outages to be incorporated into utility workflow. 
+Restoration Prioritization 
+Customers in low-density areas may experience longer power outages. All contacted utilities indicated 
+that, during an outage event, they attempt to prioritize restoration to critical loads and repairing damage 
+that impacts the greatest number of customers. 36 
+Restoring power to the greatest number of customers typically means prioritizing repairs to damage at 
+transmission lines and substations before feeders and other downstream equipment. This approach 
+ensures power is restored to more customers more quickly, but it may prolong outage durations for some 
+customers based on their physical location. The design of electric distribution systems also plays a role. 
+Utility service territories are divided into individual electric "circuits" (also called feeders) extending from 
+substations.37 Prioritizing repairs that will restore power to the greatest number of customers means 
+restoration to more isolated circuits may be delayed. Circuits often have a Iooped design so customers 
+located along damaged lines can be "back fed" power. However, some circuits have a "radial" design. If a 
+radial circuit is damaged, customers cannot be "back fed" electricity from elsewhere in the system. Radial 
+circuits are often located in less densely-populated areas, meaning rural and suburban customers - and 
+others along radial circuits - may often experience more prolonged delays. 
+34 While most contacted IOUs and cooperatives followed this general procedure, the specific procedures followed 
+for restoring reported outages vary between utilities. 
+35 See Section 3.2, above (explaining that approximately half of all contacted MOUs reported that they do not 
+maintain call center resources but rely on other city employees to answer calls when available). 
+36 Critical loads include, but is not limited to, hospitals, police stations, fire stations, other utilities, and customers 
+with special in-house life-sustaining equipment. See also 16 TAC § 25.52(f) and (h)(2), 25.53(e), and 
+25.62(4)(C)(i)(IV). 
+37 Isolating circuits allows utilities to limit the number of customers affected by a single outage-much like the 
+circuits in a residential home, where a fault may cause the circuit breaker to "trip" for one room while allowing the 
+remaining rooms to maintain power. 
+37 
+=== PAGE 41 ===
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+5. The Legislature should consider establishing a framework and penalty structure to assess IOU service 
+quality during major outage events. 
+• The Commission oversees and enforces IOU compliance with service quality standards. However, 
+since 1998, the Commission has excluded major events-extreme weatherthat disrupts powerto 
+at least 10% of customers-from these service quality calculations. 3839 The exclusion reflects 
+concerns that including such events would misrepresent a utility's typical reliability. While it's 
+reasonable to exclude hurricane damage from average service quality metrics, utilities should not 
+avoid accountability for insufficient storm preparation or response. 
+Commission staff recommends establishing a new standard to assess IOU system reliability and 
+response during major events. The standard would be applied to a utility's service quality 
+performance during major events over the course of a year, similar to how the Commission's 
+current service quality rules are designed. For violations of this standard, the Commission should 
+have the authority to pursue enhanced administrative penalties. 
+3.4 Physical Infrastructure 
+Staff analyzed RFI responses pertaining to the resiliency of electric service providers' physical 
+infrastructure in the Greater Houston area. Staff reviewed information related to infrastructure inspection 
+cycles, minimum widths of rights-of-way, and the strength and wind loading design and construction 
+standards. Additionally, staff reviewed infrastructure failures, the causes of those failures, and potential 
+for those same failures to cause problems in the future. Utility standards and practices are generally 
+consistent across the region. Most electric service providers in the Greater Houston area follow similar 
+design and construction standards. 
+38 See 23 TexReg 11923 (1998) (to be codified at 16 TAC § 25.52) (proposed Jun. 12, 1998) (acknowledging that SAIFI 
+and SAIDI standards may be adversely impacted by single outstanding weather events, contemplating excluding 
+major events from SAIFI and SAIDI calculations once individual utility standards are established, and stating that "the 
+commission does not intend to adopt requirements having the unintended consequence of requiring inefficient 
+reliability expenditures due to adopting standards affected by abnormal operating experiences."). See also the 
+Commission's annual service quality report form, which specifically limits SAIFI and SAIDI calculations to "forced 
+outages," available at https://www.puc.texas.gov/industry/electric/forms/#electric-form-6a. 
+39 These metrics include the system-average interruption frequency index (SAIFI) and system-average interruption 
+duration index (SAIDI). A utility's SAIFI value represents the average number of times a customer's electric service is 
+interrupted, and its SAIDI value represents the average amount of time service is interrupted. 
+38 
+=== PAGE 42 ===
+National Electrical Safety Code Loading Factors 
+The National Electrical Safety Code (NESC) is a set of industry-defined standards designed to promote safe 
+installation, operation, and maintenance of the electric utility systems. NESC Rule 250B, which specifies 
+combined ice and wind loading criteria, defines four district loading areas due to typical weather 
+conditions: Heavy, Medium, Light, and Warm Island Ioadings. 40 As shown below, Texas' gulf coast is 
+located in the light loading district. 
+ALASKA·(9j-
+HEAVY t ' 
+LO*PING·.: 
+DISTRICT.·' 
+MEDIUM , .A 
+LOADING---/-- --i { 
+DISIRICY ·--' 
+f: '.'.-TlHEAVY LO;ADJNG 
+i \ bISTRICI· 
+% HAWAII· 
+WARM ISLANDS N. 
+\ 
+Figure 1: General loading map of the United States with respect to loading of overhead lines41 
+Within each of these loading areas, Rule 250B defines a specific horizontal wind pressure, radial ice 
+thickness, and temperature that should be considered in the design of structures. NESC Rule 250C, 
+extreme wind loading, appliesto structures ortheir supported facilities that exceed 60 feet above ground 
+or water level and require the design to withstand the extreme wind speeds. The figures below show 
+extreme wind speed design standards of between 90 and 130 mph for areas located on or near the gulf 
+coast, depending on structure's construction standard used. 
+40 IEEE NESC C2-2023 at 178. 
+41 Id at 181. 
+39 
+=== PAGE 43 ===
+81(37) 
+85(38) 
+8?D7) 
+/ y 
+j 88(40) 
+/h 110(49) 
+/ 84(38) V L b t 
+110(49) 
+$-6 ti 120(64) 82(37)• 120(64) t~ ~,1130(68) 
+86(38} ~ · ¥\120(64) 90(40) 110(49) 
+f~85{38) 
+-90(40) 
+/100(45) 
+~ ~* 110(49) 
+hi 
+100(45) 
+Figure 2: Grade C, 50-year Mean Recurrence Interval (MRI) 3 second gust wind speed map42 
+90(401 
+98(44) 3 
+Y--- - *7·~ 94(4 
+90(40) --
+88(40)/ 
+140(63) 
+95(42)1-Ik 130(58) 100(45) ' 120(54) 
+, 87(39) 
+86(39) 
+90(40) 
+90(40) / > 95(42) ' 4,-- 100(45) /- 110(49) 
+Illl 
+J 74 120(54) 
+\, 120(54) 
+118(49h·-/Yi 130(58) >•. IN , 140(63) 
+. / 150(67 
+110(49) 
+Figure 3: Grade B, 100-year MRI 3 second gust wind speed map43 
+Finally, NESC Rule 250D, extreme ice with concurrent wind loading, applies to structures or their 
+supported facilities that exceed 60 feet above ground or water level. This rule requires a structure and its 
+42 Id. at 185. 
+43 Id at 183. 
+40 
+=== PAGE 44 ===
+supported facilities to be designed to withstand loads associated with the uniform ice thickness and 
+concurrent wind speeds specified in the 2023 NESC. 
+The table below demonstrates the design standards used by various electric service providers in the 
+greater Houston area as compared with the NESC light loading design standard. 
+Horizontal Wind Radial Ice Thickness Extreme Wind Speed 
+Pressure (psf) (in.) (mph) 
+NESC Light Loading 9 0.0 --
+CenterPoint 44 3 0.5 110-132 
+AEP Texas 20 1.0 103-150 
+Entergy 
+90-130 
+9 0.0 -95-135 
+TNMP 9 0.0 
+Notably, all utilities reported meeting or exceeding NESC Rule 250B standards. In 2022, CenterPoint began 
+applying both NESC 250C and 250D to all new and replacement distribution facilities, regardless of 
+structure height.45 Additionally, CenterPoint stated that, while only 1.8% of the poles on its system have 
+been installed to meet this standard, a sample of a small population of circuits revealed that 
+approximately 50% of its existing poles already met these standards. 46 
+Oncor will begin assessing and upgrading its existing overhead distribution facilities to meet NESC 250C 
+and 250D, regardless of structure height.47 Oncor will apply these rules to all new and replacement 
+distribution facilities as well, similar to what CenterPoint began doing in 2022. 
+Most MOUs and co-ops report using the NESC strength and loading factors in effect at the time of 
+construction and use the NESC 250B wind load district associated with the utility's location. There were 
+seven co-ops that report building to Rural Utilities Services (RUS) standards that meet or exceed NESC 
+specifications. 48 
+Right-of-way (ROW) Design 
+Most electric service providers require similar rights-of-way when designing their distribution systems. 
+Generally, utilities plan for between 10 and 15 feet of right-of-way, with the line running down the center 
+of the easement. 
+44 CenterPoint's current distribution system strength and loading design standards exceed NESC Rule 250B for Light 
+Loading Districts by considering the weight of ice on its conductors. The utility's standards come close to meeting 
+design standards for Heavy Loading Districts, which require construction considering 0.5 in. of ice plus 4 pounds per 
+square foot (psf) of horizontal wind pressure. 
+45 CenterPoint's Response to Staff RFI 1-81. 
+46 CenterPoint's Response to Staff RFI 1-85. 
+47 Application of Oncor Electric Delivery Company LLC for Approval of a System Resiliency Plan (May 6,2024) 
+48 Rural Utilities Services is a program of the US Department of Agriculture's Rural Development initiative. 
+41 
+=== PAGE 45 ===
+Utility Single Phase Three-Phase 
+(ft.) (ft.) 
+CenterPoint 10 10 
+Oncor 10 15 
+AEP Texas 10 10 
+Entergy 15 15 
+TNMP 10 16 
+Coops 10-15 10-15 
+MOUs 10 10 
+CenterPoint indicated that it requires a minimum 14 feet ground easement for single and three-phase 
+lines when shared with other dry utilities, like gas or telecommunications. A 16 feet ground easement is 
+used for single and three-phase lines when shared with other dry utilities and a wet utility, like water. 
+Additionally, CenterPoint also has easements that were previously defined in platted dedications and 
+negotiated agreements that pre-date the utility's minimum ROW standards. In some cases, the ROW is as 
+narrow as 5 feet. 
+Pole Embedment 
+Several factors determine how far into the ground a distribution pole should be embedded, including pole 
+height, pole class, pole material, structural loads, and soil conditions. Most utilities follow Rural Utilities 
+Service (RUS) specifications for pole embedment: 10% of the total pole length plus two feet.49 
+CenterPoint uses a design software to determine pole embedment, with the following minimums: ~50 
+• Class 2 and smaller wood poles: 10% of total pole length plus 2 feet. 
+• Class 1 and larger wood poles: 10% of total pole length plus 3 feet. 
+• Fiberglass and ductile iron poles: 10% of total pole length plus 3 feet. 
+AEP Texas provided a chart showing the pole depths for 5 different soil types based on the length of pole 
+used.51 For normal soil conditions, with class 4,5, and 6 poles, pole embedment averages the 10 percent 
+of total pole length, plus 2 feet standard. 
+Entergy Texas began usingthe following pole embedment in 2022:52 
+• Wood poles: 10% of pole length plus 3 feet. 
+• Non-wood poles: 10% of pole length plus 4 feet. 
+TNMP, 26 MOUs, and 29 coops use the RUS standard of 10% of pole length plus 2 feet. 
+49 US Department of Agriculture Rural Development Utilities Program: RUS Bulletin 1724E-205. 
+50 CenterPoint Response to Staff RFI 1-79. 
+51 AEP Texas Response to Staff RFI 1-58. 
+52 Entergy Response to Staff RFI 1-58. 
+42 
+=== PAGE 46 ===
+Pole Inspections 
+CenterPoint, AEP Texas, and Entergy inspect their distribution poles on a 10-year cycle, meaning 
+approximately 10% are inspected annually. Oncor inspects high-impact poles on a 10-to-15-year cycle. 
+TNMP conducts inspections as part of day-to-day operations or as warranted by operating conditions 
+and/or reliability indicators. Of the contacted MOUs, 10 conduct pole inspections as an on-going manner 
+part of daily operations. Others conducted pole inspections on cycles ranging from twice a year to every 
+10 years. Most co-ops inspect 10% of distribution poles each year.53 
+Pole Counts 
+Prior to the May 2024 derecho event, the electric service providers contacted in the investigation had 
+more than 3.7 million distribution poles in the ground providing service. The contacted IOUs own about 
+56% and the contacted MOUs and co-ops own about 44% of these. With one exception, more than 95% 
+of each electric service provider's distribution pole fleet was made of wood.54 
+Distribution Pole Types 
+(AEP Texas, Entergy, Oncor, CenterPoint, TNMP) 
+Ig Wood ¤ Concrete ¤ Ductile Iron o Steel 
+o Fiberglass o Composite • Streetlight m Steel Tower 
+53 Response to Staff RFI 1-54(a) (Other Utilities) and Staff RFI 1-75(a) (CenterPoint). 
+54 Response to Staff RFI 1-56(a) (Other Utilities). 
+43 
+=== PAGE 47 ===
+Pole Failures 
+Utilities reported that most poles that failed during Hurricane Beryl were wood. 
+Number of Pole Failures by Type 
+(Hurricane Beryl) 
+TNMP I 
+AEP Texas ~ 
+Oncor ~ 
+Entergy ~ 
+CenterPoint ~ 
+0 500 1,000 1,500 2,000 2,500 3,000 3,500 
+• Wood ¤ Fiberglass 
+These failures represent less a small fraction (less than one percent) of each IOU's total wood poles. 
+Pole Type CenterPoint Entergy Texas Oncor AEP Texas TNMP 
+Wood 0.24% 0.19% 0.06% 0.26% 0.48% 
+Fiberglass 2.69% 
+CenterPoint reported that about 3,000 of its 1.6 million distribution poles failed. 55 The company did not 
+formally track the failure mode for each pole but stated that evidence suggests most pole failures were 
+due to structural loading from vegetation and other debris. 
+Using more composite materials in pole and crossarm construction can reduce customer outages and 
+restoration times by enablingthe distribution system to withstand the latest extreme wind loading and ice 
+design criteria found in NESC rules 250C and 250D. This includes using non-wood engineered structures 
+and a combination of trussing, cross arm replacement, or pole replacement. However, given that less than 
+1% of wood poles actually failed during Hurricane Beryl, strategic placement of poles built from composite 
+materials will minimize overall costs to consumers while enhancingthe resiliency of critical portions of the 
+utility's distribution grid. 
+55 CenterPoint stated the company does not have records regarding each pole that was replaced or the reasons 
+each pole was replaced. However, the company provided the total number of replacement poles that were sent to 
+crews in the field and stated that these numbers correlate closely, if not exactly, to the total number of 
+distribution poles that failed. 
+44 
+=== PAGE 48 ===
+Impacts of Vegetation 
+Staff's investigation was hindered by CenterPoint's inability to track the failure modes for its distribution 
+system.56 However, PA Consulting assessed CenterPoint's storm preparedness and restoration efforts 
+associated with Hurricane Beryl and discovered that over 75% of overhead distribution circuits 
+experienced Iockouts, which left more than 2.1 million CenterPoint Energy customers without power.57 A 
+Iockout is when a circuit breaker attached to a pole locks in the open position until a line worker clearsthe 
+fault and manually closes the circuit breaker. These Iockouts appear primarily related to vegetation 
+affecting grid performance. 
+The majority of vegetation-related outages resulting from Hurricane Beryl were caused by vegetation 
+originating from outside the ROW For additional discussion , see Section 3 . 5 - Vegetation Management . 
+When wind uproots vegetation and blows it into a pole or line, cross arms might fail even if the pole itself 
+remains intact. If the cross arm fails, the line itself might fall to the ground, short-circuitingthe entire line. 
+This in turn causes a Iockout until the line can be rehung and the circuit breaker is closed. This type of 
+structural problem may account for a large percentage of the nearly 800,000 affected distribution poles. 
+PA Consulting made the following recommendations with regard to CenterPoint's grid performance, 
+design, and automation:58 
+• Develop a program to segment less than 500 customers per remotely controllable circuit 
+• Develop protection and sectionalizing strategy for neighborhoods served by only one line 
+• Increase use of composite pole and crossarms 
+• Replace Open Wire with Covered Conductors 
+Staff agrees with these recommendations. 
+Sectionalizers 
+Sectionalizers-devices that isolate faulted line sections from the functioning parts of a system-can 
+prevent premature Iockouts on main feeders, keeping the rest of the feeder energized. Sectionalizers 
+combined with circuit breakers can identify the approximate location of the problem area which aids in 
+restoration times. When properly applied, sectionalizers can prevent cable and other equipment from 
+burning out and, when tied with communications packages, sectionalizers can be turned on or off from a 
+remote location. 
+56 CenterPoint Response to Staff RFI 1-77. 
+57 CenterPoint Energy response to RFI Staff RFI01-019S Supplemental 
+58 /d. 
+45 
+=== PAGE 49 ===
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+6. Utilities should assess poles constructed under prior NESC standards for replacement with poles that 
+meet current extreme wind and ice loading design standards. 
+• Utilities should target circuits chosen for upgrade according to those that serve critical facilities 
+such as hospitals, water treatment plants, or police stations, and that support mobile generation 
+or serve underserved communities. 
+7. Utilities should consider automated grid performance devices, like sectionalizers or automatic circuit 
+reclosers, to reduce unnecessary outage times and help restoration crews locate and resolve faults 
+more quickly. 
+8. In more densely vegetated areas, utilities should assess whether to replace distribution lines with 
+covered conductor. 
+• The conductor isthe wirethat carriesthe electricity. Covered conductors have an insulating outer 
+layer. This replacement may yield better protection against vegetative debris blown-in from 
+outside the ROW and decrease overall outage rates. 
+3.5 Vegetation Management 
+Effective vegetation management minimizes storm-related outages by reducing the risk of vegetative 
+debris contacting power lines. Hurricane Beryl caused more extensive damage from fallen trees compared 
+to previous severe weather events. The compounding effects of rains, freezingtemperatures, and droughts 
+in recent years made trees and vegetation more susceptible to uprooting. The high winds sent branches 
+and entire trees into power lines from inside and outside utility rights of way. Approximately half of 
+CenterPoint's Hurricane Beryl-related circuit outages were the result of vegetation.59 
+Commission Staff reviewed how utilities plan for and implement vegetation management strategies, 
+including how they approach vegetation hazards located outside of easements and rights-of-way (ROWs). 
+Cyclical and Analytical Vegetation Management Plans 
+Vegetation management practices can be divided into cyclical and analytical plans . Under a cyclical 
+vegetation management plan , a utility identifies the desired number of years required to trim its entire 
+system once and then divides up the work. Time and budget are the predominant factors in cyclical 
+planning. The most common cyclical vegetation management plans used a five- to eight-year clearing 
+schedule. These plans allow for easier budgeting because the utility knows exactly how many circuit miles 
+E CenterPoint Energy response to RFI Staff RFI01-019S Supplemental 
+46 
+=== PAGE 50 ===
+must be cleared each year. Smaller utilities included in the investigation tended to favor a cyclical 
+vegetation management plan. 
+Analytical vegetation management plans determine the trimming schedule based on datapoints . 
+CenterPoint switched to a more analytical plan in 2020. It ranks and prioritizes circuits based on potential 
+impact to critical loads, overall customer count, and previous vegetation-related outages. The time 
+between trimmings is considered but it is not a controlling factor. Circuits with more vegetation issues are 
+addressed more frequently underthis type of plan. 
+*,mLi~'€99*' 
+},k 
+Last Tree Trim Year 
+Not,n proactive tree 
+trim program in past 5 
+years 
+2019 
+2020 
+2021 
+2022 
+2023 
+The image above overlays circuits within CenterPoint's service territory that experienced an outage due 
+to Hurricane Beryl. The image is color-coded to indicate the Iastyear CenterPoint performed work on these 
+circuits. Circuits in blue were trimmed most recently under CenterPoint's final cyclical vegetation 
+management plan in 2019. Circuits in red had not been trimmed in the last five years.60 Large parts of 
+south and central Houston had not undergone trimming since at least 2018, and parts of central Houston, 
+west Houston, and north Houston had not been trimmed under CenterPoint's current plan.61 
+Not every outage in CenterPoint's system can be associated with a failing in its vegetation management 
+policy, but the map suggests CenterPoint's criteria should be adjusted to trim more frequently. 
+60 CenterPoint did not provide information as to which circuits had been trimmed in 2024 in advance of eitherthe 
+May 2024 derecho or Hurricane Beryl. 
+61 AS of September 2024, when the image was generated. 
+47 
+=== PAGE 51 ===
+The majority of co-ops and MOUs contacted in the investigation budget for trimming their entire system 
+once every three to five years. However, vegetation management is not simply based on the number of 
+crews, but the type of work being performed. The City of Halletsville, which reported only having one 
+problematic tree near its main substation, does not have the same vegetation concerns as Oncor, which 
+sends vegetation patrols into the heavily wooded areas within its service territory. 
+Vegetation Management Staffing 
+Atthe August 29,2024 Texas Senate Special Committee on Hurricane Beryl hearing, CenterPoint CEO Jason 
+Wells testified that the company outsourced its vegetation management to approximately 500 contractors 
+before July 8,2024, but was looking to bring more crews in-house.62 He committed to expanding the 
+company's vegetation management plan to add an additional 2,000 distribution line miles to its annual 
+clearance schedule. To accomplish this task, CenterPoint stated it would increase its vegetation 
+management workforce from 628 (12 fulltime, 616 contractors) to more than 2,700 resources, which 
+would make it the largest team of any utility contacted for the investigation. 
+IOUs contacted in the investigation reporting vegetation management staffs of between 147 and 1,650 
+people. Co-ops typically reported vegetation management departments between 30-50 people. MOUs 
+typically employed between 10-20. 
+The variation in staffing across utilities is driven bythe differences in each utility's service territory. Utilities 
+consider how many crews are required to clear the entire system within the utility's trimming cycle, what 
+type of vegetation exists in the service area, and the risks to service quality that vegetation presents to the 
+utility's customers. 
+Contracted vegetation management work 
+The decision to outsource vegetation management work appears to be the industry standard. 
+None of the IOUs contacted for the investigation employed any fulltime vegetation management staff 
+other than in managerial or expert roles, like foresters. Vegetation management work, like line work, is 
+inherently dangerous but generally requires less training than line work. From an economic perspective, 
+outsourcing an equally dangerous, but less technical, function allows a utility to allocate resources to 
+expand the scope of the outsourced work or to reinvest into other critical business areas. For example, 
+City of Caldwell noted that its decision to outsource nearly its entire vegetation management staff came 
+down to the need to fit critical work into a tight budget. Caldwell opted to hire five contractors for the 
+same cost as one fulltime employee. Karnes Electric Co-op, which uses a mix of fulltime and contract staff, 
+stated that its contracted vegetation management crews cost approximately one-third of a similarly 
+experienced in-house employee. 
+Some utilities contacted in this investigation took slightly different approaches to staffing their vegetation 
+management departments: 
+62 See Senate Special Committee on Hurricane and Tropical Storm Preparedness , Recovery , and Electricity , BSTHTEx . 
+LEG. INTERIM SESS., 5:20:47-5:21:20 https://senate.texas.gov/cmte.php?c=549 (July 29, 2024) 
+48 
+=== PAGE 52 ===
+• Karnes Electric Co-Op and Bluebonnet Electric Co-Op appeared to have a 40-60 split between 
+inhouse crews and outsourced crews. 
+• Houston County Electric Co-Op uses in-house crews for work like removing hazardous trees and 
+uses contractors for more routine vegetation work. 
+• Mid-South Electric Co-Op and several MOUs (City of Hemphill, Newton Municipal Utilities) 
+indicated that they cross train in-house line workers to handle both vegetation management and 
+line work. While this strategy maximizes resources, a reliance on line workers to perform 
+vegetation management work necessarily reduces the amount of either task these crews could 
+accomplish. 
+Vegetation-Related Reporting 
+Causes Of Forced Outages 
+Each IOU must report each year on its electrical service quality.63 These reports include the system-average 
+interruption frequency index (SAIFI) and system-average interruption duration index (SAIDI). A utility's 
+SAIFI value represents the average number of times an average customer's electric service may be 
+interrupted overthe course of a year, and its SAIDI value representsthe average number of minutes service 
+may be interrupted over the course of a year. 6465 These values are reported for both the utility's entire 
+distribution and for certain qualifying feeders. Lower SAIFI and SAIDI values reflect better service quality. 
+Utilities can face administrative penalties for failing to meetthe standards set bythe Commission.66 
+Service interruptions are reported by the type of outage, and vegetation-related outages are generally 
+reported in forced-interruption figures. Importantly, outages caused by major events - such as hurricanes 
+- are not included in forced-interruption calculations.67 
+63 16 TAC 25.81. See also 16 TAC 25.52 
+64 SAIFI is calculated by summing the number of customer interruptions for each event dividing by the total number 
+of customers on the system being indexed. See generally, 16 TAC 25.52(c)(8)(A). 
+65 SAIDI is calculated by summing the restoration time for each interruption event times the number of customers 
+interrupted for each event and dividing by the total number of customers. See generally 16 TAC 25.52(c)(8)(B). 
+66 A utility's annual electric service quality is measured against its average SAIFI and SAIDI values for the later of 
+reporting years 1998 through 2000, the first three reporting years the utility was in operation, or the last time the 
+Commission updated the utility's service quality standards. Utilities reporting SAIFI and SAIDI values for forced 
+outages that exceed five percent of the system wide standard or who have qualifying feeders exceeding 300% of 
+the actual reporting year value for two or more consecutive years are subject to administrative penalties. These 
+thresholds are codified in PURA § 38.005(b). 
+67 A forced-interruption is an interruption, exclusive of major events, that results from conditions directly 
+associated with a component requiring that it be taken out of service or an interruption caused by improper 
+operation of equipment or human error. See generally 16 TAC 25.52(c)(4)(A). 
+49 
+=== PAGE 53 ===
+Causes of Forced Outages 
+(excludes major weather events) 
+Average of all Texas IOUs as reported in electric service quality filings 
+50.00% 
+40.00% 
+30.00% 
+20.00% 
+10.00% 
+0.00% 
+Utility-owned equipment Weather-related (e.g., 
+lightning strikes) 
+Vegetation-related 
+Wl 2022 0 2023 
+Administrative fines for electric service quality are classified as Class A violations and are capped at 
+$25,000 per violation per day.68 However, because these violations are based on an annual average, 
+penalties are often less than $100,000 annually.69 It is often cheaper for IOUsto pay annual service quality 
+penalties than to correct issues that lead to longer and more frequent outages. 
+Increasing the penalty amounts and reducing the per-feeder threshold should increase an IOU's effort to 
+address vegetation issues across its system. Vegetation-related outages are largely within the utility's 
+control and can often be mitigated by effective vegetation management. 
+IOUs contacted in the investigation reported in their electric service quality reporting that between 12.37% 
+and 22.8% of forced outages were caused by vegetation-related issues in 2022.70 
+68 See PURA § 15.023(b) 
+69 The Commission's ability to penalize those violations is limited to a one-time $25,000 penalty for each system-
+wide or per-feeder violation in the applicable reporting year. 
+70 See generally Project No. 54467, CY 2022 Utility Service Quality Report Under 16 TAC 25.81. 
+50 
+=== PAGE 54 ===
+Annual Percentage of Forced Outages Caused by 
+Vegetation-Related Issues 
+Excludes major events like hurricanes. 
+25.00% 
+20.00% 
+15.00% 
+10.00% 
+5.00% 
+0.00% 
+AEP Texas, Inc. CenterPoint Entergy Oncor 
+• Vegetation-Related Forced-Outage Percentage ( RY 2022) 
+m Vegetation-Related Forced-Outage Percentage (RY 2023) 
+TNMP 
+In 2023, most utilities contacted in the investigation, except AEP Texas, reported more vegetation-related 
+outages compared to 2022.71 Entergy saw the largest percentage increase (22% increase). 
+Annual Vegetation Management Reporting 
+Electric utilities are required to file an annual report concerning their vegetation management plan with 
+the Commission.72 Each plan must estimate how many circuit miles the utility estimates it will clear that 
+year and provide information about whether it met its previous year's goal.73 
+The IOUs contacted in this investigation met or exceeded their 2023 vegetation management goals74: 
+Utilities 2023 Distribution 2023 VM Plan 2023 Clearing 
+Miles Clearing Goal Goal Met or 
+(miles)75 Exceeded? 
+Oncor 90,740 3,10076 Yes 
+CenterPoint 29,270 3,500 Yes 
+Entergy 14,400 1,212 Yes 
+AEP Texas 45,070 1,000 Yes 
+71 See generally Project No. 56005, CY 2023 Utility Service Quality Report Under 16 TAC 25.81 
+72 See 16 TAC § 25.96. 
+73 See 16 TAC § 25 . 96 ( f )( 1 )( H ). 
+74 TNMP's figure is not included because Commission Staff suspects a possible filing error. Separate filings indicate 
+2023 clearing goals of both 908 miles and 614 miles. Reports of work completed reflect 453 miles. 
+75 Utilities' vegetation management plans 
+76 Oncor response to RFI Staff 1-81 
+51 
+=== PAGE 55 ===
+CenterPoint reported exceeding its 2023 vegetation management clearing goal by 30%. However, it had 
+an increase (5.72%) in vegetation-related force-outages between 2022 and 2023. This suggests that the 
+actual number of distribution line miles cleared helped mitigate some, but not all, of the threats posed to 
+CenterPoint's electric service quality by hazardous vegetation. 
+Addressing Vegetation Hazards Through Customer Engagement 
+Clearing circuit miles is central to every vegetation management plan, but electric utilities must also be 
+equipped to address unscheduled vegetation issues as they are reported. MOUs and coops -are more 
+likely than larger utilities to incorporate vegetation issue spotting into the functions of all utility employees. 
+For example, at Mid-South Electric Cooperative, all employees are tasked with "spot[ting] hazard trees" 
+while moving around the community they serve. Some larger utilities, like Oncor, focus vegetation issue 
+spotting programs on specific geographic regions with unique challenges. Oncor's East Texas Hazard Tree 
+Program sends foresters and vegetation management crews to patrol circuits in heavily wooded areas to 
+address hazardous vegetation. 
+Historically, CenterPoint has not implemented vegetation management strategies and policies that could 
+address unscheduled problems. CenterPoint customers have expressed concerns over an inability to 
+effectively report potential hazards. During the October 5,2024 workshop, several CenterPoint customers 
+stated that CenterPoint had failed to trim trees around distribution poles.77 One commentator stated that, 
+despite many requests, CenterPoint had not trimmed trees on his property that were steadily growing 
+nearerto a distribution pole in almost 30 years. Customer engagement is a necessaryand vital component 
+of effective vegetation management planning. 
+Oncor provides an online portal for customersto learn about and report potential vegetation management 
+issues on their property.78 The online portal allows customers to provide the information immediately. 
+However, methods for reporting vegetation issues are normally not immediately obvious on a utility's 
+website. Oncor's main page has portals to report power outages, downed power lines, and streetlight 
+outages, but customers need to click through three pages before reporting a hazard tree. Entergy's 
+customers must click through four pages before being told to call the utility's main contact number. A 
+customer may be willing to navigate through their utility's website to locate a contact number for a tree 
+issue at their residence but may not have the same patience when reporting a hazard identified on their 
+commute. While above examples may not be ideal, CenterPoint's customer engagement on this issue may 
+restrict the flow of customer-reported information. CenterPoint requires customers to call in to report a 
+hazard tree and then arrange to speak with a forester at a later date.79 Utilities should make all efforts to 
+reduce roadblocks for customers attempting to report potentially hazardous vegetation issues. 
+77 PUCT Workshop, October 5th https://www.adminmonitor.com/tx/puct/workshop/20241005/ 
+78 https://www.oncor.com/content/oncorwww/us/en/home/about-us/vegetation-management/location.html 
+79 https:/ /www.centerpointenergy.com/en-us/Safety/Pages/Tree-Trimming-Removal.aspx?sa=ho&au=res 
+52 
+=== PAGE 56 ===
+Vegetation Outside the Right of Way 
+Utilities that tracked outages caused by vegetation during the May 2024 derecho and Hurricane Beryl 
+reported that most outages were caused by trees growing outside of utility easements or the right-of-way 
+(ROW). 
+• CenterPoint's largest vegetation management provider estimated 60% of the vegetation 
+damaging the company's distribution infrastructure during Hurricane Beryl was caused by tree 
+fall-ins from outsidethe easement or ROW.80 
+• Entergy attributed about 49% of its Beryl outages to vegetation outside the ROW.81 
+• AEP Texas reported that 100% of its outages in Matagorda and Wharton Counties were caused by 
+vegetation fall-ins originating outside the ROW.82 
+• Co-ops estimated that generally between 50 -100% of their outages were caused by vegetation 
+outside the ROW. 
+On average, utilities operating transmission facilities had easements or ROWs of at least 50 feet (25 feet 
+on either side of the line), with up to 100 feet. Distribution lines generally had smaller easements and 
+ROWs, usually between 20 to 30 feet (10-15 feet on either side of the line). Even a utilitythat clear cuts its 
+easement can be impacted by tree growth outside the easement. Lamar County Electric Cooperative 
+Association - which has clear cut its easements and ROWs since 2012 - reported one vegetation-related 
+outage during Hurricane Beryl.83 In that instance, a 75-foot tree from outside the 100-foot easement (50 
+feet on either side of the line) fell due to high winds and brought down a powerline.84 
+To address trees outside the ROW, most utilities attempt to work with the property owner and ask 
+permission to address the hazardous condition at no cost. However, this is not always successful. City of 
+Liberty noted that, "[p]roperty owners Iovetheirtrees and refuse to work with [us] to clear any potentially 
+hazardous trees. „85 
+Other approaches include tree replacement programs and education strategies. Brownsville Public Utility 
+offers to replace trees growing near an easement with others planted further back on the property. 86 
+Some utilities take more extreme approaches to address the problem. One utility stated that they may 
+disconnect a customer from power if a hazardous tree out of the easement posed a significant risk. 
+Another utility adopted an "ask forgiveness, not permission" approach to the problem by proactively 
+removing hazard trees regardless of their location. 
+80 PUCT open meeting, July 25,2024; https://www.adminmonitor.com/tx/puct/open_meeting/20240725/ 
+81 Entergy Texas response to RFI Staff 1-83. 
+82 AEP Texas response to RFI Staff 1-83 
+83 Lamar County Electric Co-op Association response to RFI Staff 1-83. 
+84 Id. 
+85 City of Liberty response to RFI Staff 1-84 
+86 Brownsville Utility Trade a tree 
+53 
+=== PAGE 57 ===
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+9. The Commission should require utilities to establish a designated method for customers to report 
+vegetation hazards. 
+• Most vegetation-related outages during Hurricane Beryl were caused by trees growing outside of 
+utility easements and rights-of-way. Utilities can access these areas with Iandowner permission, 
+but processes for customers to report hazard trees for mitigation or removal must be improved. 
+While most utilities have a program in place, these programs are not immediately accessible on 
+most utility websites. 
+10. Utilities should use analytics-based vegetation management strategies to augment, not replace, 
+cyclical vegetation management plans. 
+• Vegetation management practices within Texas are not standardized, with some utilities moving 
+away from a cyclical plan to a more analytics-based vegetation management plan. Analytics-
+based plans can help prioritize sections of a service territory dueto heightened vegetation hazard. 
+However, utilities should take precaution to not minimize factors like "time between trims." To 
+ensure all segments in the service territory are addressed, utilities should augment cyclical 
+vegetation management plans with analytics instead of replacing them with a solely analytics-
+based approach. Alternatively, utilities should ensure that maximum duration between trims 
+serves as a default or failsafe factor within their analytics-based plan. This may require vegetation 
+management budgets to increase slightly to accommodate additional priority segment work. 
+11. The Legislature should consider increasing the penalty cap for electric service quality violations. 
+• Vegetation-related outages generally represent 15 to 20% of system-wide forced-outages 
+reported by IOUs in each reporting year (excluding major events like hurricanes). System-wide 
+violations of electric service quality metrics are considered one violation for the entire reporting 
+year and are capped at $25,000. To incentivize proactive measures to improve electric service 
+quality, the Legislature could either increase the penalty cap or expand what may constitute a 
+violation by placing a maximum threshold for forced-outages caused by vegetation-related issues. 
+Enhanced penalties could apply if the utility crosses the threshold due to failure to trim circuits 
+based on its trim cycle plan. 
+3.6 Staffing and Mutual Assistance 
+Mutual assistance groups are membership organizations that enable electric utilities to share personnel, 
+materials, and equipmentto help each other recover from a major event like a hurricane. Group members 
+develop agreementsthat contain theterms and conditions for sharingthese resources. Therefore, instead 
+of negotiating a new agreement every time a disaster occurs, utilities can work from the pre-established 
+agreements. This simplifies the logistics of sending and receiving help quickly. 
+There are seven regional mutual assistance groups in the country, and Texas is included in four of these: 
+• Midwest Mutual Assistance Group (MMAG) 
+54 
+=== PAGE 58 ===
+• Western Region Mutual Assistance Group 
+• Texas Mutual Assistance Group (TXMAG) 
+• Southeastern Electric Exchange (SEE) 
+-202tftfv=2954:=es:2'sje:f-u. 
+--*. 
+w,$242<~.»:. kE d.==oe ,/---Ass,stance Group -- ~...c (C-d•) · 1 
+' r--, 1 , 
+Western Region Mufu,/ 
+Assisfanci Group 
+- T--t--
+Il I 
+, Gr,Il L,Ail Alufu,~ D A„isuncl Gmup M,dwest Mutuat Assistance Group 
+North Atlantic 
+Assistance Group 
+' Tix,s Mutual 1 
+Assistance Group ] 
+AEP Texas, TNMP, Entergy Texas, Oncor, and CenterPoint each belong to one or more mutual assistance 
+groups. Most electric cooperatives and MOUs indicated that they participate in mutual assistance groups 
+as well. 
+To request resources from a mutual assistance group, a member utility that faces a severe event first 
+activates its own emergency operations plan (EOP). If the utility projects it will exhaust its own resources 
+before service can be restored, it will submit a formal request through its mutual assistance group. 
+Typically, a utility is expected to fully mobilize its internal workforce and utilize local contractors before 
+requesting assistance under a mutual assistance program. For example, AEP Texas mobilized its employee 
+and contracted workforce, then drew on resources from its AEP sister companies located closest to south 
+Texas, and finally requested help from its mutual assistance partners. 
+Data from the responses to these RFIs about staffing and mutual assistance indicated that coordinating 
+thousands of mutual assistance workers presented logistical challenges. Overcoming these challenges 
+could help speed recovery from events like Hurricane Beryl. 
+Pre-Staging Strategies 
+Storm path forecasting and damage predictions are important to pre-staging decisions and mutual 
+assistance requests. Because hurricanes often shift paths as they approach land, a utility must constantly 
+reassess staging strategies to place resources near the expected impact zone, but not in the storm's direct 
+path. Staging resources is crucial to managing restoration efforts. For example, AEP Texas held multiple 
+internal meetings daily to review the storm development, including potential impact zone. The company 
+55 
+=== PAGE 59 ===
+reassessed its plan multiple times as Hurricane Beryl's track shifted north from Brownsville towards 
+Matagorda Bay. 
+CenterPoint continued running its " damage prediction model 187 to anticipate the storm ' s expected impacts 
+and justify the requested assistance needed prior to Iandfall, and to make prestaging decisions.88 This 
+model estimates the number of resources required and types and number of poles estimated to be 
+impacted. However, the damage prediction model was largely ineffective and offered little value in 
+decision-making: 
+"At multiple times beginning on July 6, the Saturday before Beryl, the damage prediction model yielded 
+estimates Of 538 total FTEs for a 14-day restoration to 2,559 total FTEs for a 5-day restoration. The actual 
+result was 14,000 FTEs who delivered an 11-day restoration (excludes damage assessors). „89 
+Importantly, when a utility is asked to provide mutual assistance, it must first assess its own needs and 
+forecasted weather threats before releasing crews to assist others. Because storm paths can shift before 
+Iandfall, requests for assistance are coordinated carefully within mutual assistance groups to ensure 
+appropriate resource allocation. 
+Utilities are also expected to fully mobilize their internal workforce and local contractors before requesting 
+aid through a mutual assistance program. AEP Texas began requesting mutual assistance resources on July 
+5.90 CenterPoint and Sam Houston Electric Co-Op followed with requests on July 6, while TNMP requested 
+assistancethe morning of July 8.'1 Entergy secured all necessary resourcesthrough its own workforce and 
+contactor network and did not request mutual assistance.92 As damage assessments were completed after 
+the storm, utilities further evaluated their needs and issued additional requests based on the full extent 
+of the damage. 
+Staging and Mobilization 
+Hurricane Beryl affected a large geographic area, which required the mobilization of thousands of external 
+personnel and equipment in a very short period of time. The large geographic impact meant many electric 
+service providers were seeking assistance during the same time period. Unsurprisingly, the high demand 
+for resources meant crews were dispatched to the Houston area from states like Missouri, Oklahoma, 
+Tennessee, Alabama, among others. 
+CenterPoint's first four staging sites (of 22 total) were "check-in and dispatch" ready the day of Hurricane 
+Beryl's Iandfall (July 8). This designation means the site had sufficient materials and resources to receive, 
+check in, and dispatch crews.93 To managethe large number of incoming workers and to avoid areas likely 
+to be affected by the storm, CenterPoint set up staging sites located farther outside of the greater Houston 
+area. These more remote locations resulted in Iongertransittimesto worksites. Because vegetative debris 
+87 The model was limited to Hurricane Ike data (2008). 
+88 CenterPoint Energy response to RFI Staff 1-109 
+89 CenterPoint Energy supplemental response to RFI Staff 1-19 
+90 CenterPoint Energy response to RFI Staff 1-111 
+91 Texas-New Mexico Power response to RFI 1-91 
+92 Entergy Texas, Inc. response to RFI Staff 1-95 
+93 CenterPoint Energy response to RFI Staff 1-115 
+56 
+=== PAGE 60 ===
+often blocked major road access, crews either were delayed in getting to work sites or had to remain idle 
+until ingress routes were cleared. These delays understandably caused frustration for some Houstonians 
+who saw field crews as idle and felt their needs were being overlooked as their neighborhoods went days 
+without power. In a few regrettable incidents, some crews were threatened by individuals with weapons. 
+CenterPoint deactivated and relocated one staging site due to safety concerns. 
+Coordination and Logistics Challenges 
+Some utilities experienced delays issuing work orders to field crews due to the sheer number of field 
+personnel. Utilities noted that differences in communication protocols, lack of familiarity with local 
+infrastructure, and damageto telecommunications systems complicated the integration of external crews. 
+CenterPoint reported challenges with coordinating communications between multiple mutual assistance 
+partners and internal teams. With such a large number of external workers deployed across its service 
+area, maintaining consistent and clear communication, and effectively deploying work crews was difficult. 
+CenterPoint (and all the utilities) employed FEMA's National Incident Management System - Incident 
+Command System (ICS) to establish a clear chain of command and communication structure. 
+CenterPoint's leadership also held frequent conference calls with mutual assistance partners to keep all 
+parties updated on progress and resource needs. 
+TNMP encountered significant communication difficulties due to Hurricane Beryl's impact on local 
+telecommunications infrastructure. Cell towers and communication lines were damaged, limiting the 
+utility's ability to maintain contact with external crews in the field. TNMP mitigated this challenge by 
+relying on multiple communication methods-phone calls, text messages, emails, and in-person 
+briefings-to ensure all crews received critical updates. Despite these efforts, communication breakdowns 
+occasionally delayed restoration work, particularly in more remote areas. For additional detail on the 
+telecommunications outages , see Section 2 . 3 , Impacts to Telecommunications Service Providers . 
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+12. Utilities should scale up training in emergency response and Incident Command System (ICS). 
+• Utilities should ensure sufficient local personnel are trained in both ICS and the utility's 
+emergency operations plans so that the utility can effectively scale up its control of emergency 
+response and restoration to meet the size of the event. In CenterPoint's case, for example, this 
+means envisioning an event requiring 25 or 30 staging areas and planning for all the necessary ICS 
+structure to seamlessly integrate throughout each site and with one another through the utility's 
+operations center. 
+13. Utilities should ensure a resilient emergency communications platform is available to both local 
+and mutual assistance crews. 
+• Relying on public telecommunications infrastructure may be sufficient for more localized events, 
+but utilities need to plan for failure of these systems and still be able to effortlessly communicate 
+with their own and mutual assistance crews. 
+57 
+=== PAGE 61 ===
+3.7 Mobile Generation Facilities 
+Temporary Emergency Electric Energy Facilities (TEEEF) are mobile generation units that can be used to 
+provide temporary power to critical facilities. A TEEEF unit can be deployed to supply power to an end-
+use customer, such as a medical facility or cooling center, or to energize portions of a utility's distribution 
+system. The units must be sized appropriately to meet the requirements of the deployment location. 
+Commission Staff reviewed how electric service providers deployed and energized TEEEF. CenterPoint and 
+Oncor werethe only TDUsto deploy TEEEF following Hurricane Beryl. Oncordeployed just a single unitto 
+the City of Lufkin Water Treatment Facility. 94 
+Prior to Hurricane Beryl's Iandfall, CenterPoint's fleet consisted of 15 32-megawatt (MW) units (totaling 
+480 MW) and nine units of five MW or less (totaling 28 MW). CenterPoint did not deploy any of its 32 MW 
+units following Hurricane Beryl because, the company asserts, these units were specifically procured to 
+assist with "load shed support" during a grid level shortage of generation.95 
+Overview of TEEEF Deployment following Hurricane Beryl 
+CenterPoint attempted to deploy 30 mobile generation units:6 Nine units were part of its existing fleet, 
+nine units were acquired through short-term leases, and 12 units were borrowed through mutual 
+assistance from Oncor and AER TEEEF deployment following Hurricane Beryl was used to restore power 
+to critical facilities by both connecting directly to facilities and by energizing entire segments of a 
+distribution circuit ("mid-span connection")'7. CenterPoint energized 382 customers~8 withthe TEEEF units 
+it had underlease (15 customers directlyand 367 via mid-span connection). In combination with the TEEEF 
+it was loaned through Mutual Assistance, CenterPoint brought 460 customers online (13 customers 
+directly and 65 via mid-span connection):9 
+94 Oncor response to RFI Staff 1-112 
+95 CenterPoint response to RFI Staff 1-126 
+96 CenterPoint did not deploy two of its 5 MW units and one of the .56 MW units it obtained through mutual 
+assistance. 
+97 CenterPoint response to RFI Staff 1-134 
+98 „ Customers" is referring to a single meter, which could represent hundreds of people if it was connected to a site 
+such as a cooling center or senior living facility. 
+99 CenterPoint response to RFI Staff 1-134 
+58 
+=== PAGE 62 ===
+TEEEF Deployments 
+16 
+14 
+12 
+* 10 rio 
+B 8 
+a) 6 6 
+4 
+2 
+0 
+e 
+e e * do <kf 
+0 
+I.. 
+4.e 0 d>- e 
+t /ye ' Oc:P / i / 
+y CP 
+e 
+Facility Type 
+Matching TEEEF Units to Customers 
+When considering where to deploy a TEEEF unit, a TDU must consider both technical (voltage and phasing 
+requirements) and logistical (road access and physical space requirements) factors. Once these 
+requirements are met, CenterPoint requires that the customer have an electrician on site during both the 
+connection and disconnection of the TEEEF unit 100 . CenterPoint maintains a prioritized list of facility types 
+eligible for TEEEF . However , no speciDc customers or locations were pre - identified . This led to delay in 
+deploying TEEEF units to restore power to critical customers and facilities. Ultimately, CenterPoint was 
+unable to deploy two of its 5 MW units and one of the .560 MW units it received through mutual 
+assistance. The company stated it could not find a location to feasibly deploy these units because it could 
+not match voltage requirements, phasing compatibility, or size for certain deployment sites. 101 
+100 CenterPoint response to RFI Staff 1-133 
+101 CenterPoint response to RFI Staff 1-140 
+59 
+=== PAGE 63 ===
+Priority Category 
+1 Hospitals 
+Emergency Services/ 2 Airport 
+3 Cooling Centers 
+4 Senior/Assisted Living 
+Small Emergency Rooms/ 5 Dialysis 
+6 Clinics/Pharmacy 
+7 Grocery Stores 
+8 Commercial facilities 
+Example Categories 
+100 Bed In-Patient Hospitals, Cancer Treatment, Level 1 Trauma 
+Center 
+City and County Emergency Management, First Responder Facilities 
+(Police, Fire Ambulatory), Airport Facilities 
+Out-Patient Care Facilities, Dialysis Clinics, Small ER Centers 
+Urgent Care, Clinics, Commercial Pharmacies 
+Major Grocery Store Chains 
+Commercial facilities that support logistics/supply chain, community, 
+individual relief, and restoration efforts 
+CenterPoint has acknowledged the need for necessary process improvements to its TEEEF deployments. 
+Having more crews to enable additional TEEEF deployments each day, and to utilizing a tracking system to 
+support deployment and fueling are among the identified improvements. CenterPoint also noted 
+additional measures to implement, such as: maintaining a list of previously reviewed locations (to speed 
+up technical review process) and the utilization of a pre-identified list of "of critical customer locations 
+developed through coordination between various cities, counties, and customer engagements for faster 
+review of outage impact and TEEEF deployment. i, 102 
+CenterPoint's TEEEF Fleet and Additional Procurements 
+The day before Iandfall and in the days following the storm, CenterPoint procured an additional 21 units 
+totaling approximately 7.43 MWs through either mutual assistance or short-term lease. In total, 
+CenterPoint attempted to deploy 30 units, most of which were not part of its pre-Beryl fleet. 
+Procurement Date 
+On hand before 
+Hurricane Beryl 
+July 7 
+July 10 
+July 12 
+July 13 
+TEEEF Units 55 MW 
+5 x 5 MW 
+2 x 1 MW 
+2 x.500 MW 
+4 x.400 MW 
+4 x 1.2 MW 
+(from Mutual Assistance) 
+3 x.230 MW 
+2 x.200 MW 
+4 x.560 MW 
+1 x.625 MW 
+(from Mutual Assistance) 
+3 x.625 MW 
+(From Mutual Assistance) 
+102 CenterPoint response to RFI Staff 1-141 
+60 
+=== PAGE 64 ===
+Commission Rulemaking 
+The Public Utility Regulatory Act (PURA) § 39.918 authorizes transmission and distribution utilities (TDUs) 
+to lease TEEEF and operate the facilities during a significant power outage. 103 The Commission has an 
+ongoing rulemaking to implement PURA § 39.918 in Project No. 53404, titled "Temporary Emergency 
+Energy Facilities and Long Lead-Time Facilities". Comments on the draft rule were initially due on July 18, 
+2024. However, the due date was extended to August 2,2024, to allow interested parties to incorporate 
+Hurricane Beryl response activities in their comments. The Commission will finalize the rule bythe end of 
+the year. 
+Recommendations 
+Recommendations are numbered throughout the report for ease of reference and not in order of 
+importance. 
+14. Utilities should pre-identify critical customer locations suitable for deployment of Temporary 
+Emergency Electric Energy Facilities. 
+4.0 CenterPoint's Greater Houston Resiliency Initiative 
+In response to the issues raised regarding CenterPoint's service following Hurricane Beryl, CenterPoint 
+launched the Greater Houston Resiliency Initiative (GHRI). According to the CenterPoint, the GHRI is "a 
+comprehensive suite of actions aimed at further strengthening the electric grid, improving 
+communications, and enhancing partnerships across the Greater Houston area." 
+Commission Staff took the initiatives laid out by CenterPoint and created a chartthat tracks each initiative 
+in its designated category. As CenterPoint completes each initiative, Commission staff requests 
+documentation from CenterPoint agents or designees with knowledge specifictothe initiative in question. 
+As of November 2024, this chart is available as item No. 29 in Project No. 56793. 
+103 PURA § 39.918 does not authorize TDUs to own TEEER 
+61 
+=== PAGE 65 ===
+Appendix 
+Entities receiving and responding to mandatory Requests for Information (RFIs) 
+Name Respo'nse provided'? 
+Investor-Owned Electric Utilities (IOUS) 
+AEP Texas Inc. Yes 
+CenterPoint Energy Houston Electric, LLC Yes 
+Entergy Texas, Inc. Yes 
+Oncor Electric Delivery Company LLC Yes 
+Texas-New Mexico Power Company Yes 
+Electric Cooperatives 
+Bartlett Electric Cooperative, Inc. Yes 
+Bluebonnet Electric Cooperative, Inc. Yes 
+Bowie-Cass Electric Cooperative, Inc. Yes 
+Cherokee County Electric Cooperative Association Yes 
+Deep East Texas Electric Cooperative, Inc. Yes 
+Fayette Electric Cooperative, Inc. Yes 
+Guadalupe Valley Electric Cooperative, Inc. Yes 
+Heart of Texas Electric Cooperative, Inc. Yes 
+Houston County Electric Cooperative, Inc. Yes 
+Jackson Electric Cooperative, Inc. Yes 
+Jasper-Newton Electric Cooperative, Inc. Yes 
+Karnes Electric Cooperative, Inc. Yes 
+Lamar County Electric Cooperative Association Yes 
+Lyntegar Electric Cooperative, Inc. No 
+Magic Valley Electric Cooperative, Inc. Yes 
+Medina Electric Cooperative, Inc. Yes 
+Mid-South Electric Cooperative Association Yes 
+Navarro County Electric Cooperative, Inc. Yes 
+Navasota Valley Electric Cooperative, Inc. Yes 
+Nueces Electric Cooperative, Inc. Yes 
+Panola-Harrison Electric Cooperative, Inc. Yes 
+Rio Grande Electric Cooperative, Inc. Yes 
+Rusk County Electric Cooperative, Inc. Yes 
+Sam Houston Electric Cooperative, Inc. Yes 
+San Bernard Electric Cooperative, Inc. Yes 
+San Patricio Electric Cooperative, Inc. Yes 
+Southwest Arkansas Electric Cooperative Corp. Yes 
+Trinity Valley Electric Cooperative, Inc. Yes 
+Upshur-Rural Electric Cooperative Corp. Yes 
+Victoria Electric Cooperative, Inc. Yes 
+Wharton County Electric Cooperative, Inc. Yes 
+Wood County Electric Cooperative, Inc. Yes 
+Municipally Owned Utilities (MOUs) 
+62 
+=== PAGE 66 ===
+Bellville Light & Power System Yes 
+Brenham Municipal Light & Power System Yes 
+Brownsville Public Utilities Board Yes 
+BTU Rural Electric Division Yes 
+Caldwell City Government Yes 
+College Station Utilities Yes 
+Cuero Electric Utility Yes 
+Flatonia Electric Department Yes 
+Giddings Light & Power System Yes 
+Hallettsville Municipal Utilities Yes 
+Hearne Municipal Electric System No 
+Hemphill City Government Yes 
+Hempstead Electric Department Yes 
+Jasper Light & Power System Yes 
+Kirbyville Light & Power Company Yes 
+La Grange Utilities Yes 
+Lexington Municipal Electric Department Yes 
+Liberty Municipal Electric System Yes 
+Livingston Municipal Electric System Yes 
+Moulton Electric Department Yes 
+Newton Municipal Utilities Yes 
+Robstown Utility System Yes 
+San Augustine Light & Water Department Yes 
+Schulenburg Utilities Department Yes 
+Shiner City of Yes 
+Timpson Light & Water Department Yes 
+Weimar Electric Utilities Yes 
+Yoakum Municipal Utilities Yes 
+Water Utilities 
+Aqua Texas Yes 
+Texas Water Utilities LP Yes 
+Quadvest LP Yes 
+Undine Texas LLC Yes 
+CSWR- Texas Utility Operating Company LLC Yes 
+MSEC Enterprises Yes 
+Corix Utilities Texas Inc. Yes 
+T & W Water Service Company Yes 
+Utilities Investment Companies Inc. Yes 
+Crystal Springs Water No 
+Nextera Water Texas LLC Yes 
+Woodland Hills Water Yes 
+C & R Water Supply Inc. No 
+Midway Water Utilities Inc. No 
+Orbit Systems No 
+SRC Water Supply Inc. No 
+Undine Texas Environmental LLC No 
+63 
+=== PAGE 67 ===
+Telecommunications Utilities 
+Spectrum Yes 
+AirCanopy Internet Services, Inc No 
+Ameriphone Network, LLC No 
+Astound Broadband Yes 
+AT&T Texas Yes 
+Cumby Telephone Cooperative No 
+Gigamonster Network LLC No 
+Nextlink Internet Yes 
+South Texas Internet LLC No 
+64 
+=== PAGE 68 ===
+Acronyms 
+AEP American Electric Power 
+CPD Consumer Protection Division 
+CSWR Central States Water Resources 
+EOP Emergency Operations Plan 
+FTE Full-Time Equivalent 
+ICS Incident Command System 
+lou Investor-Owned Utility 
+MOU Municipally Owned Utility 
+NESC National Electric Safety Code 
+OCS Operating Condition System 
+PGC Power Generation Company 
+PURA Public Utility Regulatory Act 
+PWS Public Water System 
+REP Retail Electric Provider 
+RFI Request for Information 
+ROW Right-of-Way 
+RUS Rural Utilities Services 
+SAIDI System Average Interruption Duration Index 
+SAIFI System Average Interruption Frequency Index 
+TDU Transmission and Distribution Utility 
+TEEEF Temporary Emergency Electric Facilities 
+TNMP Texas-New Mexico Power 
+TSP Transmission Service Provider 
+TWC Texas Water Code 
+65 
+=== PAGE 69 ===
+Impacted Counties 
+Anderson Lee 
+Angelina Leon 
+Aransas Liberty 
+Austin Madison 
+Bowie Marion 
+Brazoria Matagorda 
+Brazos Milam 
+Burleson Montgomery 
+Calhoun Morris 
+Cameron Nacogdoches 
+Camp Newton 
+Cass Nueces 
+Chambers Orange 
+Cherokee Panola 
+Colorado Polk 
+DeWitt Refugio 
+Fayette Robertson 
+Fort Bend Rusk 
+Freestone Sabine 
+Galveston San Augustine 
+Goliad San Jacinto 
+Gregg San Patricio 
+Grimes Shelby 
+Hardin Trinity 
+Harris Tyler 
+Harrison Upshur 
+Hidalgo Victoria 
+Houston Walker 
+Jackson Waller 
+Jasper Washington 
+Jefferson Webb 
+Kenedy 
+Willacy 
+Wharton 
+Kleberg 
+Lavaca 
+66 

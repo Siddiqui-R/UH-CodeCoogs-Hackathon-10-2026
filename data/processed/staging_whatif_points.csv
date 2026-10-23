@@ -1,0 +1,711 @@
+scenario,point_id,label,latitude,longitude,weight,nearest_site,road_km_to_nearest_site
+relief,zip_77002,ZIP 77002,29.75646,-95.36521,482.608,drc_netrality,0.35
+relief,zip_77003,ZIP 77003,29.74937,-95.34578,56.466,grb_shelter,1.67
+relief,zip_77004,ZIP 77004,29.72468,-95.36331,141.827,msc_third_ward,0.62
+relief,zip_77005,ZIP 77005,29.71819,-95.4245,24.704,nrg_shelter,4.95
+relief,zip_77006,ZIP 77006,29.74084,-95.39135,107.969,drc_netrality,3.74
+relief,zip_77007,ZIP 77007,29.77101,-95.4112,142.158,msc_west_end,1.77
+relief,zip_77008,ZIP 77008,29.79862,-95.4175,219.247,msc_west_end,4.47
+relief,zip_77009,ZIP 77009,29.79515,-95.36773,71.024,msc_west_end,4.88
+relief,zip_77010,ZIP 77010,29.75362,-95.3598,24.483,grb_shelter,0.21
+relief,zip_77011,ZIP 77011,29.74335,-95.30856,187.154,msc_denver_harbor,4.28
+relief,zip_77012,ZIP 77012,29.71889,-95.27447,238.878,msc_denver_harbor,8.7
+relief,zip_77013,ZIP 77013,29.79529,-95.23835,354.457,msc_denver_harbor,9.0
+relief,zip_77014,ZIP 77014,29.98041,-95.46391,95.728,drc_greenspoint,8.3
+relief,zip_77015,ZIP 77015,29.76472,-95.17285,466.617,msc_denver_harbor,16.65
+relief,zip_77016,ZIP 77016,29.86168,-95.29992,497.055,mo_campbell,12.5
+relief,zip_77017,ZIP 77017,29.68989,-95.2522,91.868,msc_denver_harbor,13.71
+relief,zip_77018,ZIP 77018,29.827,-95.42571,274.5,msc_west_end,8.56
+relief,zip_77019,ZIP 77019,29.75307,-95.41047,279.463,msc_west_end,3.34
+relief,zip_77020,ZIP 77020,29.77296,-95.31368,436.84,msc_denver_harbor,1.06
+relief,zip_77021,ZIP 77021,29.69708,-95.35742,332.841,msc_third_ward,4.62
+relief,zip_77022,ZIP 77022,29.83048,-95.37716,124.291,msc_west_end,8.66
+relief,zip_77023,ZIP 77023,29.72173,-95.31861,184.617,msc_third_ward,5.52
+relief,zip_77024,ZIP 77024,29.77078,-95.51221,1115.645,drc_bayland,11.32
+relief,zip_77025,ZIP 77025,29.68659,-95.43499,1034.034,nrg_shelter,3.6
+relief,zip_77026,ZIP 77026,29.80034,-95.32992,45.548,msc_fifth_ward,4.02
+relief,zip_77027,ZIP 77027,29.7401,-95.44593,82.273,msc_west_end,7.75
+relief,zip_77028,ZIP 77028,29.82457,-95.28666,108.41,msc_denver_harbor,7.84
+relief,zip_77029,ZIP 77029,29.76294,-95.2623,154.84,msc_denver_harbor,5.57
+relief,zip_77030,ZIP 77030,29.70622,-95.40247,43.783,nrg_shelter,2.71
+relief,zip_77031,ZIP 77031,29.65449,-95.54627,11.139,rc_stafford,7.78
+relief,zip_77032,ZIP 77032,29.96467,-95.34158,81.501,mo_campbell,5.24
+relief,zip_77033,ZIP 77033,29.66704,-95.33693,118.005,msc_sunnyside,2.75
+relief,zip_77034,ZIP 77034,29.61835,-95.19294,395.372,rc_dobie,8.24
+relief,zip_77035,ZIP 77035,29.65276,-95.47682,282.33,drc_bayland,6.37
+relief,zip_77036,ZIP 77036,29.70141,-95.53631,125.505,drc_bayland,5.31
+relief,zip_77037,ZIP 77037,29.89066,-95.39432,113.483,mo_campbell,7.42
+relief,zip_77038,ZIP 77038,29.91885,-95.4414,166.972,drc_greenspoint,5.34
+relief,zip_77039,ZIP 77039,29.90942,-95.34132,511.282,mo_campbell,3.87
+relief,zip_77040,ZIP 77040,29.87463,-95.52721,183.515,drc_greenspoint,17.72
+relief,zip_77041,ZIP 77041,29.86039,-95.58026,33.416,drc_church_without_walls,11.17
+relief,zip_77042,ZIP 77042,29.74119,-95.56044,579.659,drc_st_john_vianney,7.8
+relief,zip_77043,ZIP 77043,29.81142,-95.58124,375.19,drc_st_john_vianney,7.19
+relief,zip_77044,ZIP 77044,29.89843,-95.17692,1654.609,drc_humble,18.77
+relief,zip_77045,ZIP 77045,29.63614,-95.43231,68.487,nrg_shelter,8.15
+relief,zip_77046,ZIP 77046,29.73376,-95.43339,0.662,msc_west_end,7.28
+relief,zip_77047,ZIP 77047,29.60827,-95.38679,151.642,msc_sunnyside,8.07
+relief,zip_77048,ZIP 77048,29.6206,-95.33022,152.414,msc_sunnyside,6.15
+relief,zip_77049,ZIP 77049,29.83354,-95.14857,1008.889,msc_denver_harbor,21.52
+relief,zip_77050,ZIP 77050,29.90314,-95.27016,63.745,mo_campbell,11.82
+relief,zip_77051,ZIP 77051,29.65623,-95.37989,65.84,msc_sunnyside,3.06
+relief,zip_77053,ZIP 77053,29.58322,-95.46001,34.519,rc_stafford,10.83
+relief,zip_77054,ZIP 77054,29.68093,-95.40468,18.197,nrg_shelter,1.02
+relief,zip_77055,ZIP 77055,29.79776,-95.49228,179.765,msc_west_end,12.44
+relief,zip_77056,ZIP 77056,29.74817,-95.46791,351.148,drc_bayland,8.54
+relief,zip_77057,ZIP 77057,29.74512,-95.48866,332.62,drc_bayland,7.44
+relief,zip_77058,ZIP 77058,29.56253,-95.09283,198.513,drc_webster,5.23
+relief,zip_77059,ZIP 77059,29.60756,-95.12486,44.555,drc_webster,10.67
+relief,zip_77060,ZIP 77060,29.93521,-95.39693,147.782,drc_greenspoint,2.34
+relief,zip_77061,ZIP 77061,29.65366,-95.28425,293.359,msc_sunnyside,8.97
+relief,zip_77062,ZIP 77062,29.5749,-95.13146,40.585,drc_webster,6.15
+relief,zip_77063,ZIP 77063,29.73542,-95.52114,606.679,drc_bayland,6.85
+relief,zip_77064,ZIP 77064,29.92209,-95.54725,98.485,drc_greenspoint,17.32
+relief,zip_77065,ZIP 77065,29.9271,-95.60373,83.376,drc_church_without_walls,13.03
+relief,zip_77066,ZIP 77066,29.95663,-95.50232,212.63,drc_greenspoint,11.48
+relief,zip_77067,ZIP 77067,29.95279,-95.44715,28.674,drc_greenspoint,4.59
+relief,zip_77068,ZIP 77068,30.00575,-95.48675,74.553,drc_greenspoint,12.85
+relief,zip_77069,ZIP 77069,29.98553,-95.52428,127.6,drc_greenspoint,15.27
+relief,zip_77070,ZIP 77070,29.9776,-95.57314,820.301,drc_greenspoint,20.77
+relief,zip_77071,ZIP 77071,29.65304,-95.52035,82.383,drc_bayland,6.72
+relief,zip_77072,ZIP 77072,29.69933,-95.5853,73.45,drc_st_john_vianney,10.8
+relief,zip_77073,ZIP 77073,30.00005,-95.39967,178.552,drc_greenspoint,8.07
+relief,zip_77074,ZIP 77074,29.68769,-95.51671,648.367,drc_bayland,2.88
+relief,zip_77075,ZIP 77075,29.6208,-95.26697,231.378,rc_dobie,4.75
+relief,zip_77076,ZIP 77076,29.85936,-95.38363,225.313,mo_campbell,10.9
+relief,zip_77077,ZIP 77077,29.75,-95.61529,705.053,drc_st_john_vianney,2.91
+relief,zip_77078,ZIP 77078,29.85285,-95.25129,322.143,msc_denver_harbor,13.4
+relief,zip_77079,ZIP 77079,29.77638,-95.60561,1703.024,drc_st_john_vianney,1.3
+relief,zip_77080,ZIP 77080,29.81601,-95.52444,40.144,drc_st_john_vianney,12.95
+relief,zip_77081,ZIP 77081,29.71204,-95.48132,1561.749,drc_bayland,3.13
+relief,zip_77082,ZIP 77082,29.72344,-95.64138,66.281,drc_st_john_vianney,7.62
+relief,zip_77083,ZIP 77083,29.69334,-95.64877,30.88,drc_st_john_vianney,11.96
+relief,zip_77084,ZIP 77084,29.8262,-95.66195,1091.493,drc_church_without_walls,4.56
+relief,zip_77085,ZIP 77085,29.62442,-95.48399,6.727,rc_stafford,8.26
+relief,zip_77086,ZIP 77086,29.91821,-95.49096,34.85,drc_greenspoint,10.68
+relief,zip_77087,ZIP 77087,29.68627,-95.30348,347.95,msc_sunnyside,7.79
+relief,zip_77088,ZIP 77088,29.88187,-95.45364,332.069,drc_greenspoint,10.56
+relief,zip_77089,ZIP 77089,29.5865,-95.22515,912.5,rc_dobie,3.27
+relief,zip_77090,ZIP 77090,30.00902,-95.44401,1461.61,drc_greenspoint,10.08
+relief,zip_77091,ZIP 77091,29.85403,-95.44105,369.786,msc_west_end,12.92
+relief,zip_77092,ZIP 77092,29.82988,-95.47437,318.835,msc_west_end,12.68
+relief,zip_77093,ZIP 77093,29.86203,-95.34098,288.396,mo_campbell,10.3
+relief,zip_77094,ZIP 77094,29.76206,-95.67877,205.461,drc_st_john_vianney,8.33
+relief,zip_77095,ZIP 77095,29.90831,-95.65321,51.944,drc_church_without_walls,7.67
+relief,zip_77096,ZIP 77096,29.67486,-95.47948,601.165,drc_bayland,3.37
+relief,zip_77098,ZIP 77098,29.73487,-95.41518,14.999,msc_west_end,5.97
+relief,zip_77099,ZIP 77099,29.67078,-95.58512,70.913,rc_stafford,11.39
+relief,zip_77316,ZIP 77316,30.31021,-95.68162,74.663,drc_magnolia,18.0
+relief,zip_77336,ZIP 77336,30.0638,-95.09908,144.032,drc_humble,21.56
+relief,zip_77338,ZIP 77338,30.00707,-95.2909,422.172,drc_humble,4.05
+relief,zip_77339,ZIP 77339,30.04918,-95.22146,3095.485,drc_humble,7.63
+relief,zip_77345,ZIP 77345,30.05396,-95.1588,1376.359,drc_humble,14.19
+relief,zip_77346,ZIP 77346,29.99509,-95.17713,405.739,drc_humble,10.34
+relief,zip_77354,ZIP 77354,30.21157,-95.647,355.67,drc_magnolia,10.61
+relief,zip_77355,ZIP 77355,30.15737,-95.74709,255.862,drc_magnolia,5.58
+relief,zip_77357,ZIP 77357,30.15952,-95.19284,1.103,drc_humble,23.49
+relief,zip_77362,ZIP 77362,30.15778,-95.66806,80.288,drc_magnolia,9.14
+relief,zip_77365,ZIP 77365,30.11169,-95.26862,180.978,drc_humble,15.14
+relief,zip_77373,ZIP 77373,30.06177,-95.38453,795.487,drc_greenspoint,17.19
+relief,zip_77375,ZIP 77375,30.09508,-95.58901,168.847,drc_magnolia,22.49
+relief,zip_77377,ZIP 77377,30.06138,-95.68288,117.895,drc_magnolia,19.84
+relief,zip_77379,ZIP 77379,30.03882,-95.53328,421.62,drc_greenspoint,20.38
+relief,zip_77380,ZIP 77380,30.13625,-95.46858,321.812,drc_greenspoint,28.52
+relief,zip_77382,ZIP 77382,30.19787,-95.54642,12.462,drc_magnolia,22.84
+relief,zip_77385,ZIP 77385,30.18898,-95.42243,69.7,drc_humble,33.31
+relief,zip_77386,ZIP 77386,30.10143,-95.35578,808.28,drc_humble,18.25
+relief,zip_77388,ZIP 77388,30.05952,-95.46828,314.864,drc_greenspoint,17.98
+relief,zip_77389,ZIP 77389,30.11497,-95.50733,1388.821,drc_greenspoint,27.31
+relief,zip_77396,ZIP 77396,29.94858,-95.25909,598.628,drc_humble,8.49
+relief,zip_77401,ZIP 77401,29.70453,-95.46176,329.973,drc_bayland,4.44
+relief,zip_77406,ZIP 77406,29.64388,-95.79868,63.414,rc_terry,14.68
+relief,zip_77407,ZIP 77407,29.67649,-95.71277,112.932,drc_st_john_vianney,18.43
+relief,zip_77417,ZIP 77417,29.46412,-95.96602,59.003,drc_wharton,25.43
+relief,zip_77418,ZIP 77418,29.97909,-96.25008,2.426,drc_simonton,55.79
+relief,zip_77420,ZIP 77420,29.25809,-95.93012,13.455,drc_wharton,22.91
+relief,zip_77422,ZIP 77422,28.96037,-95.56028,0.441,rc_george_ranch,82.17
+relief,zip_77423,ZIP 77423,29.83818,-95.9832,46.981,drc_katy_mills,23.38
+relief,zip_77429,ZIP 77429,29.99127,-95.66,550.213,drc_church_without_walls,19.43
+relief,zip_77430,ZIP 77430,29.26779,-95.65384,36.394,rc_george_ranch,36.34
+relief,zip_77433,ZIP 77433,29.94924,-95.73981,33.196,drc_church_without_walls,15.99
+relief,zip_77435,ZIP 77435,29.51735,-96.11142,28.123,drc_wharton,27.51
+relief,zip_77441,ZIP 77441,29.66838,-95.92283,139.842,drc_simonton,6.77
+relief,zip_77444,ZIP 77444,29.28836,-95.77684,8.823,rc_george_ranch,34.64
+relief,zip_77445,ZIP 77445,30.10181,-96.06606,1.434,drc_magnolia,44.12
+relief,zip_77447,ZIP 77447,30.05091,-95.83011,60.436,drc_magnolia,24.07
+relief,zip_77449,ZIP 77449,29.83548,-95.7376,12.021,drc_church_without_walls,9.12
+relief,zip_77450,ZIP 77450,29.74671,-95.73878,483.38,drc_katy_mills,10.07
+relief,zip_77459,ZIP 77459,29.52675,-95.5339,95.507,drc_sienna,1.09
+relief,zip_77461,ZIP 77461,29.37969,-95.80709,5.183,rc_terry,24.32
+relief,zip_77468,ZIP 77468,29.14226,-95.93146,0.331,drc_wharton,33.7
+relief,zip_77469,ZIP 77469,29.47966,-95.68373,630.942,rc_george_ranch,5.51
+relief,zip_77471,ZIP 77471,29.54601,-95.86912,545.029,rc_terry,12.25
+relief,zip_77474,ZIP 77474,29.77501,-96.18021,1.323,drc_simonton,29.41
+relief,zip_77477,ZIP 77477,29.6262,-95.56701,58.672,rc_stafford,4.7
+relief,zip_77478,ZIP 77478,29.61958,-95.60731,5.514,rc_stafford,8.44
+relief,zip_77479,ZIP 77479,29.56712,-95.6359,44.445,rc_george_ranch,10.29
+relief,zip_77481,ZIP 77481,29.47046,-95.55973,18.418,drc_sienna,9.5
+relief,zip_77482,ZIP 77482,29.10222,-95.88014,0.11,drc_wharton,42.26
+relief,zip_77484,ZIP 77484,30.07766,-95.92994,7.83,drc_magnolia,30.11
+relief,zip_77485,ZIP 77485,29.63314,-96.05739,25.586,drc_simonton,11.85
+relief,zip_77486,ZIP 77486,29.15777,-95.67957,12.903,rc_george_ranch,51.92
+relief,zip_77488,ZIP 77488,29.30791,-96.0929,99.367,drc_wharton,2.86
+relief,zip_77489,ZIP 77489,29.60071,-95.51622,118.005,rc_stafford,3.46
+relief,zip_77493,ZIP 77493,29.85091,-95.83103,43.783,drc_katy_mills,10.59
+relief,zip_77494,ZIP 77494,29.74364,-95.82926,16.543,drc_katy_mills,5.84
+relief,zip_77498,ZIP 77498,29.64321,-95.65236,8.823,rc_stafford,14.97
+relief,zip_77502,ZIP 77502,29.67953,-95.19955,171.383,rc_dobie,14.29
+relief,zip_77503,ZIP 77503,29.70217,-95.1593,230.937,rc_dobie,19.72
+relief,zip_77504,ZIP 77504,29.64809,-95.19017,125.505,rc_dobie,11.19
+relief,zip_77505,ZIP 77505,29.64615,-95.1383,35.291,rc_dobie,16.19
+relief,zip_77506,ZIP 77506,29.71473,-95.19992,87.787,msc_denver_harbor,15.66
+relief,zip_77507,ZIP 77507,29.62614,-95.06437,1.213,drc_webster,14.95
+relief,zip_77510,ZIP 77510,29.36065,-95.0854,155.723,rc_abundant_life,8.69
+relief,zip_77511,ZIP 77511,29.38118,-95.2427,90.324,rc_living_stones,10.4
+relief,zip_77515,ZIP 77515,29.17344,-95.44995,92.419,rc_living_stones,48.92
+relief,zip_77517,ZIP 77517,29.36892,-95.13207,65.73,rc_abundant_life,14.14
+relief,zip_77518,ZIP 77518,29.50716,-94.98708,141.716,drc_dickinson,10.89
+relief,zip_77520,ZIP 77520,29.73286,-94.99423,57.679,drc_baytown,0.73
+relief,zip_77521,ZIP 77521,29.79923,-94.96573,251.119,drc_baytown,10.96
+relief,zip_77523,ZIP 77523,29.78879,-94.86671,168.405,drc_baytown,18.52
+relief,zip_77530,ZIP 77530,29.78828,-95.11177,43.894,drc_baytown,16.82
+relief,zip_77531,ZIP 77531,29.05012,-95.39232,3.198,rc_living_stones,61.63
+relief,zip_77532,ZIP 77532,29.93014,-95.05667,270.419,drc_humble,27.63
+relief,zip_77534,ZIP 77534,29.22661,-95.30954,6.838,rc_living_stones,34.13
+relief,zip_77535,ZIP 77535,30.06014,-94.91854,14.999,drc_humble,43.23
+relief,zip_77536,ZIP 77536,29.69813,-95.12131,24.042,drc_baytown,16.23
+relief,zip_77539,ZIP 77539,29.4561,-95.02951,86.022,drc_dickinson,3.29
+relief,zip_77541,ZIP 77541,29.02375,-95.3131,74.553,rc_living_stones,62.82
+relief,zip_77545,ZIP 77545,29.53633,-95.47466,65.068,drc_sienna,7.97
+relief,zip_77546,ZIP 77546,29.51469,-95.19177,191.896,drc_webster,9.65
+relief,zip_77547,ZIP 77547,29.73603,-95.23758,53.378,msc_denver_harbor,10.02
+relief,zip_77550,ZIP 77550,29.31027,-94.77595,293.689,rc_abundant_life,32.53
+relief,zip_77551,ZIP 77551,29.27846,-94.83304,176.456,rc_abundant_life,27.97
+relief,zip_77554,ZIP 77554,29.24792,-94.92384,630.942,rc_abundant_life,22.88
+relief,zip_77562,ZIP 77562,29.83111,-95.05358,67.825,drc_baytown,16.47
+relief,zip_77563,ZIP 77563,29.29476,-95.03001,201.932,rc_abundant_life,12.62
+relief,zip_77565,ZIP 77565,29.53665,-95.03027,7.499,drc_league_city,9.38
+relief,zip_77566,ZIP 77566,29.0506,-95.47623,81.28,rc_living_stones,65.85
+relief,zip_77568,ZIP 77568,29.36399,-94.97976,3.639,rc_abundant_life,5.77
+relief,zip_77571,ZIP 77571,29.69082,-95.05375,258.288,drc_baytown,8.97
+relief,zip_77573,ZIP 77573,29.5036,-95.08508,0.11,drc_league_city,1.13
+relief,zip_77577,ZIP 77577,29.27988,-95.27932,0.662,rc_living_stones,25.68
+relief,zip_77578,ZIP 77578,29.48136,-95.36589,36.174,rc_living_stones,17.62
+relief,zip_77581,ZIP 77581,29.56099,-95.27887,480.071,rc_dobie,5.63
+relief,zip_77583,ZIP 77583,29.37993,-95.46169,166.972,drc_sienna,24.17
+relief,zip_77584,ZIP 77584,29.5454,-95.34894,404.747,rc_dobie,14.02
+relief,zip_77586,ZIP 77586,29.58441,-95.03616,45.107,drc_webster,12.65
+relief,zip_77587,ZIP 77587,29.6611,-95.22949,138.298,rc_dobie,10.45
+relief,zip_77598,ZIP 77598,29.53771,-95.13687,131.46,drc_webster,2.4
+relief,cell_28.9_-95.6,"Claims cell 28.9, -95.6",28.9,-95.6,10.529,drc_wharton,87.78
+relief,cell_28.9_-95.5,"Claims cell 28.9, -95.5",28.9,-95.5,39.86,rc_living_stones,86.8
+relief,cell_28.9_-95.4,"Claims cell 28.9, -95.4",28.9,-95.4,8.273,rc_living_stones,82.67
+relief,cell_28.9_-95.3,"Claims cell 28.9, -95.3",28.9,-95.3,7.521,rc_abundant_life,78.05
+relief,cell_29.0_-95.8,"Claims cell 29.0, -95.8",29.0,-95.8,3.008,drc_wharton,60.13
+relief,cell_29.0_-95.7,"Claims cell 29.0, -95.7",29.0,-95.7,37.604,drc_wharton,68.63
+relief,cell_29.0_-95.6,"Claims cell 29.0, -95.6",29.0,-95.6,198.55,rc_george_ranch,75.63
+relief,cell_29.0_-95.5,"Claims cell 29.0, -95.5",29.0,-95.5,28.579,rc_living_stones,73.72
+relief,cell_29.0_-95.4,"Claims cell 29.0, -95.4",29.0,-95.4,65.431,rc_living_stones,68.81
+relief,cell_29.0_-95.3,"Claims cell 29.0, -95.3",29.0,-95.3,13.537,rc_abundant_life,65.47
+relief,cell_29.0_-95.2,"Claims cell 29.0, -95.2",29.0,-95.2,3.008,rc_abundant_life,59.63
+relief,cell_29.1_-95.8,"Claims cell 29.1, -95.8",29.1,-95.8,6.017,drc_wharton,49.53
+relief,cell_29.1_-95.7,"Claims cell 29.1, -95.7",29.1,-95.7,72.2,drc_wharton,59.56
+relief,cell_29.1_-95.6,"Claims cell 29.1, -95.6",29.1,-95.6,200.054,rc_george_ranch,61.39
+relief,cell_29.1_-95.5,"Claims cell 29.1, -95.5",29.1,-95.5,263.229,rc_living_stones,61.26
+relief,cell_29.1_-95.4,"Claims cell 29.1, -95.4",29.1,-95.4,319.635,rc_living_stones,55.25
+relief,cell_29.1_-95.3,"Claims cell 29.1, -95.3",29.1,-95.3,40.612,rc_living_stones,51.68
+relief,cell_29.1_-95.1,"Claims cell 29.1, -95.1",29.1,-95.1,21.058,rc_abundant_life,41.93
+relief,cell_29.1_-95.0,"Claims cell 29.1, -95.0",29.1,-95.0,8.273,rc_abundant_life,40.81
+relief,cell_29.2_-95.8,"Claims cell 29.2, -95.8",29.2,-95.8,2.256,drc_wharton,41.35
+relief,cell_29.2_-95.7,"Claims cell 29.2, -95.7",29.2,-95.7,6.017,rc_george_ranch,45.8
+relief,cell_29.2_-95.6,"Claims cell 29.2, -95.6",29.2,-95.6,20.306,rc_george_ranch,47.29
+relief,cell_29.2_-95.5,"Claims cell 29.2, -95.5",29.2,-95.5,200.806,drc_sienna,48.43
+relief,cell_29.2_-95.4,"Claims cell 29.2, -95.4",29.2,-95.4,63.927,rc_living_stones,42.3
+relief,cell_29.2_-95.3,"Claims cell 29.2, -95.3",29.2,-95.3,33.092,rc_living_stones,37.52
+relief,cell_29.2_-95.2,"Claims cell 29.2, -95.2",29.2,-95.2,7.521,rc_abundant_life,34.65
+relief,cell_29.2_-95.0,"Claims cell 29.2, -95.0",29.2,-95.0,33.844,rc_abundant_life,26.4
+relief,cell_29.2_-94.9,"Claims cell 29.2, -94.9",29.2,-94.9,21.81,rc_abundant_life,30.36
+relief,cell_29.3_-95.9,"Claims cell 29.3, -95.9",29.3,-95.9,5.265,drc_wharton,24.71
+relief,cell_29.3_-95.8,"Claims cell 29.3, -95.8",29.3,-95.8,5.265,rc_george_ranch,34.07
+relief,cell_29.3_-95.7,"Claims cell 29.3, -95.7",29.3,-95.7,5.265,rc_george_ranch,31.34
+relief,cell_29.3_-95.6,"Claims cell 29.3, -95.6",29.3,-95.6,38.356,rc_george_ranch,33.48
+relief,cell_29.3_-95.5,"Claims cell 29.3, -95.5",29.3,-95.5,87.242,drc_sienna,34.08
+relief,cell_29.3_-95.4,"Claims cell 29.3, -95.4",29.3,-95.4,6.769,rc_living_stones,30.71
+relief,cell_29.3_-95.3,"Claims cell 29.3, -95.3",29.3,-95.3,140.64,rc_living_stones,23.71
+relief,cell_29.3_-95.2,"Claims cell 29.3, -95.2",29.3,-95.2,10.529,rc_living_stones,22.33
+relief,cell_29.3_-95.1,"Claims cell 29.3, -95.1",29.3,-95.1,124.846,rc_abundant_life,15.47
+relief,cell_29.3_-95.0,"Claims cell 29.3, -95.0",29.3,-95.0,107.548,rc_abundant_life,12.1
+relief,cell_29.3_-94.9,"Claims cell 29.3, -94.9",29.3,-94.9,78.217,rc_abundant_life,19.26
+relief,cell_29.3_-94.8,"Claims cell 29.3, -94.8",29.3,-94.8,473.06,rc_abundant_life,30.22
+relief,cell_29.3_-94.7,"Claims cell 29.3, -94.7",29.3,-94.7,0.752,rc_abundant_life,42.11
+relief,cell_29.4_-96.0,"Claims cell 29.4, -96.0",29.4,-96.0,1.504,drc_wharton,15.74
+relief,cell_29.4_-95.9,"Claims cell 29.4, -95.9",29.4,-95.9,7.521,rc_terry,26.47
+relief,cell_29.4_-95.8,"Claims cell 29.4, -95.8",29.4,-95.8,15.794,rc_terry,21.27
+relief,cell_29.4_-95.7,"Claims cell 29.4, -95.7",29.4,-95.7,0.752,rc_george_ranch,16.9
+relief,cell_29.4_-95.6,"Claims cell 29.4, -95.6",29.4,-95.6,10.529,rc_george_ranch,20.59
+relief,cell_29.4_-95.5,"Claims cell 29.4, -95.5",29.4,-95.5,24.067,drc_sienna,19.87
+relief,cell_29.4_-95.4,"Claims cell 29.4, -95.4",29.4,-95.4,90.25,rc_living_stones,22.71
+relief,cell_29.4_-95.3,"Claims cell 29.4, -95.3",29.4,-95.3,292.56,rc_living_stones,11.61
+relief,cell_29.4_-95.2,"Claims cell 29.4, -95.2",29.4,-95.2,161.698,rc_living_stones,8.44
+relief,cell_29.4_-95.1,"Claims cell 29.4, -95.1",29.4,-95.1,1137.15,rc_abundant_life,10.32
+relief,cell_29.4_-95.0,"Claims cell 29.4, -95.0",29.4,-95.0,612.196,rc_abundant_life,3.72
+relief,cell_29.4_-94.9,"Claims cell 29.4, -94.9",29.4,-94.9,118.077,rc_abundant_life,15.44
+relief,cell_29.4_-94.8,"Claims cell 29.4, -94.8",29.4,-94.8,3.008,rc_abundant_life,27.93
+relief,cell_29.4_-94.7,"Claims cell 29.4, -94.7",29.4,-94.7,6.017,rc_abundant_life,40.49
+relief,cell_29.5_-96.0,"Claims cell 29.5, -96.0",29.5,-96.0,3.008,drc_simonton,25.46
+relief,cell_29.5_-95.9,"Claims cell 29.5, -95.9",29.5,-95.9,6.017,rc_terry,17.4
+relief,cell_29.5_-95.8,"Claims cell 29.5, -95.8",29.5,-95.8,23.315,rc_terry,7.42
+relief,cell_29.5_-95.7,"Claims cell 29.5, -95.7",29.5,-95.7,24.067,rc_george_ranch,2.55
+relief,cell_29.5_-95.6,"Claims cell 29.5, -95.6",29.5,-95.6,151.921,drc_sienna,9.18
+relief,cell_29.5_-95.5,"Claims cell 29.5, -95.5",29.5,-95.5,119.581,drc_sienna,6.79
+relief,cell_29.5_-95.4,"Claims cell 29.5, -95.4",29.5,-95.4,124.846,drc_sienna,18.01
+relief,cell_29.5_-95.3,"Claims cell 29.5, -95.3",29.5,-95.3,262.477,rc_living_stones,11.2
+relief,cell_29.5_-95.2,"Claims cell 29.5, -95.2",29.5,-95.2,1479.348,rc_living_stones,7.86
+relief,cell_29.5_-95.1,"Claims cell 29.5, -95.1",29.5,-95.1,1968.954,drc_league_city,0.87
+relief,cell_29.5_-95.0,"Claims cell 29.5, -95.0",29.5,-95.0,931.831,drc_dickinson,8.97
+relief,cell_29.5_-94.9,"Claims cell 29.5, -94.9",29.5,-94.9,33.844,drc_dickinson,20.33
+relief,cell_29.5_-94.6,"Claims cell 29.5, -94.6",29.5,-94.6,19.554,rc_abundant_life,55.66
+relief,cell_29.5_-94.5,"Claims cell 29.5, -94.5",29.5,-94.5,1.504,rc_abundant_life,67.75
+relief,cell_29.6_-96.1,"Claims cell 29.6, -96.1",29.6,-96.1,3.008,drc_simonton,18.95
+relief,cell_29.6_-96.0,"Claims cell 29.6, -96.0",29.6,-96.0,18.802,drc_simonton,11.23
+relief,cell_29.6_-95.9,"Claims cell 29.6, -95.9",29.6,-95.9,5.265,drc_simonton,14.46
+relief,cell_29.6_-95.8,"Claims cell 29.6, -95.8",29.6,-95.8,272.254,rc_terry,8.7
+relief,cell_29.6_-95.7,"Claims cell 29.6, -95.7",29.6,-95.7,364.008,rc_terry,12.01
+relief,cell_29.6_-95.6,"Claims cell 29.6, -95.6",29.6,-95.6,182.004,rc_stafford,7.07
+relief,cell_29.6_-95.5,"Claims cell 29.6, -95.5",29.6,-95.5,441.473,rc_stafford,5.5
+relief,cell_29.6_-95.4,"Claims cell 29.6, -95.4",29.6,-95.4,318.131,msc_sunnyside,9.96
+relief,cell_29.6_-95.3,"Claims cell 29.6, -95.3",29.6,-95.3,1027.346,rc_dobie,6.34
+relief,cell_29.6_-95.2,"Claims cell 29.6, -95.2",29.6,-95.2,2671.4,rc_dobie,6.49
+relief,cell_29.6_-95.1,"Claims cell 29.6, -95.1",29.6,-95.1,599.41,drc_webster,9.82
+relief,cell_29.6_-95.0,"Claims cell 29.6, -95.0",29.6,-95.0,388.827,drc_webster,17.68
+relief,cell_29.7_-96.1,"Claims cell 29.7, -96.1",29.7,-96.1,0.752,drc_simonton,15.96
+relief,cell_29.7_-96.0,"Claims cell 29.7, -96.0",29.7,-96.0,171.475,drc_simonton,4.69
+relief,cell_29.7_-95.9,"Claims cell 29.7, -95.9",29.7,-95.9,56.406,drc_simonton,10.24
+relief,cell_29.7_-95.8,"Claims cell 29.7, -95.8",29.7,-95.8,294.817,drc_katy_mills,11.64
+relief,cell_29.7_-95.7,"Claims cell 29.7, -95.7",29.7,-95.7,650.552,drc_st_john_vianney,14.89
+relief,cell_29.7_-95.6,"Claims cell 29.7, -95.6",29.7,-95.6,712.975,drc_st_john_vianney,10.26
+relief,cell_29.7_-95.5,"Claims cell 29.7, -95.5",29.7,-95.5,5027.677,drc_bayland,1.09
+relief,cell_29.7_-95.4,"Claims cell 29.7, -95.4",29.7,-95.4,2022.352,nrg_shelter,1.93
+relief,cell_29.7_-95.3,"Claims cell 29.7, -95.3",29.7,-95.3,532.475,msc_third_ward,8.81
+relief,cell_29.7_-95.2,"Claims cell 29.7, -95.2",29.7,-95.2,1316.898,msc_denver_harbor,16.89
+relief,cell_29.7_-95.1,"Claims cell 29.7, -95.1",29.7,-95.1,582.865,drc_baytown,13.58
+relief,cell_29.7_-95.0,"Claims cell 29.7, -95.0",29.7,-95.0,156.433,drc_baytown,4.12
+relief,cell_29.7_-94.9,"Claims cell 29.7, -94.9",29.7,-94.9,48.133,drc_baytown,12.83
+relief,cell_29.8_-95.9,"Claims cell 29.8, -95.9",29.8,-95.9,3.008,drc_katy_mills,11.75
+relief,cell_29.8_-95.8,"Claims cell 29.8, -95.8",29.8,-95.8,364.76,drc_katy_mills,3.1
+relief,cell_29.8_-95.7,"Claims cell 29.8, -95.7",29.8,-95.7,697.181,drc_church_without_walls,9.11
+relief,cell_29.8_-95.6,"Claims cell 29.8, -95.6",29.8,-95.6,2824.073,drc_st_john_vianney,4.63
+relief,cell_29.8_-95.5,"Claims cell 29.8, -95.5",29.8,-95.5,936.344,msc_west_end,13.46
+relief,cell_29.8_-95.4,"Claims cell 29.8, -95.4",29.8,-95.4,1416.925,msc_west_end,3.9
+relief,cell_29.8_-95.3,"Claims cell 29.8, -95.3",29.8,-95.3,893.475,msc_denver_harbor,3.99
+relief,cell_29.8_-95.2,"Claims cell 29.8, -95.2",29.8,-95.2,1091.273,msc_denver_harbor,13.77
+relief,cell_29.8_-95.1,"Claims cell 29.8, -95.1",29.8,-95.1,204.567,drc_baytown,16.58
+relief,cell_29.8_-95.0,"Claims cell 29.8, -95.0",29.8,-95.0,419.662,drc_baytown,10.36
+relief,cell_29.8_-94.9,"Claims cell 29.8, -94.9",29.8,-94.9,306.85,drc_baytown,15.96
+relief,cell_29.9_-95.8,"Claims cell 29.9, -95.8",29.9,-95.8,36.1,drc_katy_mills,17.37
+relief,cell_29.9_-95.7,"Claims cell 29.9, -95.7",29.9,-95.7,228.633,drc_church_without_walls,7.3
+relief,cell_29.9_-95.6,"Claims cell 29.9, -95.6",29.9,-95.6,886.706,drc_church_without_walls,10.67
+relief,cell_29.9_-95.5,"Claims cell 29.9, -95.5",29.9,-95.5,894.979,drc_greenspoint,12.86
+relief,cell_29.9_-95.4,"Claims cell 29.9, -95.4",29.9,-95.4,1524.473,drc_greenspoint,6.69
+relief,cell_29.9_-95.3,"Claims cell 29.9, -95.3",29.9,-95.3,1059.685,mo_campbell,8.65
+relief,cell_29.9_-95.2,"Claims cell 29.9, -95.2",29.9,-95.2,252.7,drc_humble,17.16
+relief,cell_29.9_-95.1,"Claims cell 29.9, -95.1",29.9,-95.1,98.523,drc_humble,25.2
+relief,cell_29.9_-95.0,"Claims cell 29.9, -95.0",29.9,-95.0,71.448,drc_baytown,24.81
+relief,cell_30.0_-95.8,"Claims cell 30.0, -95.8",30.0,-95.8,11.281,drc_church_without_walls,26.37
+relief,cell_30.0_-95.7,"Claims cell 30.0, -95.7",30.0,-95.7,385.819,drc_church_without_walls,21.02
+relief,cell_30.0_-95.6,"Claims cell 30.0, -95.6",30.0,-95.6,1185.283,drc_church_without_walls,22.41
+relief,cell_30.0_-95.5,"Claims cell 30.0, -95.5",30.0,-95.5,1131.133,drc_greenspoint,13.61
+relief,cell_30.0_-95.4,"Claims cell 30.0, -95.4",30.0,-95.4,530.219,drc_greenspoint,8.05
+relief,cell_30.0_-95.3,"Claims cell 30.0, -95.3",30.0,-95.3,279.023,drc_humble,5.3
+relief,cell_30.0_-95.2,"Claims cell 30.0, -95.2",30.0,-95.2,1083.0,drc_humble,7.4
+relief,cell_30.0_-95.1,"Claims cell 30.0, -95.1",30.0,-95.1,317.379,drc_humble,19.87
+relief,cell_30.0_-95.0,"Claims cell 30.0, -95.0",30.0,-95.0,77.465,drc_humble,32.38
+relief,cell_30.1_-95.9,"Claims cell 30.1, -95.9",30.1,-95.9,0.752,drc_magnolia,25.22
+relief,cell_30.1_-95.8,"Claims cell 30.1, -95.8",30.1,-95.8,52.646,drc_magnolia,16.06
+relief,cell_30.1_-95.7,"Claims cell 30.1, -95.7",30.1,-95.7,88.746,drc_magnolia,13.88
+relief,cell_30.1_-95.6,"Claims cell 30.1, -95.6",30.1,-95.6,137.631,drc_magnolia,20.97
+relief,cell_30.1_-95.5,"Claims cell 30.1, -95.5",30.1,-95.5,373.785,drc_greenspoint,24.96
+relief,cell_30.1_-95.4,"Claims cell 30.1, -95.4",30.1,-95.4,248.94,drc_humble,22.2
+relief,cell_30.1_-95.3,"Claims cell 30.1, -95.3",30.1,-95.3,83.481,drc_humble,14.37
+relief,cell_30.1_-95.2,"Claims cell 30.1, -95.2",30.1,-95.2,227.881,drc_humble,15.27
+relief,cell_30.1_-95.1,"Claims cell 30.1, -95.1",30.1,-95.1,114.317,drc_humble,23.94
+relief,cell_30.1_-93.7,"Claims cell 30.1, -93.7",30.1,-93.7,0.752,drc_baytown,171.14
+relief,cell_30.2_-95.8,"Claims cell 30.2, -95.8",30.2,-95.8,18.802,drc_magnolia,8.92
+relief,cell_30.2_-95.7,"Claims cell 30.2, -95.7",30.2,-95.7,18.05,drc_magnolia,3.79
+relief,cell_30.2_-95.6,"Claims cell 30.2, -95.6",30.2,-95.6,159.442,drc_magnolia,16.16
+relief,cell_30.2_-95.5,"Claims cell 30.2, -95.5",30.2,-95.5,100.027,drc_magnolia,28.64
+relief,cell_30.2_-95.4,"Claims cell 30.2, -95.4",30.2,-95.4,315.123,drc_humble,33.0
+relief,cell_30.2_-95.3,"Claims cell 30.2, -95.3",30.2,-95.3,33.844,drc_humble,28.33
+relief,cell_30.2_-95.2,"Claims cell 30.2, -95.2",30.2,-95.2,129.358,drc_humble,28.8
+relief,cell_30.2_-95.1,"Claims cell 30.2, -95.1",30.2,-95.1,6.769,drc_humble,34.19
+relief,cell_30.3_-95.7,"Claims cell 30.3, -95.7",30.3,-95.7,3.008,drc_magnolia,15.93
+relief,cell_30.3_-95.6,"Claims cell 30.3, -95.6",30.3,-95.6,21.81,drc_magnolia,22.37
+relief,cell_30.3_-95.5,"Claims cell 30.3, -95.5",30.3,-95.5,48.885,drc_magnolia,32.54
+relief,cell_30.3_-95.4,"Claims cell 30.3, -95.4",30.3,-95.4,58.662,drc_magnolia,43.93
+relief,cell_30.3_-95.3,"Claims cell 30.3, -95.3",30.3,-95.3,16.546,drc_humble,42.63
+relief,cell_30.3_-95.2,"Claims cell 30.3, -95.2",30.3,-95.2,5.265,drc_humble,42.94
+relief,cell_30.3_-95.1,"Claims cell 30.3, -95.1",30.3,-95.1,1.504,drc_humble,46.72
+relief,cell_30.4_-95.8,"Claims cell 30.4, -95.8",30.4,-95.8,0.752,drc_magnolia,31.25
+relief,cell_30.4_-95.7,"Claims cell 30.4, -95.7",30.4,-95.7,3.76,drc_magnolia,30.19
+relief,cell_30.4_-95.6,"Claims cell 30.4, -95.6",30.4,-95.6,170.723,drc_magnolia,34.03
+relief,cell_30.4_-95.5,"Claims cell 30.4, -95.5",30.4,-95.5,5.265,drc_magnolia,41.42
+relief,cell_30.4_-95.4,"Claims cell 30.4, -95.4",30.4,-95.4,2.256,drc_magnolia,50.85
+relief,cell_30.4_-95.3,"Claims cell 30.4, -95.3",30.4,-95.3,0.752,drc_humble,57.0
+relief,cell_30.5_-95.7,"Claims cell 30.5, -95.7",30.5,-95.7,0.752,drc_magnolia,44.57
+relief,cell_30.5_-95.6,"Claims cell 30.5, -95.6",30.5,-95.6,16.546,drc_magnolia,47.25
+relief,cell_30.5_-95.5,"Claims cell 30.5, -95.5",30.5,-95.5,3.76,drc_magnolia,52.82
+power,zip_77002,ZIP 77002,29.75646,-95.36521,4376,cnp_harrisburg,2.67
+power,zip_77003,ZIP 77003,29.74937,-95.34578,512,cnp_harrisburg,0.24
+power,zip_77004,ZIP 77004,29.72468,-95.36331,1286,cnp_harrisburg,4.43
+power,zip_77005,ZIP 77005,29.71819,-95.4245,224,cnp_bellaire,3.08
+power,zip_77006,ZIP 77006,29.74084,-95.39135,979,cnp_harrisburg,6.0
+power,zip_77007,ZIP 77007,29.77101,-95.4112,1289,cnp_harrisburg,8.81
+power,zip_77008,ZIP 77008,29.79862,-95.4175,1988,cnp_harrisburg,11.42
+power,zip_77009,ZIP 77009,29.79515,-95.36773,644,cnp_harrisburg,7.01
+power,zip_77010,ZIP 77010,29.75362,-95.3598,222,cnp_harrisburg,1.9
+power,zip_77011,ZIP 77011,29.74335,-95.30856,1697,cnp_harrisburg,4.7
+power,zip_77012,ZIP 77012,29.71889,-95.27447,2166,cnp_harrisburg,9.98
+power,zip_77013,ZIP 77013,29.79529,-95.23835,3214,cnp_harrisburg,14.84
+power,zip_77014,ZIP 77014,29.98041,-95.46391,868,cnp_greenspoint,5.11
+power,zip_77015,ZIP 77015,29.76472,-95.17285,4231,cnp_south_houston,18.2
+power,zip_77016,ZIP 77016,29.86168,-95.29992,4507,cnp_harrisburg,16.99
+power,zip_77017,ZIP 77017,29.68989,-95.2522,833,cnp_south_houston,8.83
+power,zip_77018,ZIP 77018,29.827,-95.42571,2489,cnp_harrisburg,14.96
+power,zip_77019,ZIP 77019,29.75307,-95.41047,2534,cnp_bellaire,7.08
+power,zip_77020,ZIP 77020,29.77296,-95.31368,3961,cnp_harrisburg,5.06
+power,zip_77021,ZIP 77021,29.69708,-95.35742,3018,cnp_harrisburg,7.93
+power,zip_77022,ZIP 77022,29.83048,-95.37716,1127,cnp_harrisburg,12.2
+power,zip_77023,ZIP 77023,29.72173,-95.31861,1674,cnp_harrisburg,5.35
+power,zip_77024,ZIP 77024,29.77078,-95.51221,10116,cnp_spring_branch,10.25
+power,zip_77025,ZIP 77025,29.68659,-95.43499,9376,cnp_bellaire,4.78
+power,zip_77026,ZIP 77026,29.80034,-95.32992,413,cnp_harrisburg,7.4
+power,zip_77027,ZIP 77027,29.7401,-95.44593,746,cnp_bellaire,3.31
+power,zip_77028,ZIP 77028,29.82457,-95.28666,983,cnp_harrisburg,12.93
+power,zip_77029,ZIP 77029,29.76294,-95.2623,1404,cnp_harrisburg,10.52
+power,zip_77030,ZIP 77030,29.70622,-95.40247,397,cnp_bellaire,6.06
+power,zip_77031,ZIP 77031,29.65449,-95.54627,101,cnp_sugar_land,8.97
+power,zip_77032,ZIP 77032,29.96467,-95.34158,739,cnp_humble,9.82
+power,zip_77033,ZIP 77033,29.66704,-95.33693,1070,cnp_harrisburg,12.16
+power,zip_77034,ZIP 77034,29.61835,-95.19294,3585,cnp_south_houston,3.96
+power,zip_77035,ZIP 77035,29.65276,-95.47682,2560,cnp_bellaire,9.97
+power,zip_77036,ZIP 77036,29.70141,-95.53631,1138,cnp_bellaire,11.2
+power,zip_77037,ZIP 77037,29.89066,-95.39432,1029,cnp_greenspoint,11.03
+power,zip_77038,ZIP 77038,29.91885,-95.4414,1514,cnp_greenspoint,4.27
+power,zip_77039,ZIP 77039,29.90942,-95.34132,4636,cnp_greenspoint,15.19
+power,zip_77040,ZIP 77040,29.87463,-95.52721,1664,cnp_spring_branch,9.44
+power,zip_77041,ZIP 77041,29.86039,-95.58026,303,cnp_spring_branch,5.85
+power,zip_77042,ZIP 77042,29.74119,-95.56044,5256,cnp_spring_branch,11.58
+power,zip_77043,ZIP 77043,29.81142,-95.58124,3402,cnp_spring_branch,1.97
+power,zip_77044,ZIP 77044,29.89843,-95.17692,15003,cnp_humble,19.37
+power,zip_77045,ZIP 77045,29.63614,-95.43231,621,cnp_bellaire,11.93
+power,zip_77046,ZIP 77046,29.73376,-95.43339,6,cnp_bellaire,3.08
+power,zip_77047,ZIP 77047,29.60827,-95.38679,1375,cnp_bellaire,17.6
+power,zip_77048,ZIP 77048,29.6206,-95.33022,1382,cnp_south_houston,15.7
+power,zip_77049,ZIP 77049,29.83354,-95.14857,9148,cnp_baytown,26.96
+power,zip_77050,ZIP 77050,29.90314,-95.27016,578,cnp_humble,14.24
+power,zip_77051,ZIP 77051,29.65623,-95.37989,597,cnp_bellaire,12.39
+power,zip_77053,ZIP 77053,29.58322,-95.46001,313,cnp_bellaire,19.44
+power,zip_77054,ZIP 77054,29.68093,-95.40468,165,cnp_bellaire,7.66
+power,zip_77055,ZIP 77055,29.79776,-95.49228,1630,cnp_spring_branch,10.3
+power,zip_77056,ZIP 77056,29.74817,-95.46791,3184,cnp_bellaire,5.05
+power,zip_77057,ZIP 77057,29.74512,-95.48866,3016,cnp_bellaire,6.39
+power,zip_77058,ZIP 77058,29.56253,-95.09283,1800,cnp_south_houston,18.51
+power,zip_77059,ZIP 77059,29.60756,-95.12486,404,cnp_south_houston,11.58
+power,zip_77060,ZIP 77060,29.93521,-95.39693,1340,cnp_greenspoint,7.45
+power,zip_77061,ZIP 77061,29.65366,-95.28425,2660,cnp_south_houston,9.74
+power,zip_77062,ZIP 77062,29.5749,-95.13146,368,cnp_south_houston,13.7
+power,zip_77063,ZIP 77063,29.73542,-95.52114,5501,cnp_bellaire,9.42
+power,zip_77064,ZIP 77064,29.92209,-95.54725,893,cnp_greenspoint,12.05
+power,zip_77065,ZIP 77065,29.9271,-95.60373,756,cnp_cypress,15.69
+power,zip_77066,ZIP 77066,29.95663,-95.50232,1928,cnp_greenspoint,6.12
+power,zip_77067,ZIP 77067,29.95279,-95.44715,260,cnp_greenspoint,1.41
+power,zip_77068,ZIP 77068,30.00575,-95.48675,676,cnp_greenspoint,9.52
+power,zip_77069,ZIP 77069,29.98553,-95.52428,1157,cnp_greenspoint,10.39
+power,zip_77070,ZIP 77070,29.9776,-95.57314,7438,cnp_greenspoint,15.48
+power,zip_77071,ZIP 77071,29.65304,-95.52035,747,cnp_sugar_land,12.23
+power,zip_77072,ZIP 77072,29.69933,-95.5853,666,cnp_sugar_land,6.73
+power,zip_77073,ZIP 77073,30.00005,-95.39967,1619,cnp_greenspoint,10.46
+power,zip_77074,ZIP 77074,29.68769,-95.51671,5879,cnp_bellaire,9.52
+power,zip_77075,ZIP 77075,29.6208,-95.26697,2098,cnp_south_houston,8.07
+power,zip_77076,ZIP 77076,29.85936,-95.38363,2043,cnp_greenspoint,15.38
+power,zip_77077,ZIP 77077,29.75,-95.61529,6393,cnp_spring_branch,11.72
+power,zip_77078,ZIP 77078,29.85285,-95.25129,2921,cnp_harrisburg,18.86
+power,zip_77079,ZIP 77079,29.77638,-95.60561,15442,cnp_spring_branch,7.83
+power,zip_77080,ZIP 77080,29.81601,-95.52444,364,cnp_spring_branch,5.76
+power,zip_77081,ZIP 77081,29.71204,-95.48132,14161,cnp_bellaire,4.13
+power,zip_77082,ZIP 77082,29.72344,-95.64138,601,cnp_sugar_land,9.4
+power,zip_77083,ZIP 77083,29.69334,-95.64877,280,cnp_sugar_land,6.03
+power,zip_77084,ZIP 77084,29.8262,-95.66195,9897,cnp_spring_branch,11.56
+power,zip_77085,ZIP 77085,29.62442,-95.48399,61,cnp_bellaire,14.13
+power,zip_77086,ZIP 77086,29.91821,-95.49096,316,cnp_greenspoint,6.02
+power,zip_77087,ZIP 77087,29.68627,-95.30348,3155,cnp_harrisburg,10.69
+power,zip_77088,ZIP 77088,29.88187,-95.45364,3011,cnp_greenspoint,9.25
+power,zip_77089,ZIP 77089,29.5865,-95.22515,8274,cnp_south_houston,8.38
+power,zip_77090,ZIP 77090,30.00902,-95.44401,13253,cnp_greenspoint,9.23
+power,zip_77091,ZIP 77091,29.85403,-95.44105,3353,cnp_greenspoint,13.39
+power,zip_77092,ZIP 77092,29.82988,-95.47437,2891,cnp_spring_branch,12.06
+power,zip_77093,ZIP 77093,29.86203,-95.34098,2615,cnp_harrisburg,16.08
+power,zip_77094,ZIP 77094,29.76206,-95.67877,1863,cnp_spring_branch,16.08
+power,zip_77095,ZIP 77095,29.90831,-95.65321,471,cnp_cypress,14.09
+power,zip_77096,ZIP 77096,29.67486,-95.47948,5451,cnp_bellaire,7.24
+power,zip_77098,ZIP 77098,29.73487,-95.41518,136,cnp_bellaire,4.95
+power,zip_77099,ZIP 77099,29.67078,-95.58512,643,cnp_sugar_land,4.23
+power,zip_77316,ZIP 77316,30.31021,-95.68162,677,cnp_cypress,45.29
+power,zip_77336,ZIP 77336,30.0638,-95.09908,1306,cnp_humble,23.87
+power,zip_77338,ZIP 77338,30.00707,-95.2909,3828,cnp_humble,2.06
+power,zip_77339,ZIP 77339,30.04918,-95.22146,28068,cnp_humble,9.67
+power,zip_77345,ZIP 77345,30.05396,-95.1588,12480,cnp_humble,16.48
+power,zip_77346,ZIP 77346,29.99509,-95.17713,3679,cnp_humble,12.38
+power,zip_77354,ZIP 77354,30.21157,-95.647,3225,cnp_cypress,31.66
+power,zip_77355,ZIP 77355,30.15737,-95.74709,2320,cnp_cypress,23.9
+power,zip_77357,ZIP 77357,30.15952,-95.19284,10,cnp_humble,25.08
+power,zip_77362,ZIP 77362,30.15778,-95.66806,728,cnp_cypress,23.53
+power,zip_77365,ZIP 77365,30.11169,-95.26862,1641,cnp_humble,15.95
+power,zip_77373,ZIP 77373,30.06177,-95.38453,7213,cnp_humble,16.16
+power,zip_77375,ZIP 77375,30.09508,-95.58901,1531,cnp_cypress,19.76
+power,zip_77377,ZIP 77377,30.06138,-95.68288,1069,cnp_cypress,9.49
+power,zip_77379,ZIP 77379,30.03882,-95.53328,3823,cnp_greenspoint,16.62
+power,zip_77380,ZIP 77380,30.13625,-95.46858,2918,cnp_greenspoint,27.57
+power,zip_77382,ZIP 77382,30.19787,-95.54642,113,cnp_cypress,34.74
+power,zip_77385,ZIP 77385,30.18898,-95.42243,632,cnp_humble,32.72
+power,zip_77386,ZIP 77386,30.10143,-95.35578,7329,cnp_humble,17.57
+power,zip_77388,ZIP 77388,30.05952,-95.46828,2855,cnp_greenspoint,16.51
+power,zip_77389,ZIP 77389,30.11497,-95.50733,12593,cnp_greenspoint,25.3
+power,zip_77396,ZIP 77396,29.94858,-95.25909,5428,cnp_humble,7.94
+power,zip_77401,ZIP 77401,29.70453,-95.46176,2992,cnp_bellaire,2.45
+power,zip_77406,ZIP 77406,29.64388,-95.79868,575,cnp_fort_bend,11.98
+power,zip_77407,ZIP 77407,29.67649,-95.71277,1024,cnp_sugar_land,12.19
+power,zip_77417,ZIP 77417,29.46412,-95.96602,535,cnp_fort_bend,26.64
+power,zip_77418,ZIP 77418,29.97909,-96.25008,22,cnp_katy,61.07
+power,zip_77420,ZIP 77420,29.25809,-95.93012,122,cnp_fort_bend,47.47
+power,zip_77422,ZIP 77422,28.96037,-95.56028,4,cnp_fort_bend,91.48
+power,zip_77423,ZIP 77423,29.83818,-95.9832,426,cnp_katy,22.2
+power,zip_77429,ZIP 77429,29.99127,-95.66,4989,cnp_cypress,5.0
+power,zip_77430,ZIP 77430,29.26779,-95.65384,330,cnp_fort_bend,45.64
+power,zip_77433,ZIP 77433,29.94924,-95.73981,301,cnp_cypress,8.6
+power,zip_77435,ZIP 77435,29.51735,-96.11142,255,cnp_fort_bend,41.38
+power,zip_77441,ZIP 77441,29.66838,-95.92283,1268,cnp_katy,21.55
+power,zip_77444,ZIP 77444,29.28836,-95.77684,80,cnp_fort_bend,39.53
+power,zip_77445,ZIP 77445,30.10181,-96.06606,13,cnp_cypress,48.32
+power,zip_77447,ZIP 77447,30.05091,-95.83011,548,cnp_cypress,18.12
+power,zip_77449,ZIP 77449,29.83548,-95.7376,109,cnp_katy,12.27
+power,zip_77450,ZIP 77450,29.74671,-95.73878,4383,cnp_katy,11.3
+power,zip_77459,ZIP 77459,29.52675,-95.5339,866,cnp_sugar_land,22.17
+power,zip_77461,ZIP 77461,29.37969,-95.80709,47,cnp_fort_bend,26.44
+power,zip_77468,ZIP 77468,29.14226,-95.93146,3,cnp_fort_bend,63.33
+power,zip_77469,ZIP 77469,29.47966,-95.68373,5721,cnp_fort_bend,17.53
+power,zip_77471,ZIP 77471,29.54601,-95.86912,4942,cnp_fort_bend,10.65
+power,zip_77474,ZIP 77474,29.77501,-96.18021,12,cnp_katy,45.61
+power,zip_77477,ZIP 77477,29.6262,-95.56701,532,cnp_sugar_land,8.15
+power,zip_77478,ZIP 77478,29.61958,-95.60731,50,cnp_sugar_land,6.24
+power,zip_77479,ZIP 77479,29.56712,-95.6359,403,cnp_sugar_land,13.9
+power,zip_77481,ZIP 77481,29.47046,-95.55973,167,cnp_sugar_land,28.6
+power,zip_77482,ZIP 77482,29.10222,-95.88014,1,cnp_fort_bend,67.46
+power,zip_77484,ZIP 77484,30.07766,-95.92994,71,cnp_cypress,31.11
+power,zip_77485,ZIP 77485,29.63314,-96.05739,232,cnp_fort_bend,35.6
+power,zip_77486,ZIP 77486,29.15777,-95.67957,117,cnp_fort_bend,59.92
+power,zip_77488,ZIP 77488,29.30791,-96.0929,901,cnp_fort_bend,53.25
+power,zip_77489,ZIP 77489,29.60071,-95.51622,1070,cnp_sugar_land,15.47
+power,zip_77493,ZIP 77493,29.85091,-95.83103,397,cnp_katy,9.59
+power,zip_77494,ZIP 77494,29.74364,-95.82926,150,cnp_katy,6.27
+power,zip_77498,ZIP 77498,29.64321,-95.65236,80,cnp_sugar_land,5.18
+power,zip_77502,ZIP 77502,29.67953,-95.19955,1554,cnp_south_houston,5.45
+power,zip_77503,ZIP 77503,29.70217,-95.1593,2094,cnp_south_houston,10.56
+power,zip_77504,ZIP 77504,29.64809,-95.19017,1138,cnp_south_houston,2.36
+power,zip_77505,ZIP 77505,29.64615,-95.1383,320,cnp_south_houston,8.75
+power,zip_77506,ZIP 77506,29.71473,-95.19992,796,cnp_south_houston,10.49
+power,zip_77507,ZIP 77507,29.62614,-95.06437,11,cnp_south_houston,18.18
+power,zip_77510,ZIP 77510,29.36065,-95.0854,1412,cnp_galveston,37.14
+power,zip_77511,ZIP 77511,29.38118,-95.2427,819,cnp_south_houston,38.03
+power,zip_77515,ZIP 77515,29.17344,-95.44995,838,cnp_fort_bend,70.33
+power,zip_77517,ZIP 77517,29.36892,-95.13207,596,cnp_south_houston,40.68
+power,zip_77518,ZIP 77518,29.50716,-94.98708,1285,cnp_south_houston,33.95
+power,zip_77520,ZIP 77520,29.73286,-94.99423,523,cnp_baytown,4.33
+power,zip_77521,ZIP 77521,29.79923,-94.96573,2277,cnp_baytown,8.3
+power,zip_77523,ZIP 77523,29.78879,-94.86671,1527,cnp_baytown,13.67
+power,zip_77530,ZIP 77530,29.78828,-95.11177,398,cnp_baytown,20.03
+power,zip_77531,ZIP 77531,29.05012,-95.39232,29,cnp_galveston,83.45
+power,zip_77532,ZIP 77532,29.93014,-95.05667,2452,cnp_humble,29.31
+power,zip_77534,ZIP 77534,29.22661,-95.30954,62,cnp_south_houston,61.47
+power,zip_77535,ZIP 77535,30.06014,-94.91854,136,cnp_humble,45.5
+power,zip_77536,ZIP 77536,29.69813,-95.12131,218,cnp_south_houston,13.52
+power,zip_77539,ZIP 77539,29.4561,-95.02951,780,cnp_south_houston,35.06
+power,zip_77541,ZIP 77541,29.02375,-95.3131,676,cnp_galveston,76.54
+power,zip_77545,ZIP 77545,29.53633,-95.47466,590,cnp_sugar_land,25.5
+power,zip_77546,ZIP 77546,29.51469,-95.19177,1740,cnp_south_houston,18.59
+power,zip_77547,ZIP 77547,29.73603,-95.23758,484,cnp_harrisburg,13.65
+power,zip_77550,ZIP 77550,29.31027,-94.77595,2663,cnp_galveston,2.97
+power,zip_77551,ZIP 77551,29.27846,-94.83304,1600,cnp_galveston,5.68
+power,zip_77554,ZIP 77554,29.24792,-94.92384,5721,cnp_galveston,17.76
+power,zip_77562,ZIP 77562,29.83111,-95.05358,615,cnp_baytown,17.32
+power,zip_77563,ZIP 77563,29.29476,-95.03001,1831,cnp_galveston,29.26
+power,zip_77565,ZIP 77565,29.53665,-95.03027,68,cnp_south_houston,27.06
+power,zip_77566,ZIP 77566,29.0506,-95.47623,737,cnp_fort_bend,83.58
+power,zip_77568,ZIP 77568,29.36399,-94.97976,33,cnp_galveston,24.52
+power,zip_77571,ZIP 77571,29.69082,-95.05375,2342,cnp_baytown,13.76
+power,zip_77573,ZIP 77573,29.5036,-95.08508,1,cnp_south_houston,25.32
+power,zip_77577,ZIP 77577,29.27988,-95.27932,6,cnp_south_houston,53.19
+power,zip_77578,ZIP 77578,29.48136,-95.36589,328,cnp_south_houston,30.62
+power,zip_77581,ZIP 77581,29.56099,-95.27887,4353,cnp_south_houston,14.79
+power,zip_77583,ZIP 77583,29.37993,-95.46169,1514,cnp_sugar_land,45.21
+power,zip_77584,ZIP 77584,29.5454,-95.34894,3670,cnp_south_houston,22.62
+power,zip_77586,ZIP 77586,29.58441,-95.03616,409,cnp_south_houston,23.15
+power,zip_77587,ZIP 77587,29.6611,-95.22949,1254,cnp_south_houston,3.83
+power,zip_77598,ZIP 77598,29.53771,-95.13687,1192,cnp_south_houston,17.58
+flood,cell_28.9_-95.6,"Claims cell 28.9, -95.6",28.9,-95.6,14,drc_wharton,87.78
+flood,cell_28.9_-95.5,"Claims cell 28.9, -95.5",28.9,-95.5,53,rc_living_stones,86.8
+flood,cell_28.9_-95.4,"Claims cell 28.9, -95.4",28.9,-95.4,11,rc_living_stones,82.67
+flood,cell_28.9_-95.3,"Claims cell 28.9, -95.3",28.9,-95.3,10,rc_abundant_life,78.05
+flood,cell_29.0_-95.8,"Claims cell 29.0, -95.8",29.0,-95.8,4,drc_wharton,60.13
+flood,cell_29.0_-95.7,"Claims cell 29.0, -95.7",29.0,-95.7,50,drc_wharton,68.63
+flood,cell_29.0_-95.6,"Claims cell 29.0, -95.6",29.0,-95.6,264,rc_george_ranch,75.63
+flood,cell_29.0_-95.5,"Claims cell 29.0, -95.5",29.0,-95.5,38,rc_living_stones,73.72
+flood,cell_29.0_-95.4,"Claims cell 29.0, -95.4",29.0,-95.4,87,rc_living_stones,68.81
+flood,cell_29.0_-95.3,"Claims cell 29.0, -95.3",29.0,-95.3,18,rc_abundant_life,65.47
+flood,cell_29.0_-95.2,"Claims cell 29.0, -95.2",29.0,-95.2,4,rc_abundant_life,59.63
+flood,cell_29.1_-95.8,"Claims cell 29.1, -95.8",29.1,-95.8,8,drc_wharton,49.53
+flood,cell_29.1_-95.7,"Claims cell 29.1, -95.7",29.1,-95.7,96,drc_wharton,59.56
+flood,cell_29.1_-95.6,"Claims cell 29.1, -95.6",29.1,-95.6,266,rc_george_ranch,61.39
+flood,cell_29.1_-95.5,"Claims cell 29.1, -95.5",29.1,-95.5,350,rc_living_stones,61.26
+flood,cell_29.1_-95.4,"Claims cell 29.1, -95.4",29.1,-95.4,425,rc_living_stones,55.25
+flood,cell_29.1_-95.3,"Claims cell 29.1, -95.3",29.1,-95.3,54,rc_living_stones,51.68
+flood,cell_29.1_-95.1,"Claims cell 29.1, -95.1",29.1,-95.1,28,rc_abundant_life,41.93
+flood,cell_29.1_-95.0,"Claims cell 29.1, -95.0",29.1,-95.0,11,rc_abundant_life,40.81
+flood,cell_29.2_-95.8,"Claims cell 29.2, -95.8",29.2,-95.8,3,drc_wharton,41.35
+flood,cell_29.2_-95.7,"Claims cell 29.2, -95.7",29.2,-95.7,8,rc_george_ranch,45.8
+flood,cell_29.2_-95.6,"Claims cell 29.2, -95.6",29.2,-95.6,27,rc_george_ranch,47.29
+flood,cell_29.2_-95.5,"Claims cell 29.2, -95.5",29.2,-95.5,267,drc_sienna,48.43
+flood,cell_29.2_-95.4,"Claims cell 29.2, -95.4",29.2,-95.4,85,rc_living_stones,42.3
+flood,cell_29.2_-95.3,"Claims cell 29.2, -95.3",29.2,-95.3,44,rc_living_stones,37.52
+flood,cell_29.2_-95.2,"Claims cell 29.2, -95.2",29.2,-95.2,10,rc_abundant_life,34.65
+flood,cell_29.2_-95.0,"Claims cell 29.2, -95.0",29.2,-95.0,45,rc_abundant_life,26.4
+flood,cell_29.2_-94.9,"Claims cell 29.2, -94.9",29.2,-94.9,29,rc_abundant_life,30.36
+flood,cell_29.3_-95.9,"Claims cell 29.3, -95.9",29.3,-95.9,7,drc_wharton,24.71
+flood,cell_29.3_-95.8,"Claims cell 29.3, -95.8",29.3,-95.8,7,rc_george_ranch,34.07
+flood,cell_29.3_-95.7,"Claims cell 29.3, -95.7",29.3,-95.7,7,rc_george_ranch,31.34
+flood,cell_29.3_-95.6,"Claims cell 29.3, -95.6",29.3,-95.6,51,rc_george_ranch,33.48
+flood,cell_29.3_-95.5,"Claims cell 29.3, -95.5",29.3,-95.5,116,drc_sienna,34.08
+flood,cell_29.3_-95.4,"Claims cell 29.3, -95.4",29.3,-95.4,9,rc_living_stones,30.71
+flood,cell_29.3_-95.3,"Claims cell 29.3, -95.3",29.3,-95.3,187,rc_living_stones,23.71
+flood,cell_29.3_-95.2,"Claims cell 29.3, -95.2",29.3,-95.2,14,rc_living_stones,22.33
+flood,cell_29.3_-95.1,"Claims cell 29.3, -95.1",29.3,-95.1,166,rc_abundant_life,15.47
+flood,cell_29.3_-95.0,"Claims cell 29.3, -95.0",29.3,-95.0,143,rc_abundant_life,12.1
+flood,cell_29.3_-94.9,"Claims cell 29.3, -94.9",29.3,-94.9,104,rc_abundant_life,19.26
+flood,cell_29.3_-94.8,"Claims cell 29.3, -94.8",29.3,-94.8,629,rc_abundant_life,30.22
+flood,cell_29.3_-94.7,"Claims cell 29.3, -94.7",29.3,-94.7,1,rc_abundant_life,42.11
+flood,cell_29.4_-96.0,"Claims cell 29.4, -96.0",29.4,-96.0,2,drc_wharton,15.74
+flood,cell_29.4_-95.9,"Claims cell 29.4, -95.9",29.4,-95.9,10,rc_terry,26.47
+flood,cell_29.4_-95.8,"Claims cell 29.4, -95.8",29.4,-95.8,21,rc_terry,21.27
+flood,cell_29.4_-95.7,"Claims cell 29.4, -95.7",29.4,-95.7,1,rc_george_ranch,16.9
+flood,cell_29.4_-95.6,"Claims cell 29.4, -95.6",29.4,-95.6,14,rc_george_ranch,20.59
+flood,cell_29.4_-95.5,"Claims cell 29.4, -95.5",29.4,-95.5,32,drc_sienna,19.87
+flood,cell_29.4_-95.4,"Claims cell 29.4, -95.4",29.4,-95.4,120,rc_living_stones,22.71
+flood,cell_29.4_-95.3,"Claims cell 29.4, -95.3",29.4,-95.3,389,rc_living_stones,11.61
+flood,cell_29.4_-95.2,"Claims cell 29.4, -95.2",29.4,-95.2,215,rc_living_stones,8.44
+flood,cell_29.4_-95.1,"Claims cell 29.4, -95.1",29.4,-95.1,1512,rc_abundant_life,10.32
+flood,cell_29.4_-95.0,"Claims cell 29.4, -95.0",29.4,-95.0,814,rc_abundant_life,3.72
+flood,cell_29.4_-94.9,"Claims cell 29.4, -94.9",29.4,-94.9,157,rc_abundant_life,15.44
+flood,cell_29.4_-94.8,"Claims cell 29.4, -94.8",29.4,-94.8,4,rc_abundant_life,27.93
+flood,cell_29.4_-94.7,"Claims cell 29.4, -94.7",29.4,-94.7,8,rc_abundant_life,40.49
+flood,cell_29.5_-96.0,"Claims cell 29.5, -96.0",29.5,-96.0,4,drc_simonton,25.46
+flood,cell_29.5_-95.9,"Claims cell 29.5, -95.9",29.5,-95.9,8,rc_terry,17.4
+flood,cell_29.5_-95.8,"Claims cell 29.5, -95.8",29.5,-95.8,31,rc_terry,7.42
+flood,cell_29.5_-95.7,"Claims cell 29.5, -95.7",29.5,-95.7,32,rc_george_ranch,2.55
+flood,cell_29.5_-95.6,"Claims cell 29.5, -95.6",29.5,-95.6,202,drc_sienna,9.18
+flood,cell_29.5_-95.5,"Claims cell 29.5, -95.5",29.5,-95.5,159,drc_sienna,6.79
+flood,cell_29.5_-95.4,"Claims cell 29.5, -95.4",29.5,-95.4,166,drc_sienna,18.01
+flood,cell_29.5_-95.3,"Claims cell 29.5, -95.3",29.5,-95.3,349,rc_living_stones,11.2
+flood,cell_29.5_-95.2,"Claims cell 29.5, -95.2",29.5,-95.2,1967,rc_living_stones,7.86
+flood,cell_29.5_-95.1,"Claims cell 29.5, -95.1",29.5,-95.1,2618,drc_league_city,0.87
+flood,cell_29.5_-95.0,"Claims cell 29.5, -95.0",29.5,-95.0,1239,drc_dickinson,8.97
+flood,cell_29.5_-94.9,"Claims cell 29.5, -94.9",29.5,-94.9,45,drc_dickinson,20.33
+flood,cell_29.5_-94.6,"Claims cell 29.5, -94.6",29.5,-94.6,26,rc_abundant_life,55.66
+flood,cell_29.5_-94.5,"Claims cell 29.5, -94.5",29.5,-94.5,2,rc_abundant_life,67.75
+flood,cell_29.6_-96.1,"Claims cell 29.6, -96.1",29.6,-96.1,4,drc_simonton,18.95
+flood,cell_29.6_-96.0,"Claims cell 29.6, -96.0",29.6,-96.0,25,drc_simonton,11.23
+flood,cell_29.6_-95.9,"Claims cell 29.6, -95.9",29.6,-95.9,7,drc_simonton,14.46
+flood,cell_29.6_-95.8,"Claims cell 29.6, -95.8",29.6,-95.8,362,rc_terry,8.7
+flood,cell_29.6_-95.7,"Claims cell 29.6, -95.7",29.6,-95.7,484,rc_terry,12.01
+flood,cell_29.6_-95.6,"Claims cell 29.6, -95.6",29.6,-95.6,242,rc_stafford,7.07
+flood,cell_29.6_-95.5,"Claims cell 29.6, -95.5",29.6,-95.5,587,rc_stafford,5.5
+flood,cell_29.6_-95.4,"Claims cell 29.6, -95.4",29.6,-95.4,423,msc_sunnyside,9.96
+flood,cell_29.6_-95.3,"Claims cell 29.6, -95.3",29.6,-95.3,1366,rc_dobie,6.34
+flood,cell_29.6_-95.2,"Claims cell 29.6, -95.2",29.6,-95.2,3552,rc_dobie,6.49
+flood,cell_29.6_-95.1,"Claims cell 29.6, -95.1",29.6,-95.1,797,drc_webster,9.82
+flood,cell_29.6_-95.0,"Claims cell 29.6, -95.0",29.6,-95.0,517,drc_webster,17.68
+flood,cell_29.7_-96.1,"Claims cell 29.7, -96.1",29.7,-96.1,1,drc_simonton,15.96
+flood,cell_29.7_-96.0,"Claims cell 29.7, -96.0",29.7,-96.0,228,drc_simonton,4.69
+flood,cell_29.7_-95.9,"Claims cell 29.7, -95.9",29.7,-95.9,75,drc_simonton,10.24
+flood,cell_29.7_-95.8,"Claims cell 29.7, -95.8",29.7,-95.8,392,drc_katy_mills,11.64
+flood,cell_29.7_-95.7,"Claims cell 29.7, -95.7",29.7,-95.7,865,drc_st_john_vianney,14.89
+flood,cell_29.7_-95.6,"Claims cell 29.7, -95.6",29.7,-95.6,948,drc_st_john_vianney,10.26
+flood,cell_29.7_-95.5,"Claims cell 29.7, -95.5",29.7,-95.5,6685,drc_bayland,1.09
+flood,cell_29.7_-95.4,"Claims cell 29.7, -95.4",29.7,-95.4,2689,nrg_shelter,1.93
+flood,cell_29.7_-95.3,"Claims cell 29.7, -95.3",29.7,-95.3,708,msc_third_ward,8.81
+flood,cell_29.7_-95.2,"Claims cell 29.7, -95.2",29.7,-95.2,1751,msc_denver_harbor,16.89
+flood,cell_29.7_-95.1,"Claims cell 29.7, -95.1",29.7,-95.1,775,drc_baytown,13.58
+flood,cell_29.7_-95.0,"Claims cell 29.7, -95.0",29.7,-95.0,208,drc_baytown,4.12
+flood,cell_29.7_-94.9,"Claims cell 29.7, -94.9",29.7,-94.9,64,drc_baytown,12.83
+flood,cell_29.8_-95.9,"Claims cell 29.8, -95.9",29.8,-95.9,4,drc_katy_mills,11.75
+flood,cell_29.8_-95.8,"Claims cell 29.8, -95.8",29.8,-95.8,485,drc_katy_mills,3.1
+flood,cell_29.8_-95.7,"Claims cell 29.8, -95.7",29.8,-95.7,927,drc_church_without_walls,9.11
+flood,cell_29.8_-95.6,"Claims cell 29.8, -95.6",29.8,-95.6,3755,drc_st_john_vianney,4.63
+flood,cell_29.8_-95.5,"Claims cell 29.8, -95.5",29.8,-95.5,1245,msc_west_end,13.46
+flood,cell_29.8_-95.4,"Claims cell 29.8, -95.4",29.8,-95.4,1884,msc_west_end,3.9
+flood,cell_29.8_-95.3,"Claims cell 29.8, -95.3",29.8,-95.3,1188,msc_denver_harbor,3.99
+flood,cell_29.8_-95.2,"Claims cell 29.8, -95.2",29.8,-95.2,1451,msc_denver_harbor,13.77
+flood,cell_29.8_-95.1,"Claims cell 29.8, -95.1",29.8,-95.1,272,drc_baytown,16.58
+flood,cell_29.8_-95.0,"Claims cell 29.8, -95.0",29.8,-95.0,558,drc_baytown,10.36
+flood,cell_29.8_-94.9,"Claims cell 29.8, -94.9",29.8,-94.9,408,drc_baytown,15.96
+flood,cell_29.9_-95.8,"Claims cell 29.9, -95.8",29.9,-95.8,48,drc_katy_mills,17.37
+flood,cell_29.9_-95.7,"Claims cell 29.9, -95.7",29.9,-95.7,304,drc_church_without_walls,7.3
+flood,cell_29.9_-95.6,"Claims cell 29.9, -95.6",29.9,-95.6,1179,drc_church_without_walls,10.67
+flood,cell_29.9_-95.5,"Claims cell 29.9, -95.5",29.9,-95.5,1190,drc_greenspoint,12.86
+flood,cell_29.9_-95.4,"Claims cell 29.9, -95.4",29.9,-95.4,2027,drc_greenspoint,6.69
+flood,cell_29.9_-95.3,"Claims cell 29.9, -95.3",29.9,-95.3,1409,mo_campbell,8.65
+flood,cell_29.9_-95.2,"Claims cell 29.9, -95.2",29.9,-95.2,336,drc_humble,17.16
+flood,cell_29.9_-95.1,"Claims cell 29.9, -95.1",29.9,-95.1,131,drc_humble,25.2
+flood,cell_29.9_-95.0,"Claims cell 29.9, -95.0",29.9,-95.0,95,drc_baytown,24.81
+flood,cell_30.0_-95.8,"Claims cell 30.0, -95.8",30.0,-95.8,15,drc_church_without_walls,26.37
+flood,cell_30.0_-95.7,"Claims cell 30.0, -95.7",30.0,-95.7,513,drc_church_without_walls,21.02
+flood,cell_30.0_-95.6,"Claims cell 30.0, -95.6",30.0,-95.6,1576,drc_church_without_walls,22.41
+flood,cell_30.0_-95.5,"Claims cell 30.0, -95.5",30.0,-95.5,1504,drc_greenspoint,13.61
+flood,cell_30.0_-95.4,"Claims cell 30.0, -95.4",30.0,-95.4,705,drc_greenspoint,8.05
+flood,cell_30.0_-95.3,"Claims cell 30.0, -95.3",30.0,-95.3,371,drc_humble,5.3
+flood,cell_30.0_-95.2,"Claims cell 30.0, -95.2",30.0,-95.2,1440,drc_humble,7.4
+flood,cell_30.0_-95.1,"Claims cell 30.0, -95.1",30.0,-95.1,422,drc_humble,19.87
+flood,cell_30.0_-95.0,"Claims cell 30.0, -95.0",30.0,-95.0,103,drc_humble,32.38
+flood,cell_30.1_-95.9,"Claims cell 30.1, -95.9",30.1,-95.9,1,drc_magnolia,25.22
+flood,cell_30.1_-95.8,"Claims cell 30.1, -95.8",30.1,-95.8,70,drc_magnolia,16.06
+flood,cell_30.1_-95.7,"Claims cell 30.1, -95.7",30.1,-95.7,118,drc_magnolia,13.88
+flood,cell_30.1_-95.6,"Claims cell 30.1, -95.6",30.1,-95.6,183,drc_magnolia,20.97
+flood,cell_30.1_-95.5,"Claims cell 30.1, -95.5",30.1,-95.5,497,drc_greenspoint,24.96
+flood,cell_30.1_-95.4,"Claims cell 30.1, -95.4",30.1,-95.4,331,drc_humble,22.2
+flood,cell_30.1_-95.3,"Claims cell 30.1, -95.3",30.1,-95.3,111,drc_humble,14.37
+flood,cell_30.1_-95.2,"Claims cell 30.1, -95.2",30.1,-95.2,303,drc_humble,15.27
+flood,cell_30.1_-95.1,"Claims cell 30.1, -95.1",30.1,-95.1,152,drc_humble,23.94
+flood,cell_30.1_-93.7,"Claims cell 30.1, -93.7",30.1,-93.7,1,drc_baytown,171.14
+flood,cell_30.2_-95.8,"Claims cell 30.2, -95.8",30.2,-95.8,25,drc_magnolia,8.92
+flood,cell_30.2_-95.7,"Claims cell 30.2, -95.7",30.2,-95.7,24,drc_magnolia,3.79
+flood,cell_30.2_-95.6,"Claims cell 30.2, -95.6",30.2,-95.6,212,drc_magnolia,16.16
+flood,cell_30.2_-95.5,"Claims cell 30.2, -95.5",30.2,-95.5,133,drc_magnolia,28.64
+flood,cell_30.2_-95.4,"Claims cell 30.2, -95.4",30.2,-95.4,419,drc_humble,33.0
+flood,cell_30.2_-95.3,"Claims cell 30.2, -95.3",30.2,-95.3,45,drc_humble,28.33
+flood,cell_30.2_-95.2,"Claims cell 30.2, -95.2",30.2,-95.2,172,drc_humble,28.8
+flood,cell_30.2_-95.1,"Claims cell 30.2, -95.1",30.2,-95.1,9,drc_humble,34.19
+flood,cell_30.3_-95.7,"Claims cell 30.3, -95.7",30.3,-95.7,4,drc_magnolia,15.93
+flood,cell_30.3_-95.6,"Claims cell 30.3, -95.6",30.3,-95.6,29,drc_magnolia,22.37
+flood,cell_30.3_-95.5,"Claims cell 30.3, -95.5",30.3,-95.5,65,drc_magnolia,32.54
+flood,cell_30.3_-95.4,"Claims cell 30.3, -95.4",30.3,-95.4,78,drc_magnolia,43.93
+flood,cell_30.3_-95.3,"Claims cell 30.3, -95.3",30.3,-95.3,22,drc_humble,42.63
+flood,cell_30.3_-95.2,"Claims cell 30.3, -95.2",30.3,-95.2,7,drc_humble,42.94
+flood,cell_30.3_-95.1,"Claims cell 30.3, -95.1",30.3,-95.1,2,drc_humble,46.72
+flood,cell_30.4_-95.8,"Claims cell 30.4, -95.8",30.4,-95.8,1,drc_magnolia,31.25
+flood,cell_30.4_-95.7,"Claims cell 30.4, -95.7",30.4,-95.7,5,drc_magnolia,30.19
+flood,cell_30.4_-95.6,"Claims cell 30.4, -95.6",30.4,-95.6,227,drc_magnolia,34.03
+flood,cell_30.4_-95.5,"Claims cell 30.4, -95.5",30.4,-95.5,7,drc_magnolia,41.42
+flood,cell_30.4_-95.4,"Claims cell 30.4, -95.4",30.4,-95.4,3,drc_magnolia,50.85
+flood,cell_30.4_-95.3,"Claims cell 30.4, -95.3",30.4,-95.3,1,drc_humble,57.0
+flood,cell_30.5_-95.7,"Claims cell 30.5, -95.7",30.5,-95.7,1,drc_magnolia,44.57
+flood,cell_30.5_-95.6,"Claims cell 30.5, -95.6",30.5,-95.6,22,drc_magnolia,47.25
+flood,cell_30.5_-95.5,"Claims cell 30.5, -95.5",30.5,-95.5,5,drc_magnolia,52.82

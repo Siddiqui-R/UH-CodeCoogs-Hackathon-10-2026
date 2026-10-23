@@ -1,0 +1,24 @@
+{
+  "retrieved_at_utc": "2026-10-23T16:30:00Z",
+  "text_extraction": "pypdf (one-time, outside the project); text saved under data/raw/reports/text with '=== PAGE n ===' markers. Page numbers in findings are PDF page positions, not printed page labels.",
+  "reports": [
+    {"report_id": "puct_beryl_2024", "storm": "Hurricane_Beryl_2024", "publisher": "Public Utility Commission of Texas", "publisher_type": "state_regulator",
+     "title": "Investigation of Emergency Preparedness and Response by Utilities in Houston and Surrounding Communities (Project No. 56822)", "published": "2024-11-21",
+     "file": "puct_beryl_investigation_2024.pdf", "source_url": "https://interchange.puc.texas.gov/Documents/56822_198_1444252.PDF"},
+    {"report_id": "centerpoint_beryl_2024", "storm": "Hurricane_Beryl_2024", "publisher": "CenterPoint Energy", "publisher_type": "utility",
+     "title": "Hurricane Beryl presentation to the Public Utility Commission of Texas", "published": "2024-07-25",
+     "file": "centerpoint_post_beryl_puc_presentation_2024.pdf", "source_url": "https://static.texastribune.org/media/files/a875f69f60a0f031b6b75d4d9215901f/CenterPoint%20Energy%20Post-Beryl%20Report.pdf"},
+    {"report_id": "nws_beryl_2024", "storm": "Hurricane_Beryl_2024", "publisher": "National Weather Service Houston/Galveston", "publisher_type": "federal_agency",
+     "title": "Post Tropical Cyclone Report: Hurricane Beryl county impact narratives", "published": "2024",
+     "file": "nws_hgx_beryl_impact_narratives_2024.pdf", "source_url": "https://weather.gov/media/hgx/TropicalEventSummary/PSHHGX_2024AL02_Beryl_ImpactNarratives.pdf"},
+    {"report_id": "houston_city_beryl_2024", "storm": "Hurricane_Beryl_2024", "publisher": "City of Houston (Mayor's office)", "publisher_type": "local_government",
+     "title": "City of Houston comments to the PUCT, Dockets 56793, 56822, 56548", "published": "2024-07-25",
+     "file": "houston_city_puct_comments_beryl_2024.pdf", "source_url": "https://interchange.puc.texas.gov/Documents/56822_4_1413755.PDF"},
+    {"report_id": "eye_of_the_storm_2018", "storm": "Hurricane_Harvey_2017", "publisher": "Governor's Commission to Rebuild Texas", "publisher_type": "state_government",
+     "title": "Eye of the Storm: Report of the Governor's Commission to Rebuild Texas", "published": "2018-11",
+     "file": "eye_of_the_storm_harvey_2018.pdf", "source_url": "https://ticc.tamu.edu/IncidentResponse/ahimt_conf/12-11-18-EYE-OF-THE-STORM-digital.pdf"}
+  ],
+  "not_retrieved": [
+    {"title": "PA Consulting, CenterPoint Beryl After Action Final Report (2024-10-25)", "url": "https://www.centerpointenergy.com/en-us/Documents/GHRI%20Tracker/CenterPoint_Beryl_After_Action_Final_Report.pdf", "reason": "Server returned an HTML page instead of the PDF; its findings appear here only where the PUCT report cites them."}
+  ]
+}

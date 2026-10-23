@@ -1,0 +1,46 @@
+county_fips,county_name,report_date,zips_assigned,zips_reporting,split_zips_reporting,outage_count_sum,reporting_zip_customers_sum,outage_pct_of_reporting_zip_customers,zips_with_outages_exceeding_customers,geography
+48201,Harris,2017-08-27,131,131,5,65243,1813111,3.598,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-08-28,131,131,5,89319,1848411,4.832,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-08-29,131,131,5,87369,1853345,4.714,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-08-30,131,131,5,70011,1845790,3.793,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-08-31,131,131,5,32152,1802942,1.783,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-09-01,131,131,5,17934,1728043,1.038,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-09-02,131,131,5,9494,1577256,0.602,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-09-03,131,131,5,4479,1172232,0.382,0,zip_codes_assigned_by_majority_area
+48201,Harris,2017-09-04,131,131,5,4429,918389,0.482,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-08-27,17,17,2,1879,255430,0.736,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-08-28,17,17,2,11046,255430,4.324,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-08-29,17,17,2,2148,255430,0.841,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-08-30,17,17,2,1214,255430,0.475,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-08-31,17,17,2,777,200758,0.387,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-09-01,17,17,2,491,254225,0.193,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-09-02,17,17,2,154,201975,0.076,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-09-03,17,17,2,117,128415,0.091,0,zip_codes_assigned_by_majority_area
+48157,Fort Bend,2017-09-04,17,17,2,507,136378,0.372,1,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-08-27,10,10,3,1791,53794,3.329,1,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-08-28,10,10,3,4074,57537,7.081,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-08-29,10,10,3,2967,57537,5.157,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-08-30,10,10,3,4868,57531,8.462,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-08-31,10,10,3,5341,57531,9.284,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-09-01,10,10,3,474,38969,1.216,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-09-02,10,10,3,56,40884,0.137,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-09-03,10,10,3,10,21775,0.046,0,zip_codes_assigned_by_majority_area
+48339,Montgomery,2017-09-04,10,10,3,12,23847,0.05,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-08-27,15,15,4,2930,111647,2.624,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-08-28,15,15,4,1653,105111,1.573,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-08-29,15,15,4,2613,112839,2.316,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-08-30,15,15,4,1409,112756,1.25,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-08-31,15,15,4,4166,104976,3.969,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-09-01,15,15,4,518,97343,0.532,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-09-02,15,15,4,212,63267,0.335,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-09-03,15,15,4,39,33188,0.118,0,zip_codes_assigned_by_majority_area
+48039,Brazoria,2017-09-04,15,15,4,23,55693,0.041,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-08-27,12,12,4,5437,72177,7.533,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-08-28,12,12,4,4068,72177,5.636,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-08-29,12,12,4,4790,71454,6.704,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-08-30,12,12,4,2153,72177,2.983,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-08-31,12,12,4,588,68724,0.856,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-09-01,12,12,4,132,63462,0.208,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-09-02,12,12,4,113,37065,0.305,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-09-03,12,12,4,19,37706,0.05,0,zip_codes_assigned_by_majority_area
+48167,Galveston,2017-09-04,12,12,4,430,36412,1.181,0,zip_codes_assigned_by_majority_area

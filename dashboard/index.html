@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Houston Storm Impact & Recovery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..850&display=swap">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="vendor/leaflet/leaflet.js" defer></script>
+  <script src="data.js" defer></script><script src="app.js" defer></script><script src="readiness.js" defer></script>
+</head>
+<body>
+<div class="topbar"><nav class="app-nav" aria-label="Pages"><a href="#/overview" data-nav="overview">Overview</a><a href="#/explorer" data-nav="explorer">Storm explorer</a><a href="#/reports" data-nav="reports">Official reports</a><a href="#/outages" data-nav="outages">Outages & recommendations</a><a href="#/whatif" data-nav="whatif">What-if map</a><a href="#/data" data-nav="data">Data & sources</a></nav></div>
+<header class="hero" data-page="overview">
+  <p class="kicker">Houston storm evidence, 2017–2024</p>
+  <h1>When the power went out, the information went out with it.</h1>
+  <p class="lede">Hurricane Beryl cut power to millions of Houston-area customers in July 2024. Four of the five official reports reviewed here name unreliable information as a core failure. The curve below is the outage record for Harris, Fort Bend, Montgomery, Brazoria and Galveston counties, with the reports' own words pinned to the hours they describe.</p>
+  <figure class="hero-chart"><svg id="heroCurve" viewBox="0 0 1200 380" role="img" aria-labelledby="heroCaption"></svg>
+    <figcaption id="heroCaption">Customers without power in the five counties combined, hourly, from DOE/ORNL EAGLE-I records (July 5–12, 2024). One-hour source dropouts are left out. The shaded span is landfall to CenterPoint’s first replacement outage map. Quotes and page numbers are from the PUCT investigation, November 2024.</figcaption></figure>
+</header>
+<main>
+  <div id="fatal" role="alert" hidden></div>
+  <section class="controls" aria-label="Explore the dataset" id="explore" data-page="overview explorer">
+    <label>Storm<select id="storm" aria-label="Storm"></select></label>
+    <label>County<select id="county" aria-label="County"></select></label>
+    <label>Map measure<select id="metric" aria-label="Map measure">
+      <option value="total_precipitation_in">Rainfall (inches)</option>
+      <option value="peak_wind_gust_mph">Peak wind gust (mph)</option>
+      <option value="outage_peak_customers_observed">Peak observed customers out</option>
+      <option value="nfip_total_net_payment_usd">NFIP net payments (USD)</option>
+      <option value="nfip_recorded_claims">Recorded NFIP claims</option>
+    </select></label>
+  </section>
+  <section class="panel readiness-panel" id="readiness" data-page="overview" aria-labelledby="readiness-title">
+    
+    <div class="readiness-heading"><h2 id="readiness-title">Can I trust these results?</h2><button id="recheck" class="action-button" type="button">Check files again</button></div>
+    <div id="live-status" class="status-pill pending" role="status">Waiting for local checks</div>
+    <p id="readiness-verdict" aria-live="polite">Checking the evidence behind this selection.</p>
+    <p id="last-checked" class="note"></p>
+    <p id="readiness-error" role="alert" hidden></p>
+    <div class="readiness-grid"><div id="selection-coverage" class="coverage-card" aria-live="polite"></div><div>
+      <label for="analysis-goal">What do you want to do?</label><select id="analysis-goal"><option value="history">Historical comparisons</option><option value="forecasting">Predict future outages</option><option value="preparedness">Prioritize emergency resources</option></select>
+      <p id="goal-meaning" class="note"></p>
+    </div></div>
+    <label for="evidence-question">Ask about the evidence</label><select id="evidence-question"></select>
+    <div id="evidence-answer" class="answer-box" aria-live="polite"></div>
+    <details><summary>What do the file checks cover?</summary><ul id="live-checks"></ul><p class="note">These are processing and integrity checks. They do not independently validate every measurement or certify source accuracy.</p></details>
+  </section>
+  <section class="panel" id="collection" data-page="data"><h2>What data would strengthen this?</h2><p class="note">Recommendations change with your selected county, storm, and intended use.</p><div id="next-data" class="needs-grid"></div></section>
+  <p class="scope" id="scope" aria-live="polite" data-page="explorer"></p>
+  <div class="cards" id="cards" aria-live="polite" data-page="explorer"></div>
+  <section class="split" data-page="explorer">
+    <article class="panel"><h2 id="mapTitle">Rain across the region</h2>
+      <div id="map" class="leaflet-map county-map" role="group" aria-label="Map of the five study counties shaded by the selected measure. Click a county to select it."></div>
+      <div class="legend"><span>Lower</span><i></i><span>Higher within this storm</span><span class="missing">Gray = unknown</span></div>
+      <p class="note">Select a county on the map or use the county menu. Weather values represent one reference point in each county. Colors show absolute values, not population-adjusted risk.</p>
+    </article>
+    <article class="panel"><h2 id="timelineTitle">The storm, hour by hour</h2>
+      <div id="timelines"></div>
+      <p class="note" id="timelineNote"></p>
+    </article>
+  </section>
+  <section class="panel" data-page="explorer"><h2>What the records show</h2>
+    <div class="table-wrap"><table><caption id="summaryCaption"></caption><thead><tr><th>County</th><th>Rain (in)</th><th>Peak gust (mph)</th><th>Peak observed out</th><th>Outage record presence</th><th>NFIP claims</th><th>Net payments (USD)</th></tr></thead><tbody id="summary"></tbody></table></div>
+    <p class="note">Outage totals cover all reporting utilities in a county. Record presence is the fraction of expected quarter-hours with a source record; it does not establish customer coverage. Payments are nominal insured losses, not total damage.</p>
+    <details><summary>Descriptive relationships</summary><div id="associations"></div><p class="note">Each storm has only five county comparisons. Correlations are exploratory, unadjusted for exposure, and do not establish causation. No predictive accuracy or statistical significance is claimed.</p></details>
+  </section>
+  <section class="panel" id="harvey" data-page="explorer" aria-labelledby="harvey-title"><h2 id="harvey-title">Harvey: daily ZIP outages and FEMA damage</h2>
+    <p id="harveyIntro">These two Harvey-only sources sit beside the four-storm data. They are not merged into it.</p>
+    <div class="table-wrap"><table><caption id="harveyCaption">Harvey 2017, five study counties</caption><thead><tr><th>County</th><th>ZIPs</th><th>Peak daily outages (ZIP file)</th><th>Peak date</th><th>% of reporting ZIP customers</th><th>EAGLE-I peak, same storm</th><th>FEMA damaged homes</th><th>Major / destroyed</th></tr></thead><tbody id="harveySummary"></tbody></table></div>
+    <div id="harveyChart"></div>
+    <p class="note">Outages: one snapshot per day (time of day not stated) for each ZIP code, from an organizer-supplied file with no named publisher. Each ZIP counts toward the county holding most of its area, using simplified county outlines; ZIPs that straddle a county line are flagged in the downloads. FEMA counts are modeled housing-damage assessments, not insured claims or dollars. The two outage sources disagree and neither covers every utility: EAGLE-I is far lower for Harris but higher for Montgomery. The source's customer totals also change from day to day, so percentages are approximate.</p>
+  </section>
+  <section class="panel" id="reports" data-page="reports" aria-labelledby="reports-title"><h2 id="reports-title">What the reports agree on</h2>
+    <p id="reportsIntro" class="note"></p>
+    <div id="consensus" class="consensus"></div>
+    <details><summary>All quoted findings (page-cited, quotes checked against the report text)</summary><div class="table-wrap"><table><thead><tr><th>Issue</th><th>Report</th><th>Page</th><th>Quote</th></tr></thead><tbody id="findings"></tbody></table></div></details>
+  </section>
+  <section class="panel" id="discrepancies" data-page="reports" aria-labelledby="disc-title"><h2 id="disc-title">Where the reports and the data disagree</h2>
+    <div class="table-wrap"><table><thead><tr><th>Topic</th><th>Source A</th><th>Source B</th><th>B ÷ A</th><th>Verdict</th><th>Why it matters</th></tr></thead><tbody id="discTable"></tbody></table></div>
+    <p class="note">“Different geography” rows compare sources covering different areas and are shown for context: the ratio shows how much of the larger area the smaller one represents. “Unit mismatch” means two sources use different units (people vs. customers) for what looks like the same number.</p>
+  </section>
+  <section class="panel" id="restoration" data-page="outages" aria-labelledby="rest-title"><h2 id="rest-title">How long power stayed out</h2>
+    <div class="table-wrap"><table><thead><tr><th>Storm</th><th>County</th><th>Peak out</th><th>Peak time</th><th>Time to 50% of peak</th><th>Time to 10% of peak</th><th>Still out when data ends</th><th>Source</th></tr></thead><tbody id="restTable"></tbody></table></div>
+    <p class="note">A threshold counts only once outages stay below it for the rest of the data, so one-off source dropouts (e.g. Harris EAGLE-I, Jul 9 8 p.m.) are ignored. “Not reached” means the data ends first; nothing is extrapolated. Harvey uses daily ZIP snapshots (days); Beryl uses EAGLE-I hourly means (hours). PUCT reports CenterPoint's full Beryl restoration took 11 days.</p>
+  </section>
+  <section class="panel" id="drivers" data-page="outages" aria-labelledby="drivers-title"><h2 id="drivers-title">What the longest outages had in common</h2>
+    <p id="driversLead" class="lead-finding"></p>
+    <div class="split"><div>
+      <div class="table-wrap"><table><caption>Harvey, 198 ZIP codes. Fastest-restored quarter vs slowest-restored quarter (medians), and the rank correlation with outage length. Select a trait to see those ZIPs on the map.</caption>
+        <thead><tr><th>Trait</th><th>Fastest quarter</th><th>Slowest quarter</th><th>Link to outage length</th></tr></thead><tbody id="driversTable"></tbody></table></div>
+      <h3 class="plan-title">Where outages lasted longest</h3><ol id="hotspotList" class="hotspots"></ol>
+    </div>
+    <div><div id="driversMap" class="leaflet-map" role="img" aria-label="Map of Harvey ZIP codes colored by outage length, with the longest-outage areas labeled"></div>
+      <p class="legend-q" id="driversLegend"><span><i style="background:#9cc3c8"></i>Fastest quarter</span><span><i style="background:#5f9aa3"></i>Second</span><span><i style="background:#d08a3c"></i>Third</span><span><i style="background:#b5452a"></i>Slowest quarter</span></p></div></div>
+    <h3 class="plan-title">Recommendations, and where each one applies</h3>
+    <div class="recs-layout"><ol id="recs" class="recs"></ol>
+      <div class="recs-map-col"><h3 id="recMapTitle" class="rec-map-title"></h3><div id="recMap" class="leaflet-map" role="img" aria-label="Map of the areas the selected recommendation applies to"></div>
+        <p class="note">Red outlines show the selected ZIP areas from the Harvey source file. Click a ZIP code to zoom to its boundary and see its outage and flood-claim figures. For Beryl tree work, shading shows county priorities.</p>
+        <p id="recMapRule" class="note" aria-live="polite"></p></div></div>
+    <p class="note">Outage length = customer-days without power per customer, from daily ZIP snapshots (Aug 27 to Sep 4, 2017). Rank correlation (Spearman) is used because a few ZIPs with very few customers produce extreme ratios; those are shown smaller and are left out of hotspot grouping. These are associations, measured across one storm.</p>
+  </section>
+  <section class="panel" id="staging" data-page="whatif" aria-labelledby="staging-title"><h2 id="staging-title">If we added a site here, what changes?</h2>
+    <div class="tabs" role="tablist" aria-label="Relief scenario">
+      <button role="tab" id="tab-relief" aria-controls="stagingBody" data-scenario="relief">Disaster relief</button>
+      <button role="tab" id="tab-power" aria-controls="stagingBody" data-scenario="power">Power outages</button>
+      <button role="tab" id="tab-flood" aria-controls="stagingBody" data-scenario="flood">Flood relief</button>
+    </div>
+    <div id="stagingBody" role="tabpanel">
+      <p id="stagingIntro"></p>
+      <div class="split"><div class="map-wrap"><div id="stagingMap" class="leaflet-map" role="application" aria-label="Editable map of relief sites. Drag sites to move them; in Place sites mode, click to add; double-click a site to remove it."></div>
+        <div class="map-modes" role="group" aria-label="Map mode"><button type="button" id="moveMode" aria-pressed="true">Move</button><button type="button" id="placeMode" aria-pressed="false">Place sites</button></div>
+        <div class="map-tools" aria-label="Map controls"><button type="button" id="zoomIn" aria-label="Zoom in">+</button><button type="button" id="zoomOut" aria-label="Zoom out">−</button><button type="button" id="resetView">Fit map</button><button type="button" id="resetPositions" title="Move today's sites back to their original locations">Reset positions</button></div>
+        <p class="site-key" aria-label="Map key"><span><i class="swatch shelter"></i>Official shelter</span><span><i class="swatch recovery"></i>FEMA recovery center</span><span><i class="swatch utility"></i>Utility service center</span><span><i class="swatch unofficial"></i>Unofficial site</span><span><i class="swatch new"></i>Your site</span><span>★ Best single addition</span><span><i class="swatch sub"></i>Substation (power tab)</span></p></div>
+        <div><div id="stagingResult" class="answer-box" aria-live="polite"></div>
+        <details class="plan-sites" open><summary>Sites in this plan</summary><ul id="siteList" class="site-list"></ul></details>
+        <div class="plan-actions"><button type="button" id="toggleUnofficial" aria-pressed="false" hidden>Add unofficial sites</button><button type="button" id="toggleSubstations" aria-pressed="false" hidden>Show substations</button><button type="button" id="addBest">Add the best single site</button><button type="button" id="resetSites">Start over</button></div>
+        <div id="unofficialInfo" class="unofficial-info" hidden></div>
+        <p id="substationNote" class="note" hidden>Substations come from the U.S. Department of Homeland Security HIFLD electric substations layer (transmission level, 69 kV and above, mostly dated May 2017). The official HIFLD download is now restricted, so this copy comes from a public re-host of that layer. Substations show where the grid switches and steps down power; they are context, not crew bases, and are not counted in trip times.</p></div></div>
+      <p class="note" id="stagingNote"></p>
+    </div>
+  </section>
+  <section class="panel cnp" data-page="explorer"><h2>Restoration, as publicly reported</h2>
+    <p>These milestones cover <strong>CenterPoint Houston Electric’s service territory</strong>. They are separate from the county data. Times are release publication times in America/Chicago, not exact measurement times.</p>
+    <div id="centerpoint" class="milestones"></div>
+    <p class="note">Bounds and rounding are preserved. Company-reported figures were not independently reconciled. Achieved milestones appear here; future restoration targets are excluded.</p>
+  </section>
+  <section class="panel" id="evidence" data-page="data"><h2>A result you can trace.</h2>
+    <p id="validation"></p><ul id="warnings"></ul>
+    <details><summary>Sources and input fingerprints</summary><div id="sources"></div></details>
+    <div class="downloads">
+      <a href="../data/processed/county_storm_hour.csv" download>Hourly CSV</a>
+      <a href="../data/processed/county_storm.csv" download>County–storm CSV</a>
+      <a href="../data/processed/centerpoint_beryl_milestones.csv" download>CenterPoint CSV</a>
+      <a href="../data/processed/claim_assignments.csv" download>Claim assignment audit</a>
+      <a href="../data/processed/relief_sites.csv" download>Relief sites (official and unofficial)</a>
+      <a href="../data/processed/hifld_substations.csv" download>HIFLD substations (5 counties)</a>
+      <a href="../data/processed/harvey_county_supplement.csv" download>Harvey county supplement</a>
+      <a href="../data/processed/harvey_county_outages_daily.csv" download>Harvey daily county outages</a>
+      <a href="../data/processed/harvey_zip_outages_daily.csv" download>Harvey ZIP outages</a>
+      <a href="../data/processed/harvey_zip_county_assignments.csv" download>Harvey ZIP→county audit</a>
+      <a href="../data/processed/harvey_fema_damage_assessments.csv" download>Harvey FEMA damage</a>
+      <a href="../data/processed/descriptive_associations.csv" download>Associations</a>
+      <a href="../data/processed/source_manifest.json" download>Source manifest</a>
+      <a href="../data/processed/processing_manifest.json" download>Processing manifest</a>
+      <a href="../docs/METHODOLOGY.md">Methodology</a>
+      <a href="../docs/DATA_DICTIONARY.md">Data dictionary</a>
+      <a href="../data/processed/validation_report.json" download>Validation report</a>
+    </div>
+  </section>
+  <nav class="pager" id="pager" aria-label="Previous and next page"></nav>
+</main>
+<footer>Houston Storm Impact & Recovery · UH CodeCoogs Hackathon · Reproducible historical analysis</footer>
+<noscript>This dashboard requires JavaScript. Download the CSVs from data/processed to inspect the results.</noscript>
+</body>
+</html>

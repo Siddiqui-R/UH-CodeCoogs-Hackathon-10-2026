@@ -1,0 +1,7 @@
+trait,label,n,spearman_r,pearson_r,low_downtime_median,high_downtime_median,high_over_low
+flood_claims_per_1k_customers,"Flood insurance claims per 1,000 customers",198,0.4047,0.3287,10.021,45.016,4.49
+median_water_depth,Average water depth in flooded buildings (claims data),198,0.3723,0.3698,0.8061,1.449,1.8
+latitude,Latitude (north to south),198,0.2137,0.2519,29.6933,29.7764,1.0
+share_claims_high_risk_zone,Share of flood claims in a high-risk flood zone (A/V),198,0.1686,0.1045,0.3761,0.3848,1.02
+customers,Customers in the ZIP (size),198,-0.0978,-0.1599,11028,9503,0.86
+road_km_to_service_center,Road km to the nearest service center,198,0.0597,-0.0198,11.98,16.08,1.34

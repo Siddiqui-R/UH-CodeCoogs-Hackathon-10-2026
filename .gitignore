@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/cache/
+
+
+# Organizer materials (not for public redistribution)
+Challenge 1 - Hurricane Datasets Brief & Getting Started Guide.pdf
+UH AI Hackathon*Helpful Tips.pdf

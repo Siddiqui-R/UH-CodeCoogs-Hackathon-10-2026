@@ -1,0 +1,6 @@
+county_fips,county_name,zips_assigned,report_days,first_report_date,last_report_date,zip_outage_peak_daily_count,zip_outage_peak_date,zip_outage_peak_pct_of_reporting_customers,reporting_zip_customers_on_peak_date,fema_affected_minor_total,fema_major_destroyed_total,fema_total_observations
+48201,Harris,131,9,2017-08-27,2017-09-04,89319,2017-08-28,4.832,1848411,58838,9965,68803
+48157,Fort Bend,17,9,2017-08-27,2017-09-04,11046,2017-08-28,4.324,255430,11639,4865,16504
+48339,Montgomery,10,9,2017-08-27,2017-09-04,5341,2017-08-31,9.284,57531,5029,3463,8492
+48039,Brazoria,15,9,2017-08-27,2017-09-04,4166,2017-08-31,3.969,104976,1103,2,1105
+48167,Galveston,12,9,2017-08-27,2017-09-04,5437,2017-08-27,7.533,72177,4781,0,4781

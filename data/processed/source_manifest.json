@@ -1,0 +1,187 @@
+{
+  "sources": [
+    {
+      "file": "houston_major_storms_hourly_weather.csv",
+      "sha256": "4d41c12a284cfe0a778777f5d418e2e992f78e84897e4c8cb9fc3a8767d9b1b6",
+      "source_url": "https://open-meteo.com/en/docs/historical-weather-api",
+      "provenance_status": "organizer_supplied_upstream_attribution_from_brief",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "tx_gulf_hurricane_tracks_1980_present.csv",
+      "sha256": "b7af71bc9fc31d4d1473f78fd305c3d25d66ca86a9dfb19a9eb8823fd88a9e53",
+      "source_url": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+      "provenance_status": "organizer_supplied_upstream_attribution_from_brief",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "houston_fema_flood_claims_2017_present.csv",
+      "sha256": "2b6a41e5720a608c486feebafd4ab6d24147bc5083768edb373c14f472dce5ed",
+      "source_url": "https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v3",
+      "provenance_status": "organizer_supplied_upstream_attribution_from_brief",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "greater_houston_counties.geojson",
+      "sha256": "edd3a75ac30d7fcfebba37de459d43257d83a7c30c9daea9155068a32810bab9",
+      "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html",
+      "provenance_status": "organizer_supplied_upstream_attribution_from_brief",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "Hurricane_Harvey_Power_Outages_by_Zip_Code.zip",
+      "sha256": "c9df57f3119be8675cb76b09021e0e78260d9af2fe287a3505b88111fc2c88ee",
+      "source_url": null,
+      "provenance_status": "organizer_supplied_no_upstream_attribution",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "Hurricane_Harvey_FEMA_Modeled_Damages.zip",
+      "sha256": "71c7737a6c055e4150fe5b92bef67d04516219e7dcf27f7f3290e1f62bce37e9",
+      "source_url": null,
+      "provenance_status": "organizer_supplied_no_upstream_attribution",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/reports/puct_beryl_investigation_2024.pdf",
+      "sha256": "9bf44973db8c2332cfe3db3e81e1c49aa980679bac9d3347a2d815782cf027e7",
+      "source_url": "https://interchange.puc.texas.gov/Documents/56822_198_1444252.PDF",
+      "provenance_status": "official_report_downloaded",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/text/puct_beryl_investigation_2024.txt",
+      "sha256": "7a92d67984ab7eae8d22096914d15cf7ac0490cbe474efa420cbd19b294c342c",
+      "source_url": "https://interchange.puc.texas.gov/Documents/56822_198_1444252.PDF",
+      "provenance_status": "text_extracted_from_official_report",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/centerpoint_post_beryl_puc_presentation_2024.pdf",
+      "sha256": "753aea3898d13eae488697970fee4b8592b598623012a582fac4ce43c6f79f94",
+      "source_url": "https://static.texastribune.org/media/files/a875f69f60a0f031b6b75d4d9215901f/CenterPoint%20Energy%20Post-Beryl%20Report.pdf",
+      "provenance_status": "official_report_downloaded",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/text/centerpoint_post_beryl_puc_presentation_2024.txt",
+      "sha256": "26dfeff2dd773362dff1bfff9ab36b3663a5a3390af0597dacfec8322a09325a",
+      "source_url": "https://static.texastribune.org/media/files/a875f69f60a0f031b6b75d4d9215901f/CenterPoint%20Energy%20Post-Beryl%20Report.pdf",
+      "provenance_status": "text_extracted_from_official_report",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/nws_hgx_beryl_impact_narratives_2024.pdf",
+      "sha256": "037417b1d22256ddd16d5c536b28f259c3979a79f3666a6e08017a8cb667f1f0",
+      "source_url": "https://weather.gov/media/hgx/TropicalEventSummary/PSHHGX_2024AL02_Beryl_ImpactNarratives.pdf",
+      "provenance_status": "official_report_downloaded",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/text/nws_hgx_beryl_impact_narratives_2024.txt",
+      "sha256": "c7fe379c648f0230ef8ca17dc4fa4f53d55eeaeef4d97640d6596088763e99b5",
+      "source_url": "https://weather.gov/media/hgx/TropicalEventSummary/PSHHGX_2024AL02_Beryl_ImpactNarratives.pdf",
+      "provenance_status": "text_extracted_from_official_report",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/houston_city_puct_comments_beryl_2024.pdf",
+      "sha256": "8df2395640f45e4a754e3684c14e54f8a5e00ae9e049bb0f77e261dd547d9126",
+      "source_url": "https://interchange.puc.texas.gov/Documents/56822_4_1413755.PDF",
+      "provenance_status": "official_report_downloaded",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/text/houston_city_puct_comments_beryl_2024.txt",
+      "sha256": "1638726b67466102a793e45d560fb17937d2b0bfbe496bf457f867d3dd3edd92",
+      "source_url": "https://interchange.puc.texas.gov/Documents/56822_4_1413755.PDF",
+      "provenance_status": "text_extracted_from_official_report",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/eye_of_the_storm_harvey_2018.pdf",
+      "sha256": "e6dac83bd64791f948e126a7613599e4dc80a916b5f453b9cf37a0278cc883ed",
+      "source_url": "https://ticc.tamu.edu/IncidentResponse/ahimt_conf/12-11-18-EYE-OF-THE-STORM-digital.pdf",
+      "provenance_status": "official_report_downloaded",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/text/eye_of_the_storm_harvey_2018.txt",
+      "sha256": "b0116ab022a80b4acae3f57ceb0dc00f5551acf8c5e026aae488d67c77132591",
+      "source_url": "https://ticc.tamu.edu/IncidentResponse/ahimt_conf/12-11-18-EYE-OF-THE-STORM-digital.pdf",
+      "provenance_status": "text_extracted_from_official_report",
+      "retrieved_at_utc": "2026-10-23T16:30:00Z"
+    },
+    {
+      "file": "data/raw/reports/reports.json",
+      "sha256": "882dbaa63f7dd8dd080c0f297fcff87d15c319cc45b91f6be914b52ca6fa7383",
+      "source_url": null,
+      "provenance_status": "hand_curated_from_cited_sources",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/reports/report_findings.csv",
+      "sha256": "8a3d5ef028a62f72784c7e1fb29e3c4a7ee12796261f24f81ce1aab2ae3adff8",
+      "source_url": null,
+      "provenance_status": "hand_curated_from_cited_sources",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/staging/staging_sites.csv",
+      "sha256": "3f3f7e98c504aa5fb64798f381d1aa075030147602296cb844cbf94343ea12e7",
+      "source_url": null,
+      "provenance_status": "hand_curated_from_cited_sources",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/staging/hifld_substations_study_counties.json",
+      "sha256": "832feb3a49942ea7049e1b0a59836a7ef2289d99b2b04b0ff97716dfa64c7996",
+      "source_url": null,
+      "provenance_status": "hand_curated_from_cited_sources",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/staging/hifld_substations_source.json",
+      "sha256": "f7b33a1d7086e71a69916845ad7e6f39292b2ec9c5dd88dfd7228876741f09a6",
+      "source_url": null,
+      "provenance_status": "hand_curated_from_cited_sources",
+      "original_retrieval_date": null
+    },
+    {
+      "file": "data/raw/centerpoint_beryl_milestones.csv",
+      "sha256": "bf17108a7ce10797d9850beb4913629f57a7639539b5f9c2032ac0681d927d40",
+      "source_url": "https://origin-hmong.centerpointenergy.com/en-us/residential/services/hurricane-beryl-response?sa=mn",
+      "provenance_status": "retrieved_official_source_or_documented_extraction",
+      "retrieved_at_utc": "2026-10-23T16:14:31Z"
+    },
+    {
+      "file": "data/raw/centerpoint_beryl_updates.html",
+      "sha256": "c881abf7fbeb3b745025efa1cd70d7ce55f3c36a04760ab7ce1e77043c937976",
+      "source_url": "https://origin-hmong.centerpointenergy.com/en-us/residential/services/hurricane-beryl-response?sa=mn",
+      "provenance_status": "retrieved_official_source_or_documented_extraction",
+      "retrieved_at_utc": "2026-10-23T16:14:31Z"
+    },
+    {
+      "file": "data/raw/eaglei_release_v4.json",
+      "sha256": "b5b1e33b7687b8b78f05d84a9a94de49e13498b9d9281b6576b314d1eecdd838",
+      "source_url": "https://api.figshare.com/v2/articles/24237376/versions/4",
+      "provenance_status": "retrieved_official_source_or_documented_extraction",
+      "retrieved_at_utc": "2026-10-23T16:14:31Z"
+    },
+    {
+      "file": "data/raw/houston_power_outages_15min_eaglei.csv",
+      "sha256": "873c5bbd6c32853e02fdeb8113be549723025660223339abd6ca0df45a8c5f40",
+      "source_url": "https://api.figshare.com/v2/articles/24237376/versions/4",
+      "provenance_status": "retrieved_official_source_or_documented_extraction",
+      "retrieved_at_utc": "2026-10-23T16:14:31Z"
+    },
+    {
+      "file": "data/raw/retrieval_manifest.json",
+      "sha256": "03a789679a75d56e459299d89895508161ddc93f876f6017fb91b2c64527182c",
+      "source_url": "https://api.figshare.com/v2/articles/24237376/versions/4",
+      "provenance_status": "retrieved_official_source_or_documented_extraction",
+      "retrieved_at_utc": "2026-10-23T16:14:31Z"
+    }
+  ],
+  "retrieval_manifest": "data/raw/retrieval_manifest.json"
+}

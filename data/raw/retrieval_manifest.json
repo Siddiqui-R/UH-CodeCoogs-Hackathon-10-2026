@@ -1,0 +1,1086 @@
+{
+  "retrieved_at_utc": "2026-10-23T16:14:31Z",
+  "archive_metadata_url": "https://api.figshare.com/v2/articles/24237376/versions/4",
+  "archive_doi": "10.6084/m9.figshare.24237376.v4",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "extractions": [
+    {
+      "event": "Hurricane_Beryl_2024",
+      "file": {
+        "id": 53581661,
+        "name": "eaglei_outages_2024.csv",
+        "size": 1444846424,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/53581661",
+        "supplied_md5": "13183facf56c196c061a238303c87973",
+        "computed_md5": "13183facf56c196c061a238303c87973",
+        "mimetype": "text/csv"
+      },
+      "http_ranges": [
+        {
+          "start": 0,
+          "end": 16778239,
+          "sha256": "e57357dde0af84c01a0a9886b864b945a03d2f0a3d2e897ca7ece48464746d03"
+        },
+        {
+          "start": 16776192,
+          "end": 33555455,
+          "sha256": "aa00110669f71cac0a95cd474d080f5d6f66394eb4374e46ea5185042233efab"
+        },
+        {
+          "start": 33553408,
+          "end": 50332671,
+          "sha256": "c1a51d16459d4e2ebf378a726aeb38cc3afe24ca0c1799bf9410900bfdee264c"
+        },
+        {
+          "start": 50330624,
+          "end": 67109887,
+          "sha256": "9fe859da6ad3d653207acf892fc5d441978ffe8bdb3d495d0c1937e3f39fb852"
+        },
+        {
+          "start": 67107840,
+          "end": 83887103,
+          "sha256": "ad954a27987f3b89fdcfd6f21ba554dcd183388cd945fe8b0c05c7856d3585d5"
+        },
+        {
+          "start": 83885056,
+          "end": 100664319,
+          "sha256": "038856f728e8c1045fe31b99b87ab4e7fcef19ea96b9476099abaec293195ae3"
+        },
+        {
+          "start": 100662272,
+          "end": 117441535,
+          "sha256": "3e50988b6cbcd42ce761c87fb28bc38cdd3ae9a4871dc7fb1278b98ab1d987f7"
+        },
+        {
+          "start": 117439488,
+          "end": 134218751,
+          "sha256": "d29ec041f1ad7b1395a138d927e5e5932b9315f55aed70d37049ca189f3b4f2c"
+        },
+        {
+          "start": 134216704,
+          "end": 150995967,
+          "sha256": "e61d5ae8db3666ea8a1e885f6b202a8e3906dd3d49f39949d3741a512382c53a"
+        },
+        {
+          "start": 150993920,
+          "end": 167773183,
+          "sha256": "bb905a1416c1b8ff857ef61067a3ca48d1e5301f59de114ba9ba111d125502a2"
+        },
+        {
+          "start": 167771136,
+          "end": 184550399,
+          "sha256": "6c9af7ab1fb814bd3cd24613d109c57355f10b6a17815b57997b05c47d801aae"
+        },
+        {
+          "start": 184548352,
+          "end": 201327615,
+          "sha256": "90958fa98cfe0befd6d880310757463d6d64e3c9b6227e29fc98b14007616e21"
+        },
+        {
+          "start": 201325568,
+          "end": 218104831,
+          "sha256": "007d6d27921c147c2a82919c5a46f4b701c570f6743c06cea9e821be89a3626b"
+        },
+        {
+          "start": 218102784,
+          "end": 234882047,
+          "sha256": "90781536c0be00dc8606ba682d5668679140b6d8713accfe6ee75d6a1c50458e"
+        },
+        {
+          "start": 234880000,
+          "end": 251659263,
+          "sha256": "afda10d701073e52e0ae3c76e4c6a1363fd9da1947058e699b355a90fc762abc"
+        },
+        {
+          "start": 251657216,
+          "end": 268436479,
+          "sha256": "5ea14d0f2263d6b660dfc9fca6cace291353a75e16922ff3e849c88677a0e69d"
+        },
+        {
+          "start": 268434432,
+          "end": 285213695,
+          "sha256": "1b289577e555b9ef1a0898ad96b1e2659c7ba62adb01d47810d1e1a6fe5dd10c"
+        },
+        {
+          "start": 285211648,
+          "end": 301990911,
+          "sha256": "982c8562f5dc6ec3ababb49cb872f1aa863ca3b657dae45d58b9948f9d5fdf63"
+        },
+        {
+          "start": 301988864,
+          "end": 318768127,
+          "sha256": "6d7a12a45b5c93d280c93ff09f2403e126692ab51ec91c94e89239adfa134788"
+        },
+        {
+          "start": 318766080,
+          "end": 335545343,
+          "sha256": "c750ccb662e003d297332b7d0b87a66981afa3baa1084f908fa2a7fb9e82a878"
+        },
+        {
+          "start": 335543296,
+          "end": 352322559,
+          "sha256": "d7d1afba6fe243efbafe823472e8da8ed38d7b36c5235b0a84533cac0574c670"
+        },
+        {
+          "start": 352320512,
+          "end": 369099775,
+          "sha256": "263880abc9eb3485d37a37691007b3b9e5c4584f01f0f26c25bba959de411170"
+        },
+        {
+          "start": 369097728,
+          "end": 385876991,
+          "sha256": "e3c81b53b2fb0ea684dce7db7de7975ba84aff7e689c5e26e702a8627834b361"
+        },
+        {
+          "start": 385874944,
+          "end": 402654207,
+          "sha256": "840a160ad077b0c87cd1253b7b9077c38d9c6488692bdc9a878786ed685808b1"
+        },
+        {
+          "start": 402652160,
+          "end": 419431423,
+          "sha256": "aef2f25956eb2b7386eec7f0f3d9150ee1a1df05de139851e0ed6b7781e6bc63"
+        },
+        {
+          "start": 419429376,
+          "end": 436208639,
+          "sha256": "8d7acc029912a3a301050716c187b3daef33f743ced89917d75327e318bb5277"
+        },
+        {
+          "start": 436206592,
+          "end": 452985855,
+          "sha256": "37041063c0d35ad7cbae4f66d637700fb2949b7bb6f992027670cec13fc0b053"
+        },
+        {
+          "start": 452983808,
+          "end": 469763071,
+          "sha256": "c121c62bbf47612085e5600c95c276abf57d37fb7e8b5a522904d7bc89a9d0bd"
+        },
+        {
+          "start": 469761024,
+          "end": 486540287,
+          "sha256": "05e53f14d156be4e75f217c44be27c01d802c321b8b0063debcbf822008c22b1"
+        },
+        {
+          "start": 486538240,
+          "end": 503317503,
+          "sha256": "18a8b752fb07923429b5ac4a80985ecbfd4a191da0eeffa59387e37e6fec6107"
+        },
+        {
+          "start": 503315456,
+          "end": 520094719,
+          "sha256": "e1f57d5c5337975df55d0a73fac40dc7d551b118bfe3a84445256a4a27f8d12a"
+        },
+        {
+          "start": 520092672,
+          "end": 536871935,
+          "sha256": "f4953f428b8ddfa4ebe7a939c3feb1b5232e00483fdfd293ef486011c59d3257"
+        },
+        {
+          "start": 536869888,
+          "end": 553649151,
+          "sha256": "18382e5b27b57d507b7e38cf3f5d1a06ec525528f24d3d3ecca5de45987eb999"
+        },
+        {
+          "start": 553647104,
+          "end": 570426367,
+          "sha256": "fdcd2d3e41fea7c760c6c66e88e26eddca73cfd4b235368004c7d82e29d0292f"
+        },
+        {
+          "start": 570424320,
+          "end": 587203583,
+          "sha256": "273a46d22f19e18bf7455aff816a7aba34794e54ceebc11f05e063100af35b16"
+        },
+        {
+          "start": 587201536,
+          "end": 603980799,
+          "sha256": "81a2590c531103f1bb763fa7d21fc32babc4fcbab05c29a79f335b64821212f4"
+        },
+        {
+          "start": 603978752,
+          "end": 620758015,
+          "sha256": "3e0c4293c9c7b0c899fe391a4fd6667a6399e21703a8cf8feb14e4a2e606d064"
+        },
+        {
+          "start": 620755968,
+          "end": 637535231,
+          "sha256": "7c105a5ad7df315785ace791c04e6ba1b80ab244d51f9a4e7c23336492f0a240"
+        },
+        {
+          "start": 637533184,
+          "end": 654312447,
+          "sha256": "c133874f64fea148059dcce102296817bf17c419d13a174d1e62c196b9b586a4"
+        },
+        {
+          "start": 654310400,
+          "end": 671089663,
+          "sha256": "00819f2cf86a64f0946204e5ab9fed7a1c4cdf0b7cb6406b21e2fae04e943cfb"
+        },
+        {
+          "start": 671087616,
+          "end": 687866879,
+          "sha256": "cfd0ae982b706708f883e39d6ace3412d8dcfee577af1dde361b88b5ada002fc"
+        },
+        {
+          "start": 687864832,
+          "end": 704644095,
+          "sha256": "16fe5a26daa6f583a64c320c3ce7996ec804d8d3c4f37264aa8fa479a12f967d"
+        },
+        {
+          "start": 704642048,
+          "end": 721421311,
+          "sha256": "83e836657957fd493e152bfd5753083c55b73b544075efb8e5d199499650c01b"
+        },
+        {
+          "start": 721419264,
+          "end": 738198527,
+          "sha256": "f76a529d28cd9113a2ea8443717904da4d5552f90409340a294d3bebb036ac3f"
+        },
+        {
+          "start": 738196480,
+          "end": 754975743,
+          "sha256": "63cbc66ee36d079d0075fd675741872154f9bbf53e6534c4aae45be2ca32d1cb"
+        },
+        {
+          "start": 754973696,
+          "end": 771752959,
+          "sha256": "c2829f91a13a30ef94b5d1ced327b39398c625c0dcccb113325563abf471f224"
+        },
+        {
+          "start": 771750912,
+          "end": 788530175,
+          "sha256": "8e4fc8fd1d6bc3b186aaa7675fbc86d837f84caa729ce10e6092a7cb7ca513ab"
+        },
+        {
+          "start": 788528128,
+          "end": 805307391,
+          "sha256": "067609c5f37edb53acde9b9a1c6a036e71e280e862bed1802eb362aca123d113"
+        },
+        {
+          "start": 805305344,
+          "end": 822084607,
+          "sha256": "3545d09ed28183c7d930f1ef89aa0fbe1217a0e633083291f2a5e0895cbd3a82"
+        },
+        {
+          "start": 822082560,
+          "end": 838861823,
+          "sha256": "d585e656947c3a8ea117514b7b7c7820f5d38ba2ec7f9437ec90d93b7e928e71"
+        },
+        {
+          "start": 838859776,
+          "end": 855639039,
+          "sha256": "007c207863c6a8467deb206d7b5923b490c4ea708b86325cabd16f4d6bc14758"
+        },
+        {
+          "start": 855636992,
+          "end": 872416255,
+          "sha256": "9c00890aaf0c55fcb94dfa3f416bf0391c1824c53e1ac3e0fff952fc71a11f43"
+        },
+        {
+          "start": 872414208,
+          "end": 889193471,
+          "sha256": "22a9e8e014003d3b65f23ad68e89aaf3c46cf2fa2c09162de13c903c702b2b68"
+        },
+        {
+          "start": 889191424,
+          "end": 905970687,
+          "sha256": "c06df41424fb9dd5ed95a9bea92ad2c537a3486cdf89fe80e5ded0b85ca6158e"
+        },
+        {
+          "start": 905968640,
+          "end": 922747903,
+          "sha256": "cc4f8abcce0c79ac4bd6804f4bfef478de81d29d63982d6dc9de32170cd3329b"
+        },
+        {
+          "start": 922745856,
+          "end": 939525119,
+          "sha256": "dcf225cf6feeb54e2628f1a508eb957ee880b0062a6d302cd0b76bcd642112e5"
+        },
+        {
+          "start": 939523072,
+          "end": 956302335,
+          "sha256": "22c53aaff9d1c7cc08ba6eba9ff47855e8efe7055b59201aef2439aae62cf19c"
+        },
+        {
+          "start": 956300288,
+          "end": 973079551,
+          "sha256": "1ae3b47764a396b52694d65f3ebe3beacae6c72b2382db50b5c01b9d4065ec28"
+        },
+        {
+          "start": 973077504,
+          "end": 989856767,
+          "sha256": "de298db5b9df904650bad550050abd8645127db4496defc8c2979a0817452c35"
+        },
+        {
+          "start": 989854720,
+          "end": 1006633983,
+          "sha256": "47a1d62f903b4d88644284b41970de8921a9f32a34719f6d6e69062f6b545069"
+        },
+        {
+          "start": 1006631936,
+          "end": 1023411199,
+          "sha256": "8f2d71242b05f9d0094f8072ee0e4afa9d22a4c529422ae2f975ac01fcf51354"
+        },
+        {
+          "start": 1023409152,
+          "end": 1040188415,
+          "sha256": "46f0d82208c9f2fcf67966d9f25d0020eba225283a8fdf31ec63eace9c58dc86"
+        },
+        {
+          "start": 1040186368,
+          "end": 1056965631,
+          "sha256": "72b94bf969b846cf20a2757527dfd48cb375aef21182094ced54d1a20380bb08"
+        },
+        {
+          "start": 1056963584,
+          "end": 1073742847,
+          "sha256": "10f9e483df888c9d1c90fe1f0553304405b24cfffe92aa5ed76e9c268bd3973a"
+        },
+        {
+          "start": 1073740800,
+          "end": 1090520063,
+          "sha256": "7a581b13c4b4be3c37d964e9b45648932b634d27ebcb195912d34b542d25403b"
+        },
+        {
+          "start": 1090518016,
+          "end": 1107297279,
+          "sha256": "3c9302e1f5acf3a3b33efb4e740418b5966e74afcf70b3db49a602dd8a8ac9d0"
+        },
+        {
+          "start": 1107295232,
+          "end": 1124074495,
+          "sha256": "c604a487def03862f249c261ceefd0960d79abdbc6c94b5937b717609addff31"
+        },
+        {
+          "start": 1124072448,
+          "end": 1140851711,
+          "sha256": "e8a7927f0c698c8a66a9cec8a239a9ff75c1738c70928c855b7e41e96664f212"
+        },
+        {
+          "start": 1140849664,
+          "end": 1157628927,
+          "sha256": "dd3cc528acc0dbd2efbde8313cc4372a95bf8d5606449903d54ae6286bf5882b"
+        },
+        {
+          "start": 1157626880,
+          "end": 1174406143,
+          "sha256": "10a5dcfb96386d882167d2bc7a9a380b56af53465db9c665d912f61f4aa34aa9"
+        },
+        {
+          "start": 1174404096,
+          "end": 1191183359,
+          "sha256": "864e60a595b0b2608d6543a4fff2be17534a8f272ca80eb5462ba17f2e91783d"
+        },
+        {
+          "start": 1191181312,
+          "end": 1207960575,
+          "sha256": "65794945be8ad0cabdcfc50431c08c67e953ad21baf056a8a3ae7879020bed00"
+        },
+        {
+          "start": 1207958528,
+          "end": 1224737791,
+          "sha256": "397c77a13f049d13f0683ed1eb9ae2fb1c0e5cfb63fb59d7992c2187587d2d43"
+        },
+        {
+          "start": 1224735744,
+          "end": 1241515007,
+          "sha256": "1f0c7fb4f23da17ec282e55f4cd42e6a1b7b942233edede261e049f04d4597e8"
+        },
+        {
+          "start": 1241512960,
+          "end": 1258292223,
+          "sha256": "9671a3d015aafb2bad6640076958379e8a54dae328f7e8b770953f138ac46d47"
+        },
+        {
+          "start": 1258290176,
+          "end": 1275069439,
+          "sha256": "2acb23854bb8d9981b33f272d9090c11ef6d3cdfc35dbd33739b922ade5f0f31"
+        },
+        {
+          "start": 1275067392,
+          "end": 1291846655,
+          "sha256": "675fbca0666a175ef2ab221847856e115de2beb053dc14fc6d6cb43473d42867"
+        },
+        {
+          "start": 1291844608,
+          "end": 1308623871,
+          "sha256": "c5f633c0125c21a880ca1396f3db0cd65af01c2c32f248bb073ab9893253f930"
+        },
+        {
+          "start": 1308621824,
+          "end": 1325401087,
+          "sha256": "7534d81cd3162881a6f81ce6c750531c0da7e31c12e0a21a04ef545be73acc55"
+        },
+        {
+          "start": 1325399040,
+          "end": 1342178303,
+          "sha256": "4e960295e5c07cbd30384e98a33875df46641e3512cc8b066d77397ae9e389a8"
+        },
+        {
+          "start": 1342176256,
+          "end": 1358955519,
+          "sha256": "15fbc9314ed1fa726d4472f814fa8df423e39e76ae7deb9229b665fa64c4680f"
+        },
+        {
+          "start": 1358953472,
+          "end": 1375732735,
+          "sha256": "f05df2517c3f790cb894fee63f92b199f30253f13eeec897115dca1b9a8d1dbf"
+        },
+        {
+          "start": 1375730688,
+          "end": 1392509951,
+          "sha256": "62187285c65fdd8ef19cf05b40af9b329be332ee0083d7387666e7a406a6e238"
+        },
+        {
+          "start": 1392507904,
+          "end": 1409287167,
+          "sha256": "0ffefc39102f39ffa02749bac17e9e258dff4c023ee4401086282da829ad5744"
+        },
+        {
+          "start": 1409285120,
+          "end": 1426064383,
+          "sha256": "3e401e5962cae53cc33af5bb96d9cfab648c6e98d5144ddc720974757e55f7b0"
+        },
+        {
+          "start": 1426062336,
+          "end": 1442841599,
+          "sha256": "213afb14e78ec93828d6110479a3c0bb8f0b4cc7ed85d57b8754f2b756a74b6d"
+        },
+        {
+          "start": 1442839552,
+          "end": 1444846423,
+          "sha256": "65d23fbb27ad1cf472536c68c078ad3adf2bd3ad48eb2ac049e86be5a2109834"
+        }
+      ],
+      "extraction_start_utc": "2024-07-05 05:00:00",
+      "extraction_end_utc_exclusive": "2024-07-13 05:00:00",
+      "method": "full-file chunked scan; county sorting not assumed due to misplaced source rows"
+    },
+    {
+      "event": "Hurricane_Harvey_2017",
+      "file": {
+        "id": 42547828,
+        "name": "eaglei_outages_2017.csv",
+        "size": 698796929,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/42547828",
+        "supplied_md5": "4faaeeb3b3e8e2d13d0e9238617ce3ce",
+        "computed_md5": "4faaeeb3b3e8e2d13d0e9238617ce3ce",
+        "mimetype": "text/plain"
+      },
+      "http_ranges": [
+        {
+          "start": 0,
+          "end": 8191,
+          "sha256": "24631ce980af39a41b76f2d25fc6ee8dc8c8ed6901de5c5799a89cbbc840791d"
+        },
+        {
+          "start": 349398464,
+          "end": 349414847,
+          "sha256": "1bd54ae1d317b5990acba9b95b23ea7b8d484a73441e5ba73373d33ac68613ba"
+        },
+        {
+          "start": 524097696,
+          "end": 524114079,
+          "sha256": "19b6d1333066955ed19e5aa380f22745ee9793b1e7d85af36a92dfbb54a626f0"
+        },
+        {
+          "start": 436748080,
+          "end": 436764463,
+          "sha256": "055f563ba93e31261a5229d6a17887251910fefb3b1be85d016c4eb72932b1c8"
+        },
+        {
+          "start": 480422888,
+          "end": 480439271,
+          "sha256": "3a742e088397e292e52b31ec1b73d5bda5bb37f838d499b8594ffaafe6026970"
+        },
+        {
+          "start": 458585484,
+          "end": 458601867,
+          "sha256": "eb17753aa81be8ee7523031298ed6e005af23716974745d0c06612ccdebff7cc"
+        },
+        {
+          "start": 447666782,
+          "end": 447683165,
+          "sha256": "e9c974583bf0e9382288b2554a2dddd29956aabc61fe3ce83157c7d30e5af6b8"
+        },
+        {
+          "start": 453126133,
+          "end": 453142516,
+          "sha256": "6eadd196daf54bb5c1c57601b2775fc7f5be696cdd769b2c64e0e63c24de8276"
+        },
+        {
+          "start": 450396457,
+          "end": 450412840,
+          "sha256": "e06e922259d7c375435ae43d226f540fc6f0f6fa9aee90a3c6985519e7d5135b"
+        },
+        {
+          "start": 449031619,
+          "end": 449048002,
+          "sha256": "ce946c5ee97a5ddc2f89b0d78aa81d96160a26f8a4feb53849a04ebee27ae0c5"
+        },
+        {
+          "start": 448349200,
+          "end": 448365583,
+          "sha256": "0fb10e4932f351265869785cfe18a10997749dddbeb11fb0ca889ba1dbb4a934"
+        },
+        {
+          "start": 448690409,
+          "end": 448706792,
+          "sha256": "b2555369039cf4184e87056758ab75e59a993cf5625e68f30bea4cb5c396512b"
+        },
+        {
+          "start": 448861014,
+          "end": 448877397,
+          "sha256": "851be76aff1b29cf68815c189eefb6760851f41d645ea4bd41c6db9fa90961cf"
+        },
+        {
+          "start": 448946316,
+          "end": 448962699,
+          "sha256": "22e8f1537725e7b57f512c4a4d672efb7356c71c6791cd2ae47c43ae0d7ae2f9"
+        },
+        {
+          "start": 448903665,
+          "end": 448920048,
+          "sha256": "4a8107715eb1817ed24b123b50080377e2ee6852a72fa3128e5d9223bf47028d"
+        },
+        {
+          "start": 448902641,
+          "end": 449011852,
+          "sha256": "5a9d13c46716b4ce70d80a1d73657185023d7acbe111a2669cf85b4644599ceb"
+        },
+        {
+          "start": 349398464,
+          "end": 349414847,
+          "sha256": "1bd54ae1d317b5990acba9b95b23ea7b8d484a73441e5ba73373d33ac68613ba"
+        },
+        {
+          "start": 524097696,
+          "end": 524114079,
+          "sha256": "19b6d1333066955ed19e5aa380f22745ee9793b1e7d85af36a92dfbb54a626f0"
+        },
+        {
+          "start": 436748080,
+          "end": 436764463,
+          "sha256": "055f563ba93e31261a5229d6a17887251910fefb3b1be85d016c4eb72932b1c8"
+        },
+        {
+          "start": 480422888,
+          "end": 480439271,
+          "sha256": "3a742e088397e292e52b31ec1b73d5bda5bb37f838d499b8594ffaafe6026970"
+        },
+        {
+          "start": 458585484,
+          "end": 458601867,
+          "sha256": "eb17753aa81be8ee7523031298ed6e005af23716974745d0c06612ccdebff7cc"
+        },
+        {
+          "start": 469504186,
+          "end": 469520569,
+          "sha256": "04aa82f545edcc551d7bc220c19e30a5be8b94a395df80a9c5d501aba8297772"
+        },
+        {
+          "start": 474963537,
+          "end": 474979920,
+          "sha256": "57c585c22abb162af2e86b64f768ae2659e13b0d9b661fef45d63595b3eae6ef"
+        },
+        {
+          "start": 472233861,
+          "end": 472250244,
+          "sha256": "2157f8faa8859e83ff835d0f9006098da04bccf3a92e82dbd62522b35b68c443"
+        },
+        {
+          "start": 473598699,
+          "end": 473615082,
+          "sha256": "335182f036b03ac3868e9971172ec2ea328bbb81b8d5c19379b7034de0467272"
+        },
+        {
+          "start": 474281118,
+          "end": 474297501,
+          "sha256": "0f977205cc48277acdead25443b37a3db807c7a0b2e10b5ba0f27877bb21b086"
+        },
+        {
+          "start": 473939908,
+          "end": 473956291,
+          "sha256": "32cb3a414a34524d0c88cf3fe94aab02d754ea3260e029558513c563befdbd3a"
+        },
+        {
+          "start": 473769303,
+          "end": 473785686,
+          "sha256": "dc1ad36666930b83eceac9c23735338b3d5bdfba413bb86d06dea2d2d59284c4"
+        },
+        {
+          "start": 473684001,
+          "end": 473700384,
+          "sha256": "9fcfb62a00fbf30c06d644a161ba45846bf51c3e801a9d35dc958c2310742fc6"
+        },
+        {
+          "start": 473726652,
+          "end": 473743035,
+          "sha256": "8cca5fdc2e5ad662875591b538b6b8d0f072304640df4e79fbf590b97025af13"
+        },
+        {
+          "start": 473682977,
+          "end": 473792188,
+          "sha256": "5e6d8fedb805c13d29a23d8bc95e2725fe38ded9c11f3fb50c940e786b28a321"
+        },
+        {
+          "start": 448904161,
+          "end": 453098464,
+          "sha256": "7a89902a5b430a5561b51e124f17f4925dde390891024dc9f4fc43e2a5f8ae91"
+        },
+        {
+          "start": 453098465,
+          "end": 457292768,
+          "sha256": "6222fbec7dc5ff3dd0869e601f0919cb5a30afdb59b846c866d91acb0039ad2f"
+        },
+        {
+          "start": 457292769,
+          "end": 461487072,
+          "sha256": "df75ddcf8f15ebe95d5882ed3e6257853fa4fada17ddeda01dfd85edf609ff33"
+        },
+        {
+          "start": 461487073,
+          "end": 465681376,
+          "sha256": "023a52e87c60dd67da32d01e618caf89f3aaea823ec74efd57bd030938692594"
+        },
+        {
+          "start": 465681377,
+          "end": 469875680,
+          "sha256": "618a27024797f118657e342c5a38ae1c2c26e6eb9d6852828d36244b6e5dbccd"
+        },
+        {
+          "start": 469875681,
+          "end": 473713309,
+          "sha256": "3b519984e794887e86e9784672d1409b03e8b28b029c148b3e92a0799c6cbc94"
+        }
+      ],
+      "extraction_start_utc": "2017-08-23 05:00:00",
+      "extraction_end_utc_exclusive": "2017-09-04 05:00:00",
+      "method": "UTC time-sorted archive byte-range subset; selected range monotonicity verified"
+    },
+    {
+      "event": "Hurricane_Nicholas_2021",
+      "file": {
+        "id": 42547891,
+        "name": "eaglei_outages_2021.csv",
+        "size": 1141058232,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/42547891",
+        "supplied_md5": "b5a5912be793ca22dddcc73ca2c3379d",
+        "computed_md5": "b5a5912be793ca22dddcc73ca2c3379d",
+        "mimetype": "text/plain"
+      },
+      "http_ranges": [
+        {
+          "start": 0,
+          "end": 8191,
+          "sha256": "8cb4ab6f1c02dee895db085b56bf29431766e4ff8bee33dd0ec4aefd43c94254"
+        },
+        {
+          "start": 570529116,
+          "end": 570545499,
+          "sha256": "dc1e950d59aa54396b4b89e7c95a372b5b706247675127886934d24161020949"
+        },
+        {
+          "start": 855793674,
+          "end": 855810057,
+          "sha256": "926d0234743eeb97e47590d199473549d8b2838716f8b850e1234b5e9d961e50"
+        },
+        {
+          "start": 713161395,
+          "end": 713177778,
+          "sha256": "cac706b4c29d508e3585e8c8a661007271f43574dae03e096ffa01e0d8f9c847"
+        },
+        {
+          "start": 784477534,
+          "end": 784493917,
+          "sha256": "fb120d8972c9baa801bdc4a5255f659ff6ef83e8e966356a08305686d5c923e8"
+        },
+        {
+          "start": 820135604,
+          "end": 820151987,
+          "sha256": "c9fb03797ded5520bbeddf93e39c73abd414983189c0b9ea1b3ac9bf983df2ff"
+        },
+        {
+          "start": 802306569,
+          "end": 802322952,
+          "sha256": "79a1ea8ba42c26597e237b4b36c9d84573a9175cb704ce4500f5c88d0d4fc953"
+        },
+        {
+          "start": 811221086,
+          "end": 811237469,
+          "sha256": "b8a36073c17b025964da09ad5a9df4e32c44c8605780fb68d7a4df88c80c5234"
+        },
+        {
+          "start": 815678345,
+          "end": 815694728,
+          "sha256": "41778b02c07427055dbb63033489e19651a6304ade77da502df175b7e88eabd2"
+        },
+        {
+          "start": 817906974,
+          "end": 817923357,
+          "sha256": "9ef4d905f54a848ba7d10b37c61055b29f20540a39a629bdf80c237e6f8b31c7"
+        },
+        {
+          "start": 816792659,
+          "end": 816809042,
+          "sha256": "6131c12394609e047761ae8ce039e31f0e9e1f7330fe589b437dc4bb806560e0"
+        },
+        {
+          "start": 816235502,
+          "end": 816251885,
+          "sha256": "26788c446a152da123c4dcdd24a621734affa3806b6f962618b3c94ce3d755f7"
+        },
+        {
+          "start": 816514080,
+          "end": 816530463,
+          "sha256": "e9643f0ae49a5a16670423ac5c58408920396b2acb2e7d2c8df89bfa9a43649d"
+        },
+        {
+          "start": 816374791,
+          "end": 816391174,
+          "sha256": "2676e53c497c49e3b1faae3f241e611d08e422c1f1cd2284729dd27d886b902f"
+        },
+        {
+          "start": 816444435,
+          "end": 816460818,
+          "sha256": "19500e81a7fe3b215eabf8f148702662d33aeda9149e7718950e31e088188159"
+        },
+        {
+          "start": 816409613,
+          "end": 816425996,
+          "sha256": "f0e44faca875a53e4d8f683127c8c611cac2b7317fe81615d159d34ae659acce"
+        },
+        {
+          "start": 816373767,
+          "end": 816475149,
+          "sha256": "9d1a1df7c60fa874527b0e7f44c3867f1cd994b5aa44f481a1c807e42a1fbd3b"
+        },
+        {
+          "start": 570529116,
+          "end": 570545499,
+          "sha256": "dc1e950d59aa54396b4b89e7c95a372b5b706247675127886934d24161020949"
+        },
+        {
+          "start": 855793674,
+          "end": 855810057,
+          "sha256": "926d0234743eeb97e47590d199473549d8b2838716f8b850e1234b5e9d961e50"
+        },
+        {
+          "start": 713161395,
+          "end": 713177778,
+          "sha256": "cac706b4c29d508e3585e8c8a661007271f43574dae03e096ffa01e0d8f9c847"
+        },
+        {
+          "start": 784477534,
+          "end": 784493917,
+          "sha256": "fb120d8972c9baa801bdc4a5255f659ff6ef83e8e966356a08305686d5c923e8"
+        },
+        {
+          "start": 820135604,
+          "end": 820151987,
+          "sha256": "c9fb03797ded5520bbeddf93e39c73abd414983189c0b9ea1b3ac9bf983df2ff"
+        },
+        {
+          "start": 837964639,
+          "end": 837981022,
+          "sha256": "a59dd78bfd539f16d7cf2a06218ea2b115f7b2a489071cf671f68c5d0379a549"
+        },
+        {
+          "start": 829050121,
+          "end": 829066504,
+          "sha256": "9e1d6c2b8d5a3deb21c62c2f0d440231cf6e4a533f019c136214b18704047fcc"
+        },
+        {
+          "start": 833507380,
+          "end": 833523763,
+          "sha256": "4e67633bb0c6335ad5825703ae847d996cbe8c7b70d57ac4b2ff10230c797990"
+        },
+        {
+          "start": 835736009,
+          "end": 835752392,
+          "sha256": "85a4292de009ab90405ec3eac39f980279becf2b7f5361d464833b073f49f98a"
+        },
+        {
+          "start": 834621694,
+          "end": 834638077,
+          "sha256": "dc60b8727597d702c8d4c36024e967bfd89ee129de035785d6a9b1bc1af172e0"
+        },
+        {
+          "start": 835178851,
+          "end": 835195234,
+          "sha256": "a723de8c253ca683d6feb8a39dc8b7ff96484365a3e6bcc54e23b09bd72333e5"
+        },
+        {
+          "start": 834900272,
+          "end": 834916655,
+          "sha256": "522eff85a3b8b5d77f05408f92084928f1f77b579a80e5b88417f4369f4aad33"
+        },
+        {
+          "start": 835039561,
+          "end": 835055944,
+          "sha256": "82b7e658103adf97a7ee1959652a8958f51710d46dc3d16eb594ac4b8f03a7c4"
+        },
+        {
+          "start": 834969916,
+          "end": 834986299,
+          "sha256": "463cc3bb54a365b207d9258da02cb046072d7ecdacbd38f94ec5ac3989000102"
+        },
+        {
+          "start": 835004738,
+          "end": 835021121,
+          "sha256": "ff58a045cf0015f33c216f6512be077753603ecd8d1291ca4f2c7e292f90c1c1"
+        },
+        {
+          "start": 834968892,
+          "end": 835070274,
+          "sha256": "7488c2f4fad3463b6992222e0f7b72405f564e1b31690711b6215a0a52d494f0"
+        },
+        {
+          "start": 816394634,
+          "end": 820588937,
+          "sha256": "bd90de3144bcdb322cfbe067fb75426d8b11cac120a86dddbd3517672b924a05"
+        },
+        {
+          "start": 820588938,
+          "end": 824783241,
+          "sha256": "dca3ee7a1fb3a4c4ec0f3212cd30d79bd126991e5a303c70ae39634284d07dbf"
+        },
+        {
+          "start": 824783242,
+          "end": 828977545,
+          "sha256": "f57a359569b55845c73226d52d311476e8fc9c0a804a8fc21fba19a3a0c6eeb5"
+        },
+        {
+          "start": 828977546,
+          "end": 833171849,
+          "sha256": "40a02e119eadd5a9390a60244b02310d15b1deb253b648145fefbd9e749517ca"
+        },
+        {
+          "start": 833171850,
+          "end": 834979303,
+          "sha256": "2ca1ffd2755033ae0af64fb69d7aed3a16504743b54cca44006e21f06f17a568"
+        }
+      ],
+      "extraction_start_utc": "2021-09-12 05:00:00",
+      "extraction_end_utc_exclusive": "2021-09-18 05:00:00",
+      "method": "UTC time-sorted archive byte-range subset; selected range monotonicity verified"
+    },
+    {
+      "event": "Tropical_Storm_Imelda_2019",
+      "file": {
+        "id": 42547885,
+        "name": "eaglei_outages_2019.csv",
+        "size": 1102778792,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/42547885",
+        "supplied_md5": "0ff77af0106486eb7bdc6c5051bd916a",
+        "computed_md5": "0ff77af0106486eb7bdc6c5051bd916a",
+        "mimetype": "text/plain"
+      },
+      "http_ranges": [
+        {
+          "start": 0,
+          "end": 8191,
+          "sha256": "0a64adb983928da664621cef999e966ed656cd2b4e54c7e720ac23c78c8cec68"
+        },
+        {
+          "start": 551389396,
+          "end": 551405779,
+          "sha256": "7e86ac2e3543e1af5901e0ffce530c33db6fa82a7e76538d3049aa520a1149d1"
+        },
+        {
+          "start": 827084094,
+          "end": 827100477,
+          "sha256": "cd37c94345cdc620ac9ddd0309ad8237ca8ee22b79851f3d13391efa2ff3fa31"
+        },
+        {
+          "start": 689236745,
+          "end": 689253128,
+          "sha256": "6db9852cbe6cfefdf35a5e14258a67a9bd73b735acd9b058d5fea8bacc06a584"
+        },
+        {
+          "start": 758160419,
+          "end": 758176802,
+          "sha256": "60c59f429e6885e126d9d50faa6c8c07b6614d529437f5f1bfef102b947ae06a"
+        },
+        {
+          "start": 792622256,
+          "end": 792638639,
+          "sha256": "99e4034c589b2282aaf7891c9cf50d2dc410b843784863ad6e425f99febae1ce"
+        },
+        {
+          "start": 809853175,
+          "end": 809869558,
+          "sha256": "f298fb1b50a46566278b37d9b2cdbe9951d505eca980ba26111527364a8851ec"
+        },
+        {
+          "start": 801237715,
+          "end": 801254098,
+          "sha256": "ba1e0949a26cf7d96ab2b6c0eab5172fa60d4f1139b25dd4a89309db48639859"
+        },
+        {
+          "start": 805545445,
+          "end": 805561828,
+          "sha256": "e0d275863cbba7bf10d470a511dbf6a62fa510bfdc814fdd65f51c2d071a564a"
+        },
+        {
+          "start": 807699310,
+          "end": 807715693,
+          "sha256": "98956e1b80f5adff40202b5efe2ba3cc054f88bff69cbfed2b8982848092141b"
+        },
+        {
+          "start": 806622377,
+          "end": 806638760,
+          "sha256": "7c0e08a5ad94bcc4357c4f659effe3c3394a4d15899195d48ed3ea1f04013daf"
+        },
+        {
+          "start": 806083911,
+          "end": 806100294,
+          "sha256": "b3a84ec50b201592a9d44e78fe234c816c9c7009529d746543e4e8bf4d7454bc"
+        },
+        {
+          "start": 805814678,
+          "end": 805831061,
+          "sha256": "3ef6bf8a0b45b3fdf8ac5ca0d71b016275bfbecb091046baa83d5787c1a2a8c3"
+        },
+        {
+          "start": 805949294,
+          "end": 805965677,
+          "sha256": "ec90bca75596d3cc51e39b90fbb177f9eac09c3c5452d36f709463aee67bfc5a"
+        },
+        {
+          "start": 805881986,
+          "end": 805898369,
+          "sha256": "a0eef5e64611171b20df2ab7012bdb00f1634f3ad6730d45bd113ab310b842ba"
+        },
+        {
+          "start": 805848332,
+          "end": 805864715,
+          "sha256": "8e6cff04d1c1680322d924a238c683aada88bd00f824485968f418d80e9c79d7"
+        },
+        {
+          "start": 805813654,
+          "end": 805913868,
+          "sha256": "893b7e87642f1d3774047b8a18806030395ee0a327e32f7afe50baae839d0771"
+        },
+        {
+          "start": 551389396,
+          "end": 551405779,
+          "sha256": "7e86ac2e3543e1af5901e0ffce530c33db6fa82a7e76538d3049aa520a1149d1"
+        },
+        {
+          "start": 827084094,
+          "end": 827100477,
+          "sha256": "cd37c94345cdc620ac9ddd0309ad8237ca8ee22b79851f3d13391efa2ff3fa31"
+        },
+        {
+          "start": 689236745,
+          "end": 689253128,
+          "sha256": "6db9852cbe6cfefdf35a5e14258a67a9bd73b735acd9b058d5fea8bacc06a584"
+        },
+        {
+          "start": 758160419,
+          "end": 758176802,
+          "sha256": "60c59f429e6885e126d9d50faa6c8c07b6614d529437f5f1bfef102b947ae06a"
+        },
+        {
+          "start": 792622256,
+          "end": 792638639,
+          "sha256": "99e4034c589b2282aaf7891c9cf50d2dc410b843784863ad6e425f99febae1ce"
+        },
+        {
+          "start": 809853175,
+          "end": 809869558,
+          "sha256": "f298fb1b50a46566278b37d9b2cdbe9951d505eca980ba26111527364a8851ec"
+        },
+        {
+          "start": 818468634,
+          "end": 818485017,
+          "sha256": "6a492240a462cd13ca457b719f1ce9a3577275726459605509309efa5752f784"
+        },
+        {
+          "start": 822776364,
+          "end": 822792747,
+          "sha256": "cafa350cb7d0c019b4e780ef0d5b4825c5ca28384da38c8cc971f3f1b2192864"
+        },
+        {
+          "start": 824930229,
+          "end": 824946612,
+          "sha256": "f5a7b900c5032984aa708abdacda172b5ea2d1c8d07676ab6d6bdb7747e94cc8"
+        },
+        {
+          "start": 826007161,
+          "end": 826023544,
+          "sha256": "e7be0587465bb18a9e29a09714114129e51ab6b3e80fb9ac8581a596c25d6287"
+        },
+        {
+          "start": 825468695,
+          "end": 825485078,
+          "sha256": "e88f89b9b71df4fe11ce32304f696581339d5a6e0de2ae1f5b209d6c5d68e881"
+        },
+        {
+          "start": 825737928,
+          "end": 825754311,
+          "sha256": "2e1f5f419310ecd8482ddd2265ec584500820a9671dd4b660b21b7ea10d2a780"
+        },
+        {
+          "start": 825603311,
+          "end": 825619694,
+          "sha256": "8f2f7bcfe8aa6675e205ff895a5ed8bc9340aab1752cdfec506928140bde641a"
+        },
+        {
+          "start": 825536003,
+          "end": 825552386,
+          "sha256": "d6ee71023ed58a331d1688adfaf63f0411af57b1e8aaa45c50df5372fe81f01a"
+        },
+        {
+          "start": 825502349,
+          "end": 825518732,
+          "sha256": "5dff2e9982475e3deaf2e3a7c101a1fd2c2a44f48fca223aaef526bdedf81fc4"
+        },
+        {
+          "start": 825467671,
+          "end": 825567885,
+          "sha256": "ff95cdbe95130d4ac7d4ab3975bcb6a66b6a06c410120a769eb016f9b2f1b922"
+        },
+        {
+          "start": 805821083,
+          "end": 810015386,
+          "sha256": "1c9490fac8af8826524ed30af178ed500c4727cc886fa8a53a93cabd4f0e6277"
+        },
+        {
+          "start": 810015387,
+          "end": 814209690,
+          "sha256": "692cf1659680efad4867aa96ce0f146d19baa3ae1ba1b4795e1bbb871b4dbd12"
+        },
+        {
+          "start": 814209691,
+          "end": 818403994,
+          "sha256": "d311d1405138cd667b600f19e331a5a6ad2698b90c9a13ed29c64816c338773d"
+        },
+        {
+          "start": 818403995,
+          "end": 822598298,
+          "sha256": "681d990448679f5376453d2c6716adc2094aa39073093535a7883446ecb4e920"
+        },
+        {
+          "start": 822598299,
+          "end": 825492548,
+          "sha256": "3a86358fc8227ef923c6f1fbbe7d91d1608f5a4f8aaf68392b2cb63a2ab9fed4"
+        }
+      ],
+      "extraction_start_utc": "2019-09-16 05:00:00",
+      "extraction_end_utc_exclusive": "2019-09-23 05:00:00",
+      "method": "UTC time-sorted archive byte-range subset; selected range monotonicity verified"
+    }
+  ],
+  "centerpoint_url": "https://origin-hmong.centerpointenergy.com/en-us/residential/services/hurricane-beryl-response?sa=mn",
+  "absence_policy": "Absent county-quarter-hours remain unknown, never imputed to zero."
+}

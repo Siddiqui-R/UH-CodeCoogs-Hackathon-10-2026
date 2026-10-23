@@ -1,0 +1,16 @@
+{
+  "dataset": "HIFLD Electric Substations (U.S. Department of Homeland Security, Homeland Infrastructure Foundation-Level Data)",
+  "retrieved_from": "https://services5.arcgis.com/HDRa0B57OVrv2E1q/ArcGIS/rest/services/Electric_Substations/FeatureServer/0",
+  "official_page": "https://hifld-geoplatform.opendata.arcgis.com/datasets/electric-substations",
+  "access_note": "The official HIFLD download is listed as restricted on data.gov (https://catalog.data.gov/dataset/electric-substations). This file comes from a public ArcGIS re-host of the HIFLD layer; records keep HIFLD SOURCE and SOURCEDATE fields.",
+  "query": "COUNTYFIPS IN ('48201','48157','48339','48039','48167')",
+  "retrieved_at_utc": "2026-10-23T19:30:00Z",
+  "coverage": "Substations at 69 kV and above; lower-voltage distribution substations are incomplete.",
+  "not_located": [
+    {
+      "name": "H.O. Clarke / Brazosport / Rosharon service center",
+      "address": "12045 South Main Street, Houston, TX 77045",
+      "reason": "Geocoders returned only the street segment, not the building; left out rather than placed inaccurately."
+    }
+  ]
+}

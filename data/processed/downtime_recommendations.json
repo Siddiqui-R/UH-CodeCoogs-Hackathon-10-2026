@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "n_zips": 198,
+    "quartile_size": 49,
+    "low_median_downtime": 0.0211,
+    "high_median_downtime": 0.4298
+  },
+  "recommendations": [
+    {
+      "id": "R1",
+      "title": "Flood-proof the grid where flood claims concentrate",
+      "strength": "Strongest signal in the data",
+      "evidence": "ZIPs with the longest outages had 4.5\u00d7 the flood-claim rate of the fastest-restored ZIPs (45 vs 10 claims per 1,000 customers; rank correlation +0.40, 198 ZIPs).",
+      "action": "Elevate or flood-harden substations and pad-mounted equipment in the hotspot ZIPs, and pre-stage mobile generation on high ground beside them before landfall.",
+      "findings": "F50;F44;F06",
+      "stats": "flood_claims_per_1k_customers",
+      "target_kind": "zips",
+      "target_ids": "77013;77024;77025;77034;77039;77070;77074;77078;77079;77089;77096;77316;77336;77339;77345;77365;77380;77385;77401;77430;77515;77517;77518;77563",
+      "target_count": 24,
+      "target_places": "Porter, Kingwood, Energy Corridor, Montgomery, Conroe, Braeswood and 17 more",
+      "target_rule": "Slowest-restored quarter of ZIPs (at least 0.25 days out per customer) that are also in the top quarter for flood claims (at least 35 per 1,000 customers)."
+    },
+    {
+      "id": "R2",
+      "title": "Start with the named hotspots",
+      "strength": "Located from the data",
+      "evidence": "The longest outages clustered in Porter (77365), Huffman (77336), Kingwood (77339), Kingwood (77345), Lake Houston area (77044), Sheldon (77049).",
+      "action": "Make these the first areas for hardening, pre-staged crews and mobile generation, and keep relief supplies on high ground inside each cluster.",
+      "findings": "F15;F44",
+      "stats": "hotspots",
+      "target_kind": "zips",
+      "target_ids": "77044;77049;77336;77339;77345;77365",
+      "target_count": 6,
+      "target_places": "Porter, Kingwood, Lake Houston area, Sheldon, Huffman",
+      "target_rule": "The three hotspot clusters: slowest-quarter ZIPs within 8 km of each other, ranked by median outage length."
+    },
+    {
+      "id": "R3",
+      "title": "Clear roads and restore information first",
+      "strength": "Data plus 4 reports",
+      "evidence": "Distance to a service center did not separate long and short outages (rank correlation 0.06). Reports point to blocked roads and missing outage information instead.",
+      "action": "Pair crew staging with debris-clearing crews on access routes, and keep a working outage map and call line from hour one.",
+      "findings": "F16;F03;F04;F05",
+      "stats": "road_km_to_service_center",
+      "target_kind": "zips",
+      "target_ids": "77002;77010;77012;77020;77043;77081;77355;77386;77389;77396;77417;77469;77471;77554",
+      "target_count": 14,
+      "target_places": "Spring, Downtown Houston, Gulfton, Galveston, Beasley, Fifth Ward and 6 more",
+      "target_rule": "Slowest-restored quarter of ZIPs with below-median flood claims (under 17 per 1,000 customers). These are access-review candidates; the data does not identify blocked roads or establish the cause of each outage."
+    },
+    {
+      "id": "R4",
+      "title": "Segment circuits serving smaller and outlying areas",
+      "strength": "Data agrees with the regulator",
+      "evidence": "Smaller ZIPs ran slightly longer outages (rank correlation -0.10 with customer count), as the PUCT found for less-populated areas and single-line service.",
+      "action": "Add sectionalizers and automatic reclosers so one fault no longer darkens a whole outlying feeder.",
+      "findings": "F48;F49",
+      "stats": "customers",
+      "target_kind": "zips",
+      "target_ids": "77068;77094;77316;77336;77362;77365;77380;77385;77417;77430;77441;77510;77515;77517;77518;77539;77563",
+      "target_count": 17,
+      "target_places": "Porter, Montgomery, Conroe, Angleton, The Woodlands, Beasley and 11 more",
+      "target_rule": "Smaller ZIPs (bottom quarter, up to 6,732 customers) more than 25 km from downtown Houston with slower-than-median restoration."
+    },
+    {
+      "id": "R5",
+      "title": "For wind storms like Beryl, target trees",
+      "strength": "Supported by 3 reports; ZIP data to confirm",
+      "evidence": "CenterPoint found its longest Beryl outages where rainfall and vegetation were highest, and the PUCT found most tree damage came from outside utility rights-of-way.",
+      "action": "Create a way for residents to report hazard trees, trim beyond rights-of-way with owner consent, and collect circuit-level canopy data so the next storm can be measured ZIP by ZIP.",
+      "findings": "F30;F09;F10",
+      "stats": "",
+      "target_kind": "counties",
+      "target_ids": "48201;48167;48339",
+      "target_count": 3,
+      "target_places": "Harris (74 hours), Galveston (68 hours), Montgomery (65 hours)",
+      "target_rule": "Counties that took at least the median 65 hours to halve Beryl outages (EAGLE-I). Beryl outage data exists only by county.",
+      "county_hours": {
+        "48201": 74,
+        "48157": 50,
+        "48339": 65,
+        "48039": 54,
+        "48167": 68
+      }
+    }
+  ]
+}

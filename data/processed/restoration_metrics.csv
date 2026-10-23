@@ -1,0 +1,11 @@
+storm_event,county_fips,county_name,source,peak_outages,peak_at,time_unit,to_half,half_reached,half_at,to_tenth,tenth_reached,tenth_at,outage_burden,outage_burden_unit,data_ends,outages_at_data_end
+Hurricane_Harvey_2017,48201,Harris,harvey_zip_file_daily,89319,2017-08-28,days,3,True,2017-08-31,6,True,2017-09-03,380430,customer_days_snapshot_sum,2017-09-04,4429
+Hurricane_Harvey_2017,48157,Fort Bend,harvey_zip_file_daily,11046,2017-08-28,days,1,True,2017-08-29,3,True,2017-08-31,18333,customer_days_snapshot_sum,2017-09-04,507
+Hurricane_Harvey_2017,48339,Montgomery,harvey_zip_file_daily,5341,2017-08-31,days,1,True,2017-09-01,1,True,2017-09-01,19593,customer_days_snapshot_sum,2017-09-04,12
+Hurricane_Harvey_2017,48039,Brazoria,harvey_zip_file_daily,4166,2017-08-31,days,1,True,2017-09-01,2,True,2017-09-02,13563,customer_days_snapshot_sum,2017-09-04,23
+Hurricane_Harvey_2017,48167,Galveston,harvey_zip_file_daily,5437,2017-08-27,days,3,True,2017-08-30,5,True,2017-09-01,17730,customer_days_snapshot_sum,2017-09-04,430
+Hurricane_Beryl_2024,48201,Harris,eaglei_hourly_observed_mean,1652418,2024-07-08T15:00:00-05:00,hours,74,True,2024-07-11T17:00:00-05:00,,False,,107479876,observed_customer_hours_window_only,2024-07-12T23:00:00-05:00,590338
+Hurricane_Beryl_2024,48157,Fort Bend,eaglei_hourly_observed_mean,227514,2024-07-08T15:00:00-05:00,hours,50,True,2024-07-10T17:00:00-05:00,,False,,12711090,observed_customer_hours_window_only,2024-07-12T23:00:00-05:00,25259
+Hurricane_Beryl_2024,48339,Montgomery,eaglei_hourly_observed_mean,245775,2024-07-08T18:00:00-05:00,hours,65,True,2024-07-11T11:00:00-05:00,,False,,17409065,observed_customer_hours_window_only,2024-07-12T23:00:00-05:00,58818
+Hurricane_Beryl_2024,48039,Brazoria,eaglei_hourly_observed_mean,160644,2024-07-08T15:00:00-05:00,hours,54,True,2024-07-10T21:00:00-05:00,,False,,10540389,observed_customer_hours_window_only,2024-07-12T23:00:00-05:00,39738
+Hurricane_Beryl_2024,48167,Galveston,eaglei_hourly_observed_mean,163055,2024-07-08T15:00:00-05:00,hours,68,True,2024-07-11T11:00:00-05:00,,False,,9958776,observed_customer_hours_window_only,2024-07-12T23:00:00-05:00,27480

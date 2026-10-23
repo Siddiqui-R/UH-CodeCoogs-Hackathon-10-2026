@@ -1,0 +1,2 @@
+# Keep files byte-for-byte: the build verifies SHA-256 fingerprints of inputs and outputs.
+* -text

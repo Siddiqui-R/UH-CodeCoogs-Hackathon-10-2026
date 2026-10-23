@@ -1,0 +1,598 @@
+substation_id,name,city,county_fips,type,status,max_kv,lines,latitude,longitude,hifld_source,hifld_source_date
+300003,Cherokee,Texas City,48167,substation,in service,138,2,29.367136,-94.915831,"IMAGERY, OpenStreetMap",2017-05-08
+300005,Gertie,Satsuma,48201,substation,in service,138,2,29.86358,-95.683935,"IMAGERY, OpenStreetMap",2016-11-30
+300010,Hyde Park,Houston,48201,substation,in service,69,2,29.747911,-95.384576,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+300012,Hidden Valley,Needville,48157,substation,in service,138,2,29.396123,-95.840899,"IMAGERY, OpenStreetMap",2017-05-15
+300034,Retrieve,Angleton,48039,substation,not available,138,0,29.099856,-95.492757,IMAGERY,2017-05-08
+300036,Hall,Pearland,48201,substation,in service,138,2,29.589352,-95.240203,"IMAGERY,Inference,  OpenStreetMap",2017-05-02
+300038,Satsuma,Jersey Village,48201,substation,in service,138,2,29.88167,-95.576458,"IMAGERY, OpenStreetMap",2016-11-30
+300094,Unknown300094,Houston,48201,substation,in service,138,2,29.752556,-95.129986,IMAGERY,2018-10-22
+300110,Unknown300110,Deer Park,48201,substation,in service,69,2,29.732231,-95.08273,"IMAGERY, OpenStreetMap",2015-06-11
+300119,Walden,Montgomery,48339,substation,in service,138,2,30.395556,-95.620453,"IMAGERY, OpenStreetMap",2017-05-10
+300128,Airline,Houston,48201,substation,in service,138,2,29.818541,-95.389313,"IMAGERY, Inference, OpenStreetMap",2017-05-08
+300129,Unknown300129,Clute,48039,substation,not available,138,0,29.038176,-95.371735,IMAGERY,2018-01-02
+300174,Westbay,Galveston,48167,substation,in service,138,1,29.112682,-95.09062,OpenStreetMap,2016-11-28
+300202,Unknown300202,Kohrville,48201,substation,in service,138,2,29.996663,-95.566064,"IMAGERY, OpenStreetMap",2015-06-11
+300210,Unknown300210,Conroe,48339,substation,in service,,1,30.313238,-95.387904,IMAGERY,2018-09-04
+300215,Mary'S Creek,Pearland,48039,substation,in service,138,1,29.554067,-95.257305,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+300217,Unknown300217,Galena Park,48201,substation,not available,138,0,29.72338,-95.241469,IMAGERY,2018-01-04
+300233,Clinton,Houston,48201,substation,in service,138,1,29.760955,-95.299674,"IMAGERY, OpenStreetMap",2017-05-08
+300234,Unknown300234,Old Ocean,48039,substation,in service,138,4,29.070089,-95.745518,IMAGERY,2017-05-08
+300256,Clear Lake,Houston,48201,substation,not available,345,0,29.608484,-95.126617,IMAGERY,2017-02-13
+300265,Unknown300265,Deer Park,48201,substation,in service,69,4,29.72129,-95.105986,IMAGERY,2015-08-20
+300274,Oates Reit,Houston,48201,substation,in service,138,2,29.778534,-95.252232,"IMAGERY, OpenStreetMap",2017-05-15
+300290,Brays,Houston,48201,substation,in service,138,2,29.684158,-95.447836,"IMAGERY, OpenStreetMap",2016-11-30
+300323,Blueridge,Houston,48201,substation,in service,138,1,29.628668,-95.496803,"IMAGERY, OpenStreetMap",2016-11-30
+300372,Treaschwig,Spring,48201,substation,in service,138,2,30.043882,-95.350793,"IMAGERY, OpenStreetMap",2017-05-16
+300392,Lake Jackson,Lake Jackson,48039,substation,in service,138,2,29.052656,-95.42401,"IMAGERY, OpenStreetMap",2015-06-24
+300426,Unknown300426,Houston,48201,substation,in service,138,1,29.696582,-95.398219,IMAGERY,2017-05-15
+300434,Quintana,Quintana,48039,substation,in service,69,2,28.932095,-95.317949,IMAGERY,2016-11-29
+300436,April,Keenan,48339,substation,in service,138,2,30.369066,-95.614685,"IMAGERY, OpenStreetMap",2017-05-10
+300453,Unknown300453,Deer Park,48201,substation,in service,138,2,29.720109,-95.111492,"IMAGERY, OpenStreetMap",2017-05-16
+300463,Dow Velasco,Oyster Creek,48039,substation,in service,345,10,28.985928,-95.358144,"IMAGERY, OpenStreetMap",2016-01-26
+300471,Conroe Bulk,Conroe,48339,substation,in service,138,5,30.28902,-95.455252,"IMAGERY, OpenStreetMap",2017-05-10
+300476,Psarco,Channelview,48201,substation,in service,138,2,29.813266,-95.121101,"IMAGERY, OpenStreetMap",2017-05-08
+300484,Sweeny,Sweeny,48039,substation,in service,138,2,29.055573,-95.68725,"IMAGERY, OpenStreetMap",2017-05-08
+300541,Apache,Texas City,48167,substation,in service,138,4,29.378985,-94.943851,"IMAGERY, OpenStreetMap",2017-05-08
+300547,Addicks,Houston,48201,substation,in service,345,8,29.822577,-95.572995,"IMAGERY, OpenStreetMap",2016-01-26
+300572,Unknown300572,Channelview,48201,substation,in service,138,2,29.75073,-95.126189,"IMAGERY, OpenStreetMap",2017-05-08
+300576,Unknown300576,Pasadena,48201,substation,in service,138,2,29.729269,-95.150265,"IMAGERY, OpenStreetMap",2017-05-16
+300592,Unknown300592,Cut And Shoot,48339,substation,in service,230,2,30.415868,-95.328177,IMAGERY,2017-05-15
+300595,Witter,Pasadena,48201,substation,in service,69,2,29.716357,-95.200402,"IMAGERY, OpenStreetMap",2015-06-11
+300597,Unknown300597,Baytown,48201,substation,in service,138,2,29.73449,-95.004684,IMAGERY,2017-05-16
+300598,Caney Creek,Willis,48339,substation,not available,138,0,30.4303,-95.438506,"IMAGERY, OpenStreetMap",2017-05-15
+300638,Th Wharton Power Plant,Houston,48201,substation,in service,138,10,29.940177,-95.532242,IMAGERY,2016-12-14
+300658,Texas City Main,Texas City,48167,substation,in service,138,6,29.381488,-94.901545,"IMAGERY, Inference,OpenStreetMap",2017-05-08
+300678,Lyondell,Channelview,48201,substation,in service,138,2,29.820155,-95.126453,"IMAGERY, OpenStreetMap",2017-05-08
+300688,Telview,Fresno,48157,substation,in service,138,2,29.579516,-95.487145,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+300697,Hidden Valley,Aldine,48201,substation,in service,138,2,29.911422,-95.422987,"IMAGERY, OpenStreetMap",2016-11-30
+300699,Midtown,Houston,48201,substation,in service,138,2,29.741493,-95.371465,"IMAGERY, OpenStreetMap",2017-05-15
+300716,Unknown300716,Cut And Shoot,48339,substation,in service,138,4,30.321113,-95.387159,IMAGERY,2017-05-15
+300776,Busch,Houston,48201,substation,in service,138,2,29.77625,-95.272733,"IMAGERY, OpenStreetMap",2017-05-08
+300779,Unknown300779,Taylor Lake Village,48201,substation,in service,138,2,29.63385,-95.084415,"IMAGERY, OpenStreetMap",2017-05-15
+300814,Unknown300814,Hockley,48201,substation,in service,138,4,30.021284,-95.846092,"IMAGERY, OpenStreetMap",2017-05-15
+300849,Unknown300849,Willis,48339,substation,in service,138,2,30.426823,-95.453221,IMAGERY,2017-05-15
+300871,Cameron,Satsuma,48201,substation,in service,138,4,29.918668,-95.649992,"IMAGERY, OpenStreetMap",2016-11-30
+300878,Unknown300878,Houston,48201,substation,not available,138,0,29.710189,-95.233237,IMAGERY,2018-01-08
+300879,South Channel,Pasadena,48201,substation,in service,138,9,29.721352,-95.164358,"IMAGERY, OpenStreetMap",2015-06-11
+300886,Unknown300886,Houston,48201,substation,in service,138,1,29.75384,-95.306577,IMAGERY,2017-05-08
+300906,Strawberry Belt,Pasadena,48201,substation,in service,138,1,29.699135,-95.171716,"IMAGERY, OpenStreetMap",2017-05-05
+300917,Unknown300917,Freeport,48039,substation,in service,138,1,28.955681,-95.316743,IMAGERY,2017-05-08
+300936,Port,Houston,48201,substation,in service,138,2,29.753137,-95.184626,"IMAGERY, OpenStreetMap",2017-05-08
+300937,Atascocita,Huffman,48201,substation,in service,138,2,30.004896,-95.097025,"IMAGERY, OpenStreetMap",2017-05-15
+300953,Unknown300953,Willis,48339,substation,in service,138,2,30.43778,-95.522501,IMAGERY,2017-05-15
+300973,Scenic Woods,Houston,48201,substation,in service,138,2,29.883723,-95.285265,"IMAGERY, OpenStreetMap",2017-05-08
+300977,Unknown300977,Clute,48039,substation,not available,138,0,29.032226,-95.37116,IMAGERY,2018-01-02
+300987,Fairmont,Deer Park,48201,substation,in service,138,6,29.64942,-95.102769,"IMAGERY, OpenStreetMap",2016-11-30
+301000,Unknown301000,Houston,48201,substation,in service,138,2,29.746099,-95.341491,"IMAGERY, OpenStreetMap",2017-05-08
+301035,Unknown301035,Houston,48201,substation,in service,138,3,29.763011,-95.35235,"IMAGERY, OpenStreetMap",2017-05-08
+301045,Intermediate,Houston,48201,substation,in service,138,2,29.606632,-95.447064,IMAGERY,2017-05-15
+301049,El Dorado,Houston,48201,substation,in service,138,2,29.561807,-95.141387,"IMAGERY, OpenStreetMap",2016-11-30
+301086,Unknown301086,Bayside Terrace,48201,substation,in service,138,2,29.628313,-95.06482,"IMAGERY, OpenStreetMap",2017-05-15
+301123,Bellaire,Houston,48201,substation,in service,345,12,29.724688,-95.450539,"IMAGERY, OpenStreetMap",2016-01-26
+301174,Riser301174,Galveston,48167,riser,in service,138,1,29.260893,-94.897051,IMAGERY,2018-01-23
+301179,Sauer,Houston,48201,substation,in service,138,4,29.788636,-95.552675,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+301205,Velasco,Freeport,48039,substation,in service,138,10,28.980116,-95.362635,"IMAGERY, OpenStreetMap",2015-06-29
+301275,Unknown301275,Deer Park,48201,substation,in service,138,2,29.723804,-95.082717,IMAGERY,2015-08-20
+301286,Unknown301286,Bayside Terrace,48201,substation,in service,138,2,29.616226,-95.036699,"IMAGERY, OpenStreetMap",2017-05-15
+301296,Unknown301296,Cut And Shoot,48339,substation,in service,138,2,30.322091,-95.294794,IMAGERY,2017-05-15
+301312,Unknown301312,Conroe,48339,substation,in service,138,2,30.337018,-95.507686,IMAGERY,2017-05-15
+301322,Alta Loma,Santa Fe,48167,substation,in service,138,2,29.391707,-95.090553,"IMAGERY, OpenStreetMap",2017-05-08
+301329,Industrial,Cloverleaf,48201,substation,in service,138,2,29.752124,-95.185853,"IMAGERY, OpenStreetMap",2017-05-08
+301333,Louetta,Bammel,48201,substation,in service,138,2,30.045452,-95.480447,"IMAGERY, OpenStreetMap",2017-05-08
+301349,Unknown301349,Deer Park,48201,substation,in service,138,1,29.718358,-95.113595,"IMAGERY, OpenStreetMap",2017-05-16
+301360,Unknown301360,Coady,48201,substation,in service,138,2,29.760101,-95.00547,IMAGERY,2015-08-20
+301370,Metro,Shenandoah,48339,substation,in service,138,2,30.174784,-95.462253,"IMAGERY, OpenStreetMap",2016-11-28
+301402,Barker,Houston,48201,substation,not available,138,0,29.711743,-95.643292,IMAGERY,2017-02-13
+301409,Arcola,Iowa Colony,48039,substation,in service,138,5,29.490829,-95.430227,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+301454,Newport Reit,Magnolia Gardens,48201,substation,in service,138,2,29.918879,-95.108089,"IMAGERY, Inference",2017-05-02
+301456,Caddo,Texas City,48167,substation,in service,138,6,29.379571,-94.944135,"IMAGERY, Inference,OpenStreetMap",2017-05-08
+301476,Freeway Park,Texas City,48167,substation,in service,138,4,29.403971,-94.995151,"IMAGERY,Inference, OpenStreetMap",2017-05-08
+301538,Unknown301538,Houston,48201,substation,in service,138,3,29.7173,-95.33105,"IMAGERY, OpenStreetMap",2017-05-15
+301540,Unknown301540,Deer Park,48201,substation,in service,138,2,29.728638,-95.082394,"IMAGERY, OpenStreetMap",2015-06-11
+301545,Sienna,Missouri City,48157,substation,in service,138,3,29.538099,-95.561297,"IMAGERY,Inference, OpenStreetMap",2017-05-02
+301573,Galveston 26Th Street,Galveston,48167,substation,in service,138,1,29.302854,-94.797409,OpenStreetMap,2016-11-28
+301613,Tiki Island,Village Of Tiki Island,48167,substation,in service,138,4,29.304249,-94.901006,"IMAGERY, OpenStreetMap",2016-11-28
+301660,Woodcreek,Houston,48201,substation,in service,138,2,29.789658,-95.619254,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+301663,Unknown301663,La Porte,48201,substation,not available,138,0,29.704011,-95.056553,IMAGERY,2017-12-22
+301670,Berry,Houston,48201,substation,in service,138,3,29.839621,-95.353785,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+301693,Imperial,Sugar Land,48157,substation,in service,138,2,29.594623,-95.630148,"IMAGERY, OpenStreetMap",2017-05-15
+301735,Galena Park,Galena Park,48201,substation,in service,138,6,29.745798,-95.230901,"IMAGERY, OpenStreetMap",2016-11-30
+301748,Unknown301748,Galena Park,48201,substation,in service,138,2,29.71882,-95.22629,"IMAGERY, OpenStreetMap",2015-08-27
+301763,Brazos Valley,Richmond,48157,substation,in service,138,2,29.627051,-95.812438,"IMAGERY, OpenStreetMap",2017-05-15
+301783,Unknown301783,Rosenberg,48157,substation,in service,138,2,29.541824,-95.848564,"IMAGERY, OpenStreetMap",2017-05-15
+301809,Greens Bayou 69,Houston,48201,substation,in service,69,9,29.820097,-95.220851,"IMAGERY, OpenStreetMap",2016-11-28
+301828,Unknown301828,Texas City,48167,substation,in service,138,5,29.376767,-94.901888,"IMAGERY, OpenStreetMap",2017-05-08
+301874,Unknown301874,Houston,48201,substation,in service,138,2,29.743026,-95.309908,IMAGERY,2017-05-08
+301912,Hitchcock,Hitchcock,48167,substation,in service,138,1,29.347502,-95.015917,"IMAGERY, Inference,  OpenStreetMap",2017-05-02
+301981,Blodgett,Houston,48201,substation,in service,138,2,29.721081,-95.364568,Blodgett,2017-05-08
+302002,Unknown302002,Bayside Terrace,48201,substation,in service,138,2,29.626464,-95.038848,"IMAGERY, OpenStreetMap",2017-05-15
+302051,Unknown302051,Deer Park,48201,substation,in service,138,3,29.700951,-95.072676,"IMAGERY, OpenStreetMap",2017-05-16
+302067,Webster,Webster,48201,substation,not available,138,0,29.538768,-95.107499,"IMAGERY, OpenStreetMap",2017-05-16
+302071,Unknown302071,Porter Heights,48339,substation,in service,138,2,30.187044,-95.346666,"IMAGERY, OpenStreetMap",2017-05-15
+302091,Unknown302091,La Porte,48201,substation,in service,138,2,29.642423,-95.059427,"IMAGERY, OpenStreetMap",2017-05-15
+302125,Thompsons,Thompsons,48157,substation,in service,138,4,29.481245,-95.586378,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+302138,Unknown302138,Clute,48039,substation,not available,138,0,29.048961,-95.355027,IMAGERY,2018-01-02
+302174,Liverpool,Liverpool,48039,substation,in service,138,2,29.279193,-95.294993,"IMAGERY, OpenStreetMap",2017-05-08
+302183,Bringhurst,Houston,48201,substation,in service,138,1,29.762792,-95.333342,"IMAGERY, OpenStreetMap",2017-05-08
+302196,Unknown302196,New Caney,48339,substation,in service,138,4,30.13494,-95.219597,"IMAGERY, OpenStreetMap",2017-05-15
+302225,Unknown302225,La Marque,48167,substation,in service,138,1,29.367125,-94.965009,"IMAGERY, OpenStreetMap",2017-05-08
+302247,Unknown302247,Galena Park,48201,substation,in service,69,1,29.727177,-95.229883,IMAGERY,2015-08-20
+302249,Oasis,Manvel,48039,substation,in service,345,5,29.456208,-95.308313,"IMAGERY, OpenStreetMap",2016-01-27
+302278,Unknown302278,Galena Park,48201,substation,in service,69,1,29.717346,-95.233247,IMAGERY,2015-08-27
+302298,Haney Reit,Mcnair,48201,substation,in service,138,2,29.821151,-94.990591,"IMAGERY, OpenStreetMap",2017-05-08
+302325,Greenbelt,Texas City,48167,substation,in service,138,4,29.379633,-94.934589,"IMAGERY, Inference, OpenStreetMap",2017-05-08
+302353,Surfside,Freeport,48039,substation,in service,69,2,28.958796,-95.339168,"IMAGERY, OpenStreetMap",2016-11-29
+302377,Rittenhouse,Houston,48201,substation,in service,138,2,29.86363,-95.379417,"IMAGERY, OpenStreetMap",2016-11-30
+302379,Pilgrim,Friendswood,48201,substation,in service,138,2,29.552253,-95.174905,"IMAGERY, OpenStreetMap",2016-11-30
+302404,Channel Energy Center,Galena Park,48201,substation,in service,345,1,29.717804,-95.234385,"IMAGERY, OpenStreetMap",2016-11-28
+302416,Tap302416,La Porte,48201,tap,in service,138,3,29.721335,-95.071502,IMAGERY,2017-12-22
+302429,Tap302429,La Porte,48201,tap,in service,138,3,29.721419,-95.071129,IMAGERY,2017-12-22
+302431,Tap302431,Missouri City,48157,tap,in service,138,3,29.604572,-95.568112,IMAGERY,2017-05-15
+302451,Tap302451,Houston,48201,tap,in service,138,3,29.770963,-95.61921,IMAGERY,2017-05-15
+302458,Tap302458,Baytown,48201,tap,in service,138,3,29.758432,-94.950985,IMAGERY,2017-05-16
+302462,Tap302462,Houston,48201,tap,in service,138,3,29.908188,-95.287582,IMAGERY,2017-05-08
+302468,Tap302468,Lynchburg,48201,tap,in service,138,3,29.724492,-95.062283,IMAGERY,2015-08-14
+302472,Tap302472,Jones Creek,48039,tap,in service,138,3,28.953349,-95.436148,IMAGERY,2017-05-08
+302481,Tap302481,Houston,48201,tap,in service,138,3,29.816446,-95.482586,IMAGERY,2017-05-15
+302495,Tap302495,Pasadena,48201,tap,in service,138,3,29.719953,-95.164265,IMAGERY,2015-08-14
+302496,Tap302496,Galena Park,48201,tap,in service,138,3,29.748543,-95.217385,IMAGERY,2015-08-14
+302522,Tap302522,Channelview,48201,tap,in service,138,3,29.819346,-95.126293,IMAGERY,2017-05-08
+302525,Tap302525,Galena Park,48201,tap,in service,138,3,29.732658,-95.229495,IMAGERY,2015-08-14
+302535,Tap302535,Aldine,48201,tap,in service,138,3,29.913974,-95.369915,IMAGERY,2017-05-08
+302538,Tap302538,Deer Park,48201,tap,in service,69,3,29.692823,-95.088626,IMAGERY,2015-08-14
+302545,Tap302545,Houston,48201,tap,in service,138,3,29.682842,-95.253958,IMAGERY,2017-05-15
+302554,Tap302554,La Porte,48201,tap,in service,138,3,29.694784,-95.073146,IMAGERY,2017-05-16
+302556,Tap302556,Houston,48201,tap,in service,138,2,29.587622,-95.181166,IMAGERY,2015-08-14
+302558,Tap302558,Magnolia Gardens,48201,tap,in service,138,3,29.876621,-95.111625,IMAGERY,2017-05-05
+302566,Tap302566,Houston,48201,tap,in service,138,3,29.587814,-95.181751,IMAGERY,2015-08-14
+302570,Tap302570,Cloverleaf,48201,tap,in service,138,5,29.818632,-95.154107,IMAGERY,2015-08-14
+302579,Tap302579,Houston,48201,tap,in service,69,3,29.964322,-95.490054,IMAGERY,2018-09-04
+302586,Tap302586,Galena Park,48201,tap,in service,138,3,29.757302,-95.230307,IMAGERY,2015-08-14
+302594,Tap302594,Houston,48201,tap,in service,138,3,29.817195,-95.219698,IMAGERY,2017-05-15
+302618,Tap302618,Houston,48201,tap,in service,138,3,29.55638,-95.150745,IMAGERY,2016-11-30
+302642,Tap302642,Texas City,48167,tap,in service,138,3,29.372592,-94.908774,IMAGERY,2018-01-23
+302652,Tap302652,Barrett,48201,tap,in service,138,4,29.892729,-95.023517,IMAGERY,2017-05-08
+302655,Tap302655,Sheldon,48201,tap,in service,138,3,29.902737,-95.150883,IMAGERY,2017-05-15
+302665,Tap302665,Missouri City,48157,tap,in service,138,3,29.586456,-95.533822,IMAGERY,2017-05-15
+302671,Tap302671,Pasadena,48201,tap,in service,138,3,29.716779,-95.200357,IMAGERY,2015-08-14
+302683,Tap302683,Houston,48201,tap,in service,138,3,29.599464,-95.325346,IMAGERY,2017-05-15
+302686,Tap302686,Houston,48201,tap,in service,138,3,29.556418,-95.150965,IMAGERY,2016-11-30
+302695,Tap302695,Texas City,48167,tap,in service,138,3,29.368863,-94.914298,IMAGERY,2017-05-08
+302738,Tap302738,Baytown,48201,tap,in service,138,3,29.732939,-95.005043,IMAGERY,2017-05-16
+302748,Tap302748,Manvel,48039,tap,in service,345,3,29.457805,-95.30827,IMAGERY,2016-01-27
+302753,Tap302753,Houston,48201,tap,in service,138,3,29.677918,-95.321985,IMAGERY,2017-05-15
+302822,Unknown302822,Willis,48339,substation,in service,230,2,30.43997,-95.519998,IMAGERY,2017-05-15
+302842,Stewart,Galveston,48167,substation,in service,138,3,29.227713,-94.910647,OpenStreetMap,2016-11-28
+302843,Underwood,Deer Park,48201,substation,in service,69,2,29.69208,-95.088803,"IMAGERY, OpenStreetMap",2015-06-18
+302859,Unknown302859,Clute,48039,substation,in service,138,2,28.987526,-95.3941,IMAGERY,2017-05-08
+302894,Unknown302894,Fulshear,48157,substation,not available,138,0,29.701932,-95.846466,IMAGERY,2017-12-22
+302896,San Felipe,Houston,48201,substation,in service,138,3,29.750583,-95.447892,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+302903,Unknown302903,Houston,48201,substation,in service,138,2,29.563113,-95.08523,"IMAGERY, OpenStreetMap",2017-05-08
+302905,Unknown302905,Deer Park,48201,substation,in service,138,2,29.733374,-95.097896,IMAGERY,2015-08-20
+302940,Unknown302940,Taylor Lake Village,48201,substation,in service,138,2,29.624017,-95.087954,"IMAGERY, OpenStreetMap",2017-05-16
+302967,Lake Forrest,Keenan,48339,substation,in service,138,2,30.340388,-95.614531,"IMAGERY, OpenStreetMap",2017-05-10
+302990,Unknown302990,Conroe,48339,substation,in service,,1,30.206175,-95.447429,IMAGERY,2018-09-04
+303032,Orchard,Beasley,48157,substation,in service,138,2,29.539144,-95.953742,"IMAGERY, OpenStreetMap",2017-05-15
+303058,Seaway Sw,Jones Creek,48039,substation,in service,138,2,28.952163,-95.434691,Oyster Creek,2016-08-11
+303079,Spencer Reit,Pasadena,48201,substation,in service,138,2,29.657906,-95.190638,"IMAGERY, OpenStreetMap",2016-11-30
+303086,Northside,Texas City,48167,substation,in service,138,2,29.409033,-94.913602,"IMAGERY,Inference, OpenStreetMap",2017-05-08
+303090,Unknown303090,Houmont Park,48201,substation,in service,138,2,29.913288,-95.21461,IMAGERY,2017-05-15
+303120,Cavern,Oyster Creek,48039,substation,in service,345,2,29.032384,-95.339047,"IMAGERY, OpenStreetMap",2015-06-25
+303136,Unknown303136,Galena Park,48201,substation,in service,138,1,29.72677,-95.229957,IMAGERY,2015-08-20
+303138,Echo,Houston,48201,substation,in service,138,3,29.785408,-95.520626,"IMAGERY, OpenStreetMap",2016-11-30
+303148,Campbell,Houston,48201,substation,in service,138,2,29.818406,-95.524835,"IMAGERY, OpenStreetMap",2017-05-05
+303192,Unknown303192,Cloverleaf,48201,substation,in service,138,2,29.729288,-95.174934,"IMAGERY, OpenStreetMap",2015-08-27
+303213,Almeda,Houston,48201,substation,in service,138,2,29.630119,-95.403543,"IMAGERY, OpenStreetMap",2017-05-15
+303243,Shell,Deer Park,48201,substation,in service,138,2,29.721986,-95.123896,"IMAGERY, OpenStreetMap",2016-11-30
+303263,Unknown303263,Bayside Terrace,48201,substation,in service,138,2,29.623168,-95.041917,IMAGERY,2017-05-15
+303283,Ulrich,Houston,48201,substation,in service,138,2,29.735881,-95.483811,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303300,Sr Bertron Plant,Lynchburg,48201,substation,in service,138,11,29.725174,-95.060337,"IMAGERY, OpenStreetMap",2015-08-27
+303334,Gosling,The Woodlands,48339,substation,in service,138,3,30.183663,-95.491257,"IMAGERY, OpenStreetMap",2016-11-28
+303349,College,South Houston,48201,substation,in service,138,2,29.659718,-95.244847,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303362,Moody Reit,Galveston,48167,substation,in service,138,2,29.260626,-94.853408,OpenStreetMap,2016-11-28
+303366,Unknown303366,Liverpool,48039,substation,in service,138,4,29.253019,-95.220336,"IMAGERY, OpenStreetMap",2017-05-08
+303385,Busch,Houston,48201,substation,in service,138,2,29.774964,-95.267884,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303454,Unknown303454,Bayside Terrace,48201,substation,not available,138,0,29.634247,-95.055928,"IMAGERY, OpenStreetMap",2015-08-27
+303457,Lauder,Kinwood,48201,substation,in service,138,2,29.911271,-95.321733,"IMAGERY, OpenStreetMap",2016-11-30
+303466,Unknown303466,Bayside Terrace,48201,substation,in service,138,2,29.628737,-95.045046,IMAGERY,2017-05-15
+303477,Seminole,League City,48167,substation,in service,138,2,29.468466,-95.179172,"IMAGERY, OpenStreetMap",2017-05-08
+303495,League City Main,League City,48167,substation,in service,138,3,29.500964,-95.082081,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303513,Rothwood,The Woodlands,48201,substation,in service,345,4,30.090706,-95.489967,"IMAGERY, OpenStreetMap",2016-01-27
+303529,Unknown303529,Liverpool,48039,substation,in service,138,4,29.256272,-95.211664,"IMAGERY, OpenStreetMap",2017-05-08
+303542,Unknown303542,Houston,48201,substation,not available,138,2,29.990137,-95.457684,IMAGERY,2017-12-22
+303571,Unknown303571,Houston,48201,substation,in service,138,2,29.932726,-95.197162,"IMAGERY, OpenStreetMap",2017-05-15
+303603,Brazoria,Brazoria,48039,substation,in service,138,3,29.062365,-95.577591,"IMAGERY, OpenStreetMap",2017-05-08
+303623,Kingwood,Houston,48201,substation,in service,138,2,30.054489,-95.189287,"IMAGERY, OpenStreetMap",2017-05-05
+303629,Unknown303629,Deer Park,48201,substation,in service,138,2,29.71661,-95.090125,IMAGERY,2015-08-20
+303631,Unknown303631,Kohrville,48201,substation,not available,138,0,29.99797,-95.565008,"IMAGERY, OpenStreetMap",2015-06-11
+303652,Kluge,Kohrville,48201,substation,in service,138,4,29.989523,-95.618399,"IMAGERY, OpenStreetMap",2016-11-30
+303655,Unknown303655,Panorama Village,48339,substation,in service,138,2,30.319379,-95.556204,IMAGERY,2017-05-15
+303667,Texas Instruments,Stafford,48157,substation,in service,138,2,29.637467,-95.571919,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303692,Unknown303692,Westfield,48201,substation,in service,138,1,29.986894,-95.36743,"IMAGERY, OpenStreetMap",2017-05-08
+303708,Ph Robinson,Bacliff,48167,substation,in service,345,16,29.487516,-94.982422,"IMAGERY, OpenStreetMap",2017-02-13
+303709,Hillcroft,Houston,48201,substation,in service,345,1,29.722089,-95.497694,"IMAGERY, OpenStreetMap",2015-06-18
+303721,Gears,Bammel,48201,substation,in service,138,2,29.964833,-95.439818,"IMAGERY, OpenStreetMap",2016-12-14
+303744,Unknown303744,Willis,48339,substation,in service,138,9,30.437303,-95.521488,"IMAGERY, OpenStreetMap",2017-05-15
+303767,Unknown303767,Deer Park,48201,substation,in service,138,2,29.72721,-95.113028,"IMAGERY, OpenStreetMap",2015-06-11
+303828,Unknown303828,Deer Park,48201,substation,in service,138,2,29.718178,-95.070164,IMAGERY,2015-08-20
+303829,Crosby,Barrett,48201,substation,in service,138,7,29.871999,-95.019696,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+303859,Unknown303859,Houston,48201,substation,in service,138,2,29.62966,-95.151121,"IMAGERY, OpenStreetMap",2017-05-16
+303866,La Porte,La Porte,48201,substation,in service,138,1,29.664839,-95.016126,"IMAGERY, OpenStreetMap",2017-05-15
+303883,Unknown303883,Coady,48201,substation,in service,138,2,29.748888,-95.021065,"IMAGERY, OpenStreetMap",2017-05-16
+303896,Roark,Houston,48201,substation,in service,138,2,29.665989,-95.56114,"IMAGERY, OpenStreetMap, Inference",2017-05-02
+303919,Unknown303919,Huffman,48201,substation,in service,138,4,30.090672,-95.106333,"IMAGERY, OpenStreetMap",2017-05-15
+304001,Unknown304001,Webster,48201,substation,in service,138,10,29.528703,-95.104719,"IMAGERY, OpenStreetMap",2017-05-08
+304022,Grant,Houston,48201,substation,in service,138,3,29.703372,-95.401472,"IMAGERY, OpenStreetMap",2017-05-08
+304058,Unknown304058,Texas City,48167,substation,in service,138,3,29.376446,-94.907729,"IMAGERY, OpenStreetMap",2017-05-08
+304091,Unknown304091,Mont Belvieu,48201,substation,in service,138,3,29.829052,-94.921404,"IMAGERY, OpenStreetMap",2017-05-08
+304095,Unknown304095,Houston,48201,substation,in service,138,3,29.721185,-95.365199,IMAGERY,2017-05-08
+304128,Clear Lake,Houston,48201,substation,in service,138,2,29.578508,-95.09874,"IMAGERY, OpenStreetMap",2016-11-30
+304134,Unknown304134,Channelview,48201,substation,in service,138,2,29.753217,-95.116427,IMAGERY,2017-05-08
+304142,Unknown304142,Houston,48201,not available,not available,,2,29.968174,-95.485502,IMAGERY,2019-04-19
+304160,Kuykendahl,The Woodlands,48201,substation,in service,345,4,30.089004,-95.526766,"IMAGERY, OpenStreetMap",2016-11-30
+304214,Crockett Reit,Houston,48201,substation,in service,138,3,29.776823,-95.379895,"IMAGERY, OpenStreetMap",2016-11-30
+304229,Unknown304229,Panorama Village,48339,substation,in service,138,2,30.392243,-95.51507,IMAGERY,2017-05-15
+304241,Unknown304241,Shoreacres,48201,substation,in service,138,2,29.597684,-95.031302,IMAGERY,2017-05-15
+304245,Unknown304245,Deer Park,48201,substation,in service,138,2,29.712722,-95.072359,"IMAGERY, OpenStreetMap",2017-05-16
+304285,Unknown304285,Houston,48201,substation,in service,345,6,29.940025,-95.535012,IMAGERY,2016-01-26
+304288,Pinehurst,Pinehurst,48339,substation,in service,138,2,30.161368,-95.672935,"IMAGERY, OpenStreetMap",2015-08-27
+304310,Pasadena,Pasadena,48201,substation,in service,138,1,29.724881,-95.175711,IMAGERY,2017-05-02
+304312,Franz,Katy,48201,substation,in service,345,2,29.80273,-95.753746,"IMAGERY, OpenStreetMap",2015-08-27
+304316,White Oak,Houston,48201,substation,in service,345,12,29.815179,-95.434827,"IMAGERY, OpenStreetMap",2016-01-26
+304329,Uvalde Reit,Beaumont Place,48201,substation,in service,138,2,29.817956,-95.163555,"IMAGERY, OpenStreetMap",2015-06-17
+304335,Deer Park Energy Center,Deer Park,48201,substation,in service,345,5,29.712186,-95.135532,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+304351,Unknown304351,La Porte,48201,substation,not available,138,0,29.704528,-95.057159,IMAGERY,2018-01-08
+304433,Westwood,Houston,48201,substation,in service,138,2,29.689945,-95.53668,"IMAGERY, OpenStreetMap",2017-05-05
+304447,Smithers,Thompsons,48157,substation,in service,345,3,29.474238,-95.623108,"IMAGERY, OpenStreetMap",2017-02-13
+304462,Unknown304462,Galena Park,48201,substation,in service,138,2,29.733872,-95.223651,IMAGERY,2015-08-20
+304482,Unknown304482,Houston,48201,substation,in service,138,2,29.609907,-95.18439,IMAGERY,2015-08-21
+304487,Unknown304487,Texas City,48167,substation,in service,138,1,29.380182,-94.897258,IMAGERY,2017-05-08
+304491,Unknown304491,Rosenberg,48157,substation,in service,138,4,29.563365,-95.800484,"IMAGERY, OpenStreetMap",2017-05-15
+304511,Brazosport,Lake Jackson,48039,substation,in service,138,1,29.009678,-95.432727,IMAGERY,2017-05-08
+304527,Unknown304527,Houston,48201,substation,in service,138,1,29.821166,-95.219531,IMAGERY,2017-05-15
+304571,Nash,Holiday Lakes,48039,substation,in service,138,2,29.243352,-95.593875,"IMAGERY, OpenStreetMap",2017-05-08
+304583,Booster,Freeport,48039,substation,in service,138,1,28.962992,-95.391589,IMAGERY,2016-08-11
+304597,Parish,Thompsons,48157,substation,in service,345,14,29.480718,-95.624093,"IMAGERY, OpenStreetMap",2016-01-26
+304606,Porter,Porter Heights,48339,substation,in service,138,6,30.186403,-95.342208,"IMAGERY, OpenStreetMap",2015-08-27
+304609,Ponderosa,Conroe,48339,substation,in service,138,5,30.29945,-95.492158,IMAGERY,2017-05-10
+304612,Cy-Fair,Satsuma,48201,substation,in service,138,4,29.948014,-95.672583,"IMAGERY, OpenStreetMap",2016-11-30
+304638,Unknown304638,Houston,48201,substation,in service,138,3,29.713542,-95.256215,"IMAGERY, OpenStreetMap",2015-08-27
+304652,Unknown304652,Old Ocean,48039,substation,in service,138,3,29.076153,-95.744612,"IMAGERY, OpenStreetMap",2017-05-08
+304672,Unknown304672,Galena Park,48201,substation,not available,138,0,29.722604,-95.242098,IMAGERY,2018-01-04
+304673,Unknown304673,Brazoria,48039,substation,in service,138,1,28.988762,-95.573456,"IMAGERY, OpenStreetMap",2017-05-08
+304713,Unknown304713,Houston,48201,substation,in service,138,1,29.722612,-95.259766,"IMAGERY, OpenStreetMap",2015-08-27
+304716,Flewellen,Fulshear,48157,substation,in service,138,7,29.695391,-95.820865,"IMAGERY,Inference, OpenStreetMap",2017-05-02
+304719,Unknown304719,Sheldon,48201,substation,in service,138,4,29.830205,-95.117398,IMAGERY,2017-05-08
+304720,Unknown304720,La Porte,48201,substation,in service,138,3,29.654623,-95.040238,"IMAGERY, OpenStreetMap",2017-05-15
+304753,Unknown304753,Houston,48201,substation,in service,138,2,29.689578,-95.408494,"IMAGERY, OpenStreetMap",2017-05-15
+304774,Alvin,Alvin,48039,substation,in service,138,2,29.433831,-95.253917,"IMAGERY, OpenStreetMap",2017-05-08
+304790,Stratt,Clute,48039,substation,in service,138,2,29.050002,-95.35474,"IMAGERY, OpenStreetMap",2015-06-25
+304799,Mustang Bayou,Algoa,48039,substation,in service,138,2,29.36285,-95.203888,"IMAGERY, OpenStreetMap",2015-06-11
+304909,Dewalt,Missouri City,48157,substation,in service,138,3,29.604522,-95.563732,"IMAGERY, OpenStreetMap",2016-11-30
+304917,Unknown304917,Clute,48039,substation,not available,138,0,29.043503,-95.352401,IMAGERY,2018-01-24
+304952,Big Creek,Fairchilds,48157,substation,in service,138,2,29.47116,-95.750864,"IMAGERY, OpenStreetMap",2017-05-15
+304970,Crabb River Road,Booth,48157,substation,in service,138,2,29.562879,-95.69865,"IMAGERY, OpenStreetMap",2017-05-15
+304986,Heights Reit,Houston,48201,substation,in service,69,3,29.782429,-95.398521,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+304989,Unknown304989,Clute,48039,substation,not available,138,0,29.048467,-95.355853,IMAGERY,2018-01-02
+305009,Knight,Houston,48201,substation,in service,138,4,29.672249,-95.413069,"IMAGERY, OpenStreetMap, Inference",2017-05-02
+305013,Hardy Reit,Houston,48201,substation,in service,138,4,29.818696,-95.353668,"IMAGERY, OpenStreetMap",2016-11-30
+305036,Aldine,Aldine,48201,substation,in service,138,2,29.901723,-95.370382,"IMAGERY, OpenStreetMap",2016-11-30
+305037,Unknown305037,Shoreacres,48201,substation,in service,138,2,29.602198,-95.007558,IMAGERY,2017-05-15
+305074,Normandy,Houston,48201,substation,in service,138,2,29.769436,-95.205614,"IMAGERY, OpenStreetMap",2016-11-30
+305090,Franklin,Houston,48201,substation,in service,138,2,29.766098,-95.367768,"IMAGERY, OpenStreetMap",2016-11-30
+305121,Tap305121,Galena Park,48201,tap,in service,138,3,29.747456,-95.228929,IMAGERY,2017-05-08
+305124,Tap305124,Coady,48201,tap,in service,138,3,29.752987,-95.021114,IMAGERY,2017-05-16
+305134,Tap305134,Pasadena,48201,tap,in service,138,3,29.720285,-95.183205,IMAGERY,2015-08-14
+305137,Tap305137,Freeport,48039,tap,in service,138,3,28.964568,-95.392987,IMAGERY,2016-08-11
+305139,Tap305139,Baytown,48201,tap,in service,138,3,29.757449,-94.951285,IMAGERY,2015-09-29
+305157,Tap305157,Houston,48201,tap,in service,69,3,29.938343,-95.526218,IMAGERY,2015-09-29
+305163,Tap305163,Baytown,48201,tap,in service,138,2,29.805148,-94.987798,IMAGERY,2017-05-08
+305173,Tap305173,Highlands,48201,tap,in service,138,3,29.847902,-95.05841,IMAGERY,2017-05-31
+305191,Tap305191,Cloverleaf,48201,tap,in service,138,5,29.757368,-95.144591,IMAGERY,2017-05-08
+305199,Tap305199,Houston,48201,tap,in service,138,3,29.565207,-95.161647,IMAGERY,2016-11-30
+305229,Tap305229,Houston,48201,tap,in service,,3,29.96833,-95.485939,IMAGERY,2019-04-25
+305233,Tap305233,Houston,48201,tap,in service,138,3,29.599419,-95.325391,IMAGERY,2017-05-15
+305234,Tap305234,Houston,48201,tap,in service,138,2,29.784782,-95.461836,IMAGERY,2017-05-15
+305251,Tap305251,Texas City,48167,tap,in service,138,3,29.383836,-94.914481,IMAGERY,2017-05-08
+305258,Tap305258,Houston,48201,tap,in service,69,3,29.964345,-95.490009,IMAGERY,2018-09-04
+305260,Tap305260,Mcnair,48201,tap,in service,138,3,29.820803,-94.991696,IMAGERY,2017-05-08
+305286,Tap305286,Houston,48201,tap,in service,138,3,29.58797,-95.181789,IMAGERY,2015-08-14
+305288,Tap305288,Houston,48201,tap,in service,138,3,29.721681,-95.485037,IMAGERY,2017-05-05
+305292,Tap305292,Damon,48039,tap,in service,138,3,29.24448,-95.700683,IMAGERY,2017-05-08
+305301,Tap305301,Deer Park,48201,tap,in service,138,3,29.720561,-95.113621,IMAGERY,2017-05-16
+305310,Tap305310,Houston,48201,tap,in service,138,3,29.720821,-95.519326,IMAGERY,2017-05-05
+305312,Tap305312,Galena Park,48201,tap,in service,138,3,29.748515,-95.217332,IMAGERY,2015-08-14
+305320,Tap305320,Houston,48201,tap,in service,138,3,29.817124,-95.219736,IMAGERY,2017-05-15
+305321,Tap305321,La Porte,48201,tap,in service,138,3,29.69439,-95.088112,IMAGERY,2015-08-14
+305322,Tap305322,Houston,48201,tap,in service,138,3,29.764724,-95.333641,IMAGERY,2017-05-08
+305352,Tap305352,Channelview,48201,tap,in service,138,3,29.813591,-95.11715,IMAGERY,2017-05-08
+305361,Tap305361,Houston,48201,tap,in service,138,3,29.752369,-95.3048,IMAGERY,2017-05-08
+305366,Tap305366,Conroe,48339,tap,in service,138,3,30.226933,-95.404964,IMAGERY,2019-04-25
+305373,Tap305373,Alvin,48039,tap,in service,345,3,29.461521,-95.258222,IMAGERY,2017-05-08
+305398,Tap305398,La Porte,48201,tap,in service,138,3,29.693101,-95.088085,IMAGERY,2015-08-14
+305405,Tap305405,Kemah,48167,tap,in service,138,3,29.537898,-95.026274,IMAGERY,2017-12-22
+305419,Tap305419,Galena Park,48201,tap,in service,138,3,29.719706,-95.228385,IMAGERY,2015-08-14
+305423,Tap305423,Houston,48201,tap,in service,138,3,29.688088,-95.325145,IMAGERY,2017-05-15
+305440,Tap305440,Baytown,48201,tap,in service,138,3,29.733289,-95.003554,IMAGERY,2017-05-16
+305451,Tap305451,Damon,48039,tap,in service,138,3,29.244977,-95.685817,IMAGERY,2017-05-08
+305454,Tap305454,Deer Park,48201,tap,in service,138,3,29.692385,-95.088853,IMAGERY,2015-08-14
+305523,H.O. Clarke,Houston,48201,substation,in service,138,9,29.647075,-95.448986,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+305528,Unknown305528,West Columbia,48039,substation,in service,138,1,29.14586,-95.674638,IMAGERY,2017-05-08
+305537,Unknown305537,Willis,48339,substation,in service,138,2,30.425512,-95.453776,IMAGERY,2017-05-15
+305602,Alvin Auto,Alvin,48039,substation,in service,138,2,29.433313,-95.249441,"IMAGERY, OpenStreetMap",2016-11-30
+305608,Unknown305608,Cloverleaf,48201,substation,in service,138,2,29.737978,-95.17035,"IMAGERY, OpenStreetMap",2015-08-27
+305617,Gulfgate,Houston,48201,substation,in service,138,2,29.693217,-95.300134,"IMAGERY, OpenStreetMap",2017-05-15
+305618,Seaway,Jones Creek,48039,substation,in service,138,1,28.948813,-95.432778,IMAGERY,2016-08-11
+305622,Unknown305622,Jacinto City,48201,substation,in service,138,2,29.760476,-95.252721,"IMAGERY, OpenStreetMap",2017-05-15
+305626,Jacintoport,Channelview,48201,substation,in service,138,2,29.75181,-95.125193,"IMAGERY, OpenStreetMap",2017-05-08
+305640,Unknown305640,Willis,48339,substation,in service,138,1,30.444032,-95.522162,IMAGERY,2017-05-15
+305652,Unknown305652,Conroe,48339,substation,not available,138,1,30.266049,-95.351834,IMAGERY,2018-01-04
+305734,Chocolate Bayou,Houston,48201,substation,in service,138,2,29.627872,-95.352594,"IMAGERY,Inference,  OpenStreetMap",2017-05-15
+305763,Rayford,Oak Ridge North,48339,substation,in service,138,2,30.128494,-95.444945,"IMAGERY, OpenStreetMap",2016-11-30
+305765,Dickinson,Dickinson,48167,substation,in service,138,2,29.461136,-95.056917,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+305792,Reading,Richmond,48157,substation,in service,138,3,29.563724,-95.762462,"IMAGERY, OpenStreetMap",2017-05-15
+305819,W.A. Parish (138Kv),Thompsons,48157,substation,in service,345,14,29.482815,-95.630358,"IMAGERY, OpenStreetMap",2016-01-27
+305822,Unknown305822,Houston,48201,substation,not available,138,0,29.863022,-95.142248,IMAGERY,2017-12-22
+305857,Unknown305857,Cedar Lake,48039,substation,in service,138,2,28.928235,-95.563686,IMAGERY,2017-05-08
+305911,Unknown305911,Deer Park,48201,substation,in service,138,1,29.702987,-95.072321,"IMAGERY, OpenStreetMap",2017-05-16
+305914,Klein,Kohrville,48201,substation,in service,138,2,30.023833,-95.570166,"IMAGERY, OpenStreetMap",2016-11-30
+305934,Unknown305934,Houston,48201,substation,in service,138,8,29.650143,-95.448612,"IMAGERY, OpenStreetMap",2017-05-15
+306036,Unknown306036,La Porte,48201,substation,not available,138,0,29.649822,-95.044039,"IMAGERY, OpenStreetMap",2015-06-19
+306068,Ellington,Houston,48201,substation,in service,138,3,29.588329,-95.180251,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+306079,Davson,Pasadena,48201,substation,in service,138,1,29.716419,-95.189241,"IMAGERY, OpenStreetMap",2015-08-27
+306089,Unknown306089,Houston,48201,substation,in service,138,2,29.705716,-95.250723,IMAGERY,2015-08-20
+306101,Unknown306101,Bayside Terrace,48201,substation,in service,138,1,29.626848,-95.048443,IMAGERY,2017-05-15
+306118,Angleton,Angleton,48039,substation,in service,138,2,29.166977,-95.440637,"IMAGERY, OpenStreetMap",2017-05-08
+306126,Unknown306126,Deer Park,48201,substation,in service,138,2,29.73185,-95.102003,IMAGERY,2015-08-20
+306177,Cardiff,Pasadena,48201,substation,in service,138,2,29.653457,-95.154465,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+306194,Unknown306194,Texas City,48167,substation,in service,138,4,29.378186,-94.934347,IMAGERY,2017-05-08
+306202,Brittmoore,Houston,48201,substation,in service,138,8,29.794387,-95.572569,"IMAGERY, OpenStreetMap",2016-11-30
+306220,Stadium Reit,Houston,48201,substation,in service,138,2,29.685277,-95.406478,"IMAGERY, OpenStreetMap",2017-05-15
+306250,Kemah,Kemah,48167,substation,in service,138,1,29.538167,-95.026468,"IMAGERY, OpenStreetMap",2017-05-08
+306253,Alden,The Woodlands,48339,substation,in service,138,2,30.232077,-95.51591,"IMAGERY, OpenStreetMap",2017-05-15
+306343,Unknown306343,Coady,48201,substation,not available,138,0,29.742296,-95.019993,"IMAGERY, OpenStreetMap",2015-06-11
+306380,Unknown306380,Freeport,48039,substation,in service,138,4,28.975907,-95.349921,IMAGERY,2017-05-08
+306386,Unknown306386,Old Ocean,48039,substation,in service,138,2,29.075913,-95.760547,IMAGERY,2017-05-08
+306388,Apache,Texas City,48167,substation,in service,138,2,29.378709,-94.947561,"IMAGERY, OpenStreetMap",2017-05-08
+306403,Unknown306403,Channelview,48201,substation,in service,138,2,29.752223,-95.128936,IMAGERY,2017-05-08
+306415,Sheldon Mills,Magnolia Gardens,48201,substation,in service,138,2,29.883276,-95.111525,"IMAGERY, OpenStreetMap",2017-05-05
+306464,Heights,Texas City,48167,substation,in service,138,9,29.389462,-94.949956,"IMAGERY, OpenStreetMap",2017-05-08
+306495,South Houston,Houston,48201,substation,in service,138,3,29.629063,-95.225155,"IMAGERY, OpenStreetMap",2016-11-30
+306499,Clear Lake Power,Taylor Lake Village,48201,substation,not available,345,0,29.625621,-95.06821,IMAGERY,2016-11-28
+306503,Baytown,Baytown,48201,substation,in service,138,6,29.733572,-95.004952,"IMAGERY, OpenStreetMap",2016-11-30
+306510,Unknown306510,La Porte,48201,substation,in service,138,2,29.64766,-95.055415,"IMAGERY, OpenStreetMap",2017-05-15
+306596,Dunlavy,Houston,48201,substation,in service,69,3,29.752643,-95.401855,"IMAGERY, OpenStreetMap",2015-06-18
+306602,Magnolia Park,Houston,48201,substation,in service,138,3,29.743713,-95.31094,"IMAGERY, OpenStreetMap",2017-05-08
+306612,Unknown306612,Aldine,48201,substation,in service,138,2,29.964386,-95.382997,"IMAGERY, OpenStreetMap",2017-05-08
+306613,North Alvin,Alvin,48039,substation,in service,138,3,29.45906,-95.257547,"IMAGERY, OpenStreetMap",2016-01-27
+306650,Rosenberg,Rosenberg,48157,substation,in service,138,4,29.559971,-95.808543,"IMAGERY, OpenStreetMap",2017-05-15
+306674,Unknown306674,La Marque,48167,substation,in service,138,1,29.366196,-94.966699,IMAGERY,2017-05-08
+306701,Unknown306701,Bolivar Peninsula,48167,substation,in service,,1,29.443194,-94.663835,IMAGERY,2018-08-28
+306765,Unknown306765,Channelview,48201,substation,in service,138,8,29.815035,-95.10925,"IMAGERY, OpenStreetMap",2017-05-08
+306809,Channelview,Channelview,48201,substation,in service,138,8,29.775611,-95.150928,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+306855,University,Houston,48201,substation,in service,138,5,29.716343,-95.332249,"IMAGERY, OpenStreetMap",2017-05-15
+306866,Unknown306866,Texas City,48167,substation,in service,138,3,29.370594,-94.911284,"IMAGERY, OpenStreetMap",2017-05-08
+306882,Holmes,Houston,48201,substation,in service,138,2,29.679453,-95.372117,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+306934,Unknown306934,Cinco Ranch,48157,substation,not available,138,0,29.729263,-95.776393,"IMAGERY, OpenStreetMap",2015-08-27
+306940,Bammel,Bammel,48201,substation,in service,69,2,29.982655,-95.502597,"IMAGERY, OpenStreetMap",2015-06-11
+306941,Unknown306941,Splendora,48339,substation,in service,138,1,30.218793,-95.138872,IMAGERY,2017-05-15
+306954,Greens Road,Houston,48201,substation,in service,138,2,29.950844,-95.333228,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+306986,Commanche Switching,Texas City,48167,substation,in service,138,2,29.37326,-94.914862,"IMAGERY,Inference, OpenStreetMap",2017-05-08
+306999,Deihl,Houston,48201,substation,in service,138,2,29.854545,-95.476199,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+307049,Fairbanks,North Houston,48201,substation,in service,138,2,29.900055,-95.501828,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+307054,Goodyear,Houston,48201,substation,in service,138,2,29.706193,-95.25697,"IMAGERY, OpenStreetMap",2016-11-28
+307077,Unknown307077,Angleton,48039,substation,in service,138,5,29.226713,-95.428103,"IMAGERY, OpenStreetMap",2017-05-08
+307136,Alief,Houston,48201,substation,in service,138,2,29.700429,-95.581812,"IMAGERY, OpenStreetMap",2017-05-05
+307149,Friendswood,Friendswood,48167,substation,in service,138,2,29.499149,-95.201336,"IMAGERY, OpenStreetMap",2017-05-08
+307173,Wallisville,Houston,48201,substation,in service,138,3,29.787435,-95.291236,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+307192,Hayes,Houston,48201,substation,in service,138,2,29.746339,-95.57439,"IMAGERY, Inference, OpenStreetMap",2017-05-05
+307242,Unknown307242,Keenan,48339,substation,in service,138,2,30.333299,-95.698639,IMAGERY,2017-05-15
+307245,Memorial,Houston,48201,substation,in service,138,2,29.770879,-95.617876,IMAGERY,2016-11-30
+307275,Unknown307275,Alvin,48039,substation,in service,138,1,29.463809,-95.245766,"IMAGERY, OpenStreetMap",2017-05-08
+307293,Zenith,Katy,48201,substation,in service,345,6,29.910036,-95.778078,"IMAGERY, OpenStreetMap",2016-01-26
+307298,Unknown307298,Houston,48201,substation,not available,138,0,29.939045,-95.530119,IMAGERY,2015-08-27
+307306,Dunvale,Houston,48201,substation,in service,138,1,29.733087,-95.518972,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+307324,Unknown307324,Bayside Terrace,48201,substation,in service,138,1,29.639688,-95.055369,"IMAGERY, OpenStreetMap",2017-05-15
+307348,Unknown307348,Cloverleaf,48201,substation,in service,69,1,29.820021,-95.154083,"IMAGERY, OpenStreetMap",2015-06-17
+307366,Unknown307366,Texas City,48167,substation,in service,138,2,29.362111,-94.9303,IMAGERY,2017-05-08
+307386,Unknown307386,Stafford,48157,substation,in service,138,1,29.633234,-95.561971,"IMAGERY, OpenStreetMap",2017-05-15
+307391,Deer Park,Deer Park,48201,substation,in service,138,2,29.692503,-95.128766,"IMAGERY, OpenStreetMap",2017-05-16
+307406,Unknown307406,Mcnair,48201,substation,in service,138,1,29.858968,-94.980359,"IMAGERY, OpenStreetMap",2017-05-08
+307426,Unknown307426,Bayside Terrace,48201,substation,in service,138,2,29.623337,-95.045386,IMAGERY,2017-05-15
+307429,Unknown307429,Mont Belvieu,48201,substation,in service,138,1,29.828039,-94.927871,"IMAGERY, OpenStreetMap",2017-05-08
+307430,Unknown307430,Houston,48201,substation,in service,138,5,29.703737,-95.39929,IMAGERY,2017-05-08
+307433,Unknown307433,Houston,48201,substation,not available,138,0,29.622713,-95.117754,IMAGERY,2018-01-31
+307526,Unknown307526,Baytown,48201,substation,in service,138,2,29.743434,-95.004106,IMAGERY,2017-05-16
+307536,Unknown307536,Galena Park,48201,substation,in service,69,2,29.742468,-95.213489,IMAGERY,2015-08-20
+307576,Unknown307576,Bayside Terrace,48201,substation,in service,138,5,29.626225,-95.046642,"IMAGERY, OpenStreetMap",2017-05-15
+307602,Unknown307602,Pasadena,48201,substation,not available,138,0,29.726288,-95.175855,IMAGERY,2015-06-11
+307620,Unknown307620,Deer Park,48201,substation,in service,138,2,29.729245,-95.092498,IMAGERY,2015-08-20
+307649,King Reit,Houmont Park,48201,substation,in service,345,6,29.915342,-95.216319,"IMAGERY, OpenStreetMap",2016-11-30
+307672,Northside,Houston,48201,substation,in service,138,2,29.783905,-95.349833,"IMAGERY, OpenStreetMap",2016-11-30
+307700,Bryan,Freeport,48039,substation,in service,69,1,28.919534,-95.375924,IMAGERY,2016-11-29
+307738,Pearland,Pearland,48039,substation,in service,138,2,29.560234,-95.322572,"IMAGERY, OpenStreetMap",2017-05-15
+307752,Westchase,Houston,48201,substation,in service,138,2,29.718604,-95.558741,"IMAGERY, OpenStreetMap",2017-05-05
+307791,Taylor,Cloverleaf,48201,substation,in service,138,2,29.75106,-95.194396,"IMAGERY, OpenStreetMap",2017-05-08
+307821,Unknown307821,Freeport,48039,substation,not available,345,0,28.945356,-95.424436,IMAGERY,2016-08-11
+307838,Downtown,Houston,48201,substation,in service,138,4,29.75538,-95.373729,"IMAGERY, OpenStreetMap",2016-11-30
+307841,Tap307841,Deer Park,48201,tap,in service,138,3,29.724799,-95.063944,IMAGERY,2015-08-14
+307851,Tap307851,La Porte,48201,tap,in service,138,3,29.69472,-95.073209,IMAGERY,2017-05-16
+307858,Tap307858,Conroe,48339,tap,in service,69,3,30.307528,-95.456526,IMAGERY,2018-09-04
+307887,Tap307887,Sugar Land,48157,tap,in service,138,3,29.582196,-95.59095,IMAGERY,2017-05-15
+307891,Tap307891,Channelview,48201,tap,in service,138,3,29.819599,-95.126305,IMAGERY,2017-05-08
+307909,Tap307909,La Marque,48167,tap,in service,138,3,29.3671,-94.965657,IMAGERY,2017-05-08
+307912,Tap307912,Cloverleaf,48201,tap,in service,138,3,29.818563,-95.154029,IMAGERY,2015-08-14
+307921,Tap307921,Galena Park,48201,tap,in service,138,4,29.759088,-95.230528,IMAGERY,2015-08-14
+307922,Tap307922,Houston,48201,tap,in service,138,3,29.784399,-95.350082,IMAGERY,2017-05-15
+307927,Tap307927,Houston,48201,tap,in service,138,3,29.777763,-95.25213,IMAGERY,2017-05-15
+307935,Rittenhouse Tap 1,Houston,48201,tap,in service,138,3,29.859984,-95.362642,ERCOT,2016-11-30
+307936,Tap307936,Houston,48201,tap,in service,138,3,29.627507,-95.3528,IMAGERY,2017-05-15
+307966,Tap307966,Alvin,48039,tap,in service,138,3,29.434391,-95.244372,IMAGERY,2017-05-05
+307990,Tap307990,La Marque,48167,tap,in service,138,3,29.370903,-95.020603,IMAGERY,2017-05-08
+307994,Tap307994,Houston,48201,tap,in service,138,3,29.667154,-95.482566,IMAGERY,2017-05-05
+308005,Tap308005,South Houston,48201,tap,in service,138,3,29.657424,-95.223554,IMAGERY,2017-05-15
+308009,Tap308009,Baytown,48201,tap,in service,138,3,29.763681,-94.982489,IMAGERY,2015-09-28
+308010,Tap308010,Houston,48201,tap,in service,138,3,29.721603,-95.497554,IMAGERY,2017-05-05
+308017,Tap308017,Pasadena,48201,tap,in service,69,4,29.716996,-95.20084,IMAGERY,2015-08-14
+308032,Tap308032,Webster,48201,tap,in service,138,3,29.515011,-95.128749,IMAGERY,2016-11-30
+308051,Tap308051,Houston,48201,tap,in service,138,3,29.937361,-95.287054,IMAGERY,2017-05-08
+308059,Tap308059,Channelview,48201,tap,in service,138,3,29.819719,-95.111002,IMAGERY,2017-05-08
+308069,Tap308069,Houston,48201,tap,in service,138,2,29.778585,-95.231691,IMAGERY,2017-05-08
+308070,Tap308070,Fresno,48157,tap,in service,138,3,29.58047,-95.446835,IMAGERY,2017-05-15
+308080,Tap308080,Galena Park,48201,tap,in service,69,3,29.719627,-95.224408,IMAGERY,2015-08-14
+308082,Tap308082,Houston,48201,tap,in service,138,3,29.677968,-95.322028,IMAGERY,2017-05-15
+308099,Tap308099,Channelview,48201,tap,in service,138,1,29.759065,-95.099015,IMAGERY,2017-05-08
+308129,Tap308129,Houston,48201,tap,in service,138,2,29.784869,-95.461911,IMAGERY,2017-05-15
+308135,Tap308135,Houston,48201,tap,in service,138,3,29.804432,-95.232324,IMAGERY,2017-05-15
+308136,Tap308136,Houston,48201,tap,in service,138,3,29.628343,-95.402937,IMAGERY,2017-12-22
+308141,Tap308141,Houston,48201,tap,in service,138,3,29.721729,-95.48763,IMAGERY,2017-05-05
+308143,Tap308143,Cloverleaf,48201,tap,in service,138,3,29.818852,-95.154106,IMAGERY,2015-08-14
+308153,Tap308153,Houston,48201,tap,in service,69,3,29.93928,-95.525017,IMAGERY,2015-08-14
+308159,Tap308159,Houston,48201,tap,in service,138,3,29.72279,-95.448179,IMAGERY,2017-05-15
+308162,Deepwater,Galena Park,48201,substation,in service,345,8,29.72038,-95.226943,"IMAGERY, OpenStreetMap",2016-01-27
+308186,Westheimer,Houston,48201,substation,in service,138,3,29.736582,-95.617327,"IMAGERY, OpenStreetMap",2016-11-30
+308271,Unknown308271,Old Ocean,48039,substation,in service,138,8,29.072103,-95.743869,"IMAGERY, OpenStreetMap",2017-05-08
+308276,Todd,Houston,48201,substation,in service,138,2,29.816093,-95.482925,"IMAGERY, OpenStreetMap",2017-05-15
+308287,Depot,Channelview,48201,substation,in service,138,2,29.752084,-95.126845,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+308288,Conair,Conroe,48339,substation,in service,138,3,30.337848,-95.447148,"IMAGERY, OpenStreetMap",2017-05-15
+308291,Quail Valley,Missouri City,48157,substation,in service,138,2,29.586761,-95.534302,"IMAGERY, OpenStreetMap",2016-11-30
+308295,Little York,Houston,48201,substation,in service,138,2,29.864101,-95.429911,"IMAGERY, OpenStreetMap",2017-05-08
+308333,Lynch,Houston,48201,substation,in service,138,2,29.767576,-95.072471,"IMAGERY, OpenStreetMap",2016-11-30
+308335,Mason Road,Mission Bend,48201,substation,in service,138,2,29.745539,-95.73901,"IMAGERY, OpenStreetMap",2017-05-15
+308351,Oak Ridge,Tamina,48339,substation,in service,345,3,30.169935,-95.439026,"IMAGERY, OpenStreetMap",2016-11-28
+308362,Unknown308362,Bayside Terrace,48201,substation,in service,138,2,29.643248,-95.040441,IMAGERY,2017-05-15
+308368,Unknown308368,Deer Park,48201,substation,in service,138,2,29.712967,-95.074736,"IMAGERY, OpenStreetMap",2017-05-16
+308374,Kirby Reit,Houston,48201,substation,in service,138,3,29.729747,-95.422916,"IMAGERY, OpenStreetMap",2017-05-08
+308402,Unknown308402,Freeport,48039,substation,not available,138,0,28.982606,-95.384016,"IMAGERY, OpenStreetMap",2017-05-08
+308416,Magnolia,League City,48167,substation,in service,138,2,29.488354,-95.133986,"IMAGERY, OpenStreetMap",2017-05-08
+308418,North Belt,Aldine,48201,substation,in service,345,10,29.940626,-95.369734,"IMAGERY, OpenStreetMap",2016-12-14
+308460,Unknown308460,La Porte,48201,substation,in service,138,2,29.693424,-95.035501,IMAGERY,2017-05-16
+308481,Unknown308481,Houston,48201,substation,in service,69,1,29.700838,-95.253039,IMAGERY,2015-08-20
+308520,Fix,Houston,48201,substation,not available,,0,29.818493,-95.154311,IMAGERY,2017-12-22
+308523,Cedar Bayou,Baytown,48201,substation,in service,138,2,29.757895,-94.950143,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+308552,Unknown308552,Old Ocean,48039,substation,in service,138,5,29.065777,-95.737282,"IMAGERY, OpenStreetMap",2017-05-08
+308560,Unknown308560,New Caney,48339,substation,not available,138,1,30.201174,-95.253044,IMAGERY,2017-12-22
+308586,Liberty,Houston,48201,substation,in service,138,2,29.806897,-95.285588,"IMAGERY, OpenStreetMap",2016-11-30
+308596,Bentwater,Montgomery,48339,substation,in service,138,2,30.426494,-95.646782,"IMAGERY, OpenStreetMap",2017-05-15
+308642,Unknown308642,Deer Park,48201,substation,in service,138,2,29.705999,-95.074413,"IMAGERY, OpenStreetMap",2017-05-16
+308665,Unknown308665,West Columbia,48039,substation,in service,138,6,29.154577,-95.657111,"IMAGERY, OpenStreetMap",2017-05-08
+308689,Unknown308689,West Columbia,48039,substation,in service,138,7,29.156723,-95.657372,"IMAGERY, OpenStreetMap",2017-05-08
+308748,Unknown308748,Panorama Village,48339,substation,in service,138,2,30.374705,-95.517509,IMAGERY,2017-05-15
+308757,Sintek,Oyster Creek,48039,substation,in service,138,2,28.992286,-95.357219,IMAGERY,2015-08-21
+308763,Friendswood Reit,Friendswood,48201,substation,in service,138,2,29.522836,-95.153476,"IMAGERY, OpenStreetMap",2016-11-30
+308774,Unknown308774,Aldine,48201,substation,in service,138,2,29.967868,-95.3695,IMAGERY,2017-05-08
+308780,Channelview Cogen,Sheldon,48201,substation,in service,345,4,29.836648,-95.123472,"IMAGERY, OpenStreetMap",2016-01-26
+308809,Unknown308809,Hockley,48201,substation,in service,138,2,30.01775,-95.8612,"IMAGERY, OpenStreetMap",2017-05-15
+308830,Unknown308830,Missouri City,48157,substation,not available,138,0,29.504158,-95.552494,IMAGERY,2017-02-13
+308834,Humble,Houston,48201,substation,in service,138,4,29.999972,-95.234767,"IMAGERY, OpenStreetMap",2017-05-05
+308851,Tomball,Tomball,48201,substation,in service,345,6,30.090118,-95.605976,"IMAGERY, OpenStreetMap",2017-05-15
+308854,Unknown308854,Bolivar Peninsula,48167,substation,in service,138,2,29.55935,-94.395571,OpenStreetMap,2015-08-27
+308882,Highlands,Mcnair,48201,substation,in service,138,2,29.800551,-95.031428,"IMAGERY, OpenStreetMap",2017-05-15
+308886,Drouet,Houston,48201,substation,in service,138,3,29.667153,-95.283005,"IMAGERY, OpenStreetMap",2016-11-30
+308897,Bayway,Taylor Lake Village,48201,substation,in service,138,3,29.609418,-95.04955,"IMAGERY, OpenStreetMap",2017-05-15
+308910,Unknown308910,Magnolia Gardens,48201,substation,in service,138,2,29.876227,-95.111618,IMAGERY,2017-05-05
+308939,Unknown308939,Spring,48201,substation,in service,138,2,30.08649,-95.441009,IMAGERY,2015-09-10
+308964,O'Brien,Pecan Grove,48157,substation,in service,345,10,29.673128,-95.717327,"IMAGERY, OpenStreetMap",2016-01-26
+309007,Greens Bayou 345,Houston,48201,substation,in service,345,21,29.818445,-95.219344,"IMAGERY, OpenStreetMap",2016-01-26
+309009,Glenwood,Houston,48201,substation,in service,138,2,29.850643,-95.26607,"IMAGERY, OpenStreetMap",2016-11-30
+309020,Basf,Clute,48039,substation,in service,138,5,29.001764,-95.396886,IMAGERY,2015-08-21
+309032,Unknown309032,Galena Park,48201,substation,in service,138,2,29.748075,-95.207294,"IMAGERY, OpenStreetMap",2017-05-08
+309117,Unknown309117,League City,48167,substation,in service,138,2,29.515225,-95.042315,IMAGERY,2017-05-08
+309130,Unknown309130,Lynchburg,48201,substation,in service,138,2,29.723108,-95.059286,IMAGERY,2015-08-20
+309173,Eastside,Houston,48201,substation,in service,138,4,29.747042,-95.35312,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+309182,Pasadena,Pasadena,48201,substation,in service,138,2,29.689996,-95.222883,"IMAGERY, OpenStreetMap",2017-05-15
+309202,Unknown309202,Houston,48201,substation,not available,69,0,29.795307,-95.280291,IMAGERY,2018-01-30
+309243,Unknown309243,Coady,48201,substation,in service,138,2,29.753522,-95.01481,"IMAGERY, OpenStreetMap",2017-05-16
+309267,Unknown309267,Houston,48201,substation,not available,69,0,29.715672,-95.231989,IMAGERY,2018-01-04
+309269,La Marque,La Marque,48167,substation,in service,138,3,29.365906,-94.965411,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309337,Biport,Oyster Creek,48039,substation,in service,138,2,28.98609,-95.338521,"IMAGERY, OpenStreetMap",2017-05-08
+309367,Unknown309367,Brazoria,48039,substation,in service,138,3,29.056884,-95.585427,"IMAGERY, OpenStreetMap",2017-05-08
+309401,Hastings,Alvin,48039,substation,in service,138,2,29.483245,-95.252574,"IMAGERY, OpenStreetMap",2017-05-08
+309409,Unknown309409,Old Ocean,48039,substation,in service,138,3,29.069661,-95.745905,IMAGERY,2017-05-08
+309441,Telephone,Houston,48201,substation,in service,138,4,29.599135,-95.287424,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309460,Bobville,Dobbin,48339,substation,in service,138,2,30.350971,-95.781575,"IMAGERY, Inference, OpenStreetMap",2017-05-15
+309482,Unknown309482,Pecan Grove,48157,substation,in service,138,2,29.67069,-95.716085,"IMAGERY, OpenStreetMap",2017-05-15
+309492,Haden,Cloverleaf,48201,substation,in service,138,2,29.759674,-95.173007,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309497,Westfield,Westfield,48201,substation,in service,138,4,30.02064,-95.422161,"IMAGERY, OpenStreetMap",2016-11-30
+309507,Clodine,Town West,48201,substation,in service,138,5,29.674798,-95.620769,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309514,Unknown309514,Shoreacres,48201,substation,in service,138,2,29.601435,-95.014432,IMAGERY,2017-05-15
+309525,Exxon,Coady,48201,substation,in service,138,5,29.749678,-95.019519,"IMAGERY, OpenStreetMap",2017-05-16
+309564,Bertwood,Houston,48201,substation,in service,138,2,29.843965,-95.31416,"IMAGERY, OpenStreetMap",2016-11-30
+309571,Freeport,Freeport,48039,substation,in service,69,4,28.94022,-95.348488,"IMAGERY, OpenStreetMap",2015-06-26
+309592,Rosharon,Alvin,48039,substation,in service,138,2,29.353742,-95.429655,"IMAGERY,Inference, OpenStreetMap",2017-05-02
+309607,Unknown309607,Pasadena,48201,substation,in service,69,2,29.720211,-95.207362,"IMAGERY, OpenStreetMap",2015-08-27
+309612,Unknown309612,Deer Park,48201,substation,in service,138,2,29.727034,-95.154241,"IMAGERY, OpenStreetMap",2017-05-16
+309641,Eureka Reit,Houston,48201,substation,in service,138,4,29.794753,-95.43344,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309688,Harrisburg,Houston,48201,substation,in service,345,4,29.715116,-95.265456,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+309701,Jeanetta,Houston,48201,substation,in service,345,8,29.718719,-95.536693,"IMAGERY, OpenStreetMap",2016-01-26
+309721,Polk,Houston,48201,substation,in service,138,3,29.752238,-95.361676,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+309737,Damon,Damon,48039,substation,in service,138,2,29.291615,-95.729268,"IMAGERY, OpenStreetMap",2017-05-08
+309753,Unknown309753,Conroe,48339,substation,in service,138,2,30.305183,-95.424229,IMAGERY,2018-09-04
+309760,Unknown309760,Deer Park,48201,substation,in service,69,2,29.720532,-95.071259,IMAGERY,2015-08-20
+309773,Unknown309773,La Porte,48201,substation,in service,138,6,29.694841,-95.039491,"IMAGERY, OpenStreetMap",2017-05-16
+309788,Manvel,Manvel,48039,substation,in service,138,2,29.456782,-95.354768,IMAGERY,2017-05-08
+309823,Unknown309823,Conroe,48339,substation,not available,138,1,30.21483,-95.287022,IMAGERY,2018-01-02
+309835,Sharpstown,Houston,48201,substation,in service,138,2,29.701404,-95.487181,"IMAGERY, Inference, OpenStreetMap",2017-05-05
+309846,Fish Creek,Conroe,48339,substation,in service,138,2,30.297352,-95.547889,"IMAGERY, OpenStreetMap",2017-05-15
+309874,Riwood,Oyster Creek,48039,substation,in service,138,2,29.055757,-95.347479,"IMAGERY, OpenStreetMap",2015-06-25
+309877,Hofman,Clute,48039,substation,in service,138,1,29.010339,-95.369694,"IMAGERY, OpenStreetMap",2015-06-25
+309913,Freeman,Katy,48201,substation,in service,138,2,29.875213,-95.841348,"IMAGERY, OpenStreetMap",2017-05-15
+309916,Tejas,Texas City,48167,substation,in service,138,3,29.380153,-94.922982,"IMAGERY,Inference, OpenStreetMap",2017-05-08
+309991,Plaza,Houston,48201,substation,in service,138,3,29.68942,-95.389565,"IMAGERY,Inference, OpenStreetMap",2017-05-02
+310023,Unknown310023,Richmond,48157,substation,in service,138,1,29.579424,-95.776292,"IMAGERY, OpenStreetMap",2017-05-15
+310031,Lockwood,Kinwood,48201,substation,in service,138,2,29.935074,-95.288284,"IMAGERY, Inference,OpenStreetMap",2017-05-02
+310040,Southwyck,Pearland,48039,substation,in service,138,2,29.552397,-95.389275,"IMAGERY, OpenStreetMap",2016-11-30
+310055,Gable Street,Houston,48201,substation,in service,138,3,29.764608,-95.352555,"IMAGERY, OpenStreetMap",2016-11-30
+310091,West Galveston,Galveston,48167,substation,in service,138,4,29.296214,-94.826991,OpenStreetMap,2016-11-28
+310096,Tc Water,Texas City,48167,substation,in service,138,1,29.383048,-94.892687,"IMAGERY, OpenStreetMap",2017-05-08
+310112,Garden Villas,Houston,48201,substation,in service,138,8,29.650899,-95.314524,"IMAGERY, OpenStreetMap",2016-11-30
+310218,Amoco,Hoskins,48039,substation,in service,138,4,29.233779,-95.187022,"IMAGERY, OpenStreetMap",2017-05-08
+310232,Unknown310232,Houston,48201,substation,in service,138,1,29.702278,-95.398863,IMAGERY,2017-05-15
+310233,Unknown310233,West Columbia,48039,substation,in service,138,2,29.149256,-95.650121,"IMAGERY, OpenStreetMap",2017-05-08
+310235,Unknown310235,Coady,48201,substation,in service,138,2,29.758971,-95.022015,"IMAGERY, OpenStreetMap",2017-05-16
+310265,Fondren,Houston,48201,substation,in service,138,2,29.667887,-95.509358,"IMAGERY, OpenStreetMap",2017-05-05
+310280,Unknown310280,Texas City,48167,substation,in service,138,1,29.376936,-94.89778,IMAGERY,2017-05-08
+310288,Stafford,Stafford,48157,substation,in service,138,1,29.633729,-95.5892,"IMAGERY, OpenStreetMap",2016-11-30
+310289,Missouri City,Missouri City,48157,substation,in service,138,2,29.612645,-95.529989,"IMAGERY, OpenStreetMap",2017-05-15
+310329,Amoco,Texas City,48167,substation,in service,138,2,29.363627,-94.924527,"IMAGERY,Inference, OpenStreetMap",2017-05-08
+310370,Meadow,Alvin,48039,substation,in service,345,3,29.460345,-95.257855,IMAGERY,2017-02-13
+310390,Unknown310390,Old Ocean,48039,substation,in service,138,4,29.078749,-95.757872,IMAGERY,2017-05-08
+310425,Clinton,Houston,48201,substation,in service,138,2,29.755541,-95.301166,"IMAGERY, OpenStreetMap",2017-05-08
+310463,Wirt,Houston,48201,substation,in service,138,3,29.785233,-95.479623,"IMAGERY, OpenStreetMap",2016-11-30
+310486,Isp Switching,Texas City,48167,substation,in service,138,2,29.42563,-94.963808,"IMAGERY, OpenStreetMap",2017-05-08
+310508,Garrott,Houston,48201,substation,in service,138,5,29.732847,-95.385868,"IMAGERY, Inference, OpenStreetMap",2017-05-02
+310523,Cedar Hill Switching,Woodloch,48339,substation,in service,138,2,30.251643,-95.43331,"IMAGERY, OpenStreetMap",2017-05-15
+310528,Unknown310528,Galena Park,48201,substation,in service,138,1,29.740719,-95.191588,IMAGERY,2015-08-20
+310546,Tap310546,Richmond,48157,tap,in service,138,3,29.578223,-95.777784,IMAGERY,2017-12-22
+310586,Tap310586,Houston,48201,tap,in service,138,3,29.775894,-95.272689,IMAGERY,2017-05-08
+310600,Tap310600,Houston,48201,tap,in service,,3,29.96833,-95.485867,IMAGERY,2019-04-25
+310601,Tap310601,Houston,48201,tap,in service,138,3,29.937897,-95.525008,IMAGERY,2015-08-14
+310614,Tap310614,Galena Park,48201,tap,in service,138,4,29.747159,-95.228653,IMAGERY,2017-05-08
+310621,Tap310621,Houston,48201,tap,in service,138,3,29.649812,-95.447394,IMAGERY,2017-05-15
+310625,Tap310625,Pecan Grove,48157,tap,in service,138,3,29.672317,-95.716605,IMAGERY,2017-05-15
+310629,Tap310629,Conroe,48339,tap,in service,138,3,30.311475,-95.518891,IMAGERY,2018-09-04
+310651,Tap310651,Sugar Land,48157,tap,in service,138,3,29.527679,-95.60278,IMAGERY,2017-05-15
+310677,Tap310677,Santa Fe,48167,tap,in service,138,3,29.392301,-95.090611,IMAGERY,2017-05-08
+310686,Tap310686,Houston,48201,tap,in service,138,3,29.667387,-95.283327,IMAGERY,2017-05-15
+310697,Tap310697,Houston,48201,tap,in service,69,3,29.707411,-95.252444,IMAGERY,2015-08-14
+310700,Tap310700,Cloverleaf,48201,tap,in service,138,4,29.818942,-95.154092,IMAGERY,2015-08-14
+310701,Tap310701,Westfield,48201,tap,in service,138,3,30.015739,-95.401469,IMAGERY,2017-05-08
+310703,Tap310703,Houston,48201,tap,in service,138,3,29.651923,-95.329197,IMAGERY,2017-05-15
+310706,Tap310706,Highlands,48201,tap,in service,138,3,29.847684,-95.07917,IMAGERY,2017-05-15
+310718,Tap310718,Santa Fe,48167,tap,in service,138,3,29.392231,-95.090654,IMAGERY,2017-05-08
+310721,Tap310721,Conroe,48339,tap,in service,,3,30.312966,-95.389887,IMAGERY,2018-10-19
+310725,Tap310725,Houston,48201,tap,in service,138,3,29.816477,-95.482797,IMAGERY,2017-05-15
+310750,Tap310750,Houston,48201,tap,in service,138,3,29.627527,-95.328676,IMAGERY,2017-05-15
+310756,Tap310756,Willis,48339,tap,in service,138,3,30.439543,-95.522114,IMAGERY,2017-05-15
+310772,Tap310772,Houston,48201,tap,in service,138,3,29.937945,-95.531671,IMAGERY,2015-09-29
+310781,Tap310781,Conroe,48339,tap,in service,138,3,30.291765,-95.518698,IMAGERY,2017-05-15
+310782,Tap310782,Sugar Land,48157,tap,in service,138,3,29.527363,-95.602656,IMAGERY,2017-05-15
+310784,Tap310784,Webster,48201,tap,in service,138,3,29.515102,-95.128519,IMAGERY,2016-11-30
+310794,Tap310794,Freeport,48039,tap,in service,138,3,28.983263,-95.358036,IMAGERY,2017-05-08
+310803,Tap310803,Channelview,48201,tap,in service,138,1,29.759057,-95.099074,IMAGERY,2017-05-08
+310844,Rittenhouse Tap 2,Houston,48201,tap,in service,138,3,29.860334,-95.362733,ERCOT,2016-11-30
+310850,Tap310850,Houston,48201,tap,in service,138,3,29.820883,-95.575506,IMAGERY,2017-05-15
+310865,Tap310865,Channelview,48201,tap,in service,138,1,29.75904,-95.099121,IMAGERY,2017-05-08
+310867,Tap310867,Conroe,48339,tap,in service,69,3,30.311321,-95.44087,IMAGERY,2018-09-04
+310876,Tap310876,Houston,48201,tap,in service,138,3,29.564989,-95.161844,IMAGERY,2016-11-30

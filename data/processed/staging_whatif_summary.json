@@ -1,0 +1,1317 @@
+{
+  "meta": {
+    "road_circuity": 1.3,
+    "storm_speed_kmh": 30.0,
+    "grid_step_deg": 0.05,
+    "order": [
+      "relief",
+      "power",
+      "flood"
+    ]
+  },
+  "scenarios": {
+    "relief": {
+      "scenario": "relief",
+      "label": "Disaster relief",
+      "facility": "shelters and responder staging",
+      "demand": "combined need: half outage burden, half flood claims",
+      "unit": "need points",
+      "baseline_sites": 30,
+      "demand_points": 355,
+      "baseline_weighted_road_km": 11.06,
+      "baseline_weighted_travel_minutes": 22.1,
+      "best_candidate": {
+        "scenario": "relief",
+        "candidate_id": "cand_29.10_-95.45",
+        "latitude": 29.1,
+        "longitude": -95.45,
+        "weighted_road_km": 10.21,
+        "weighted_travel_minutes": 20.4,
+        "minutes_saved": 1.7,
+        "pct_travel_reduction": 7.7
+      },
+      "sites": [
+        {
+          "site_id": "grb_shelter",
+          "name": "George R. Brown Convention Center (Harvey mega-shelter)",
+          "lat": 29.752626925756,
+          "lon": -95.358540950173,
+          "site_type": "mega_shelter",
+          "operator": "City of Houston",
+          "source": "https://www.cbsnews.com/news/harvey-flooding-houston-adds-more-shelters-evacuees-greg-abbott",
+          "note": "Over 9,000 evacuees at peak (CBS News)."
+        },
+        {
+          "site_id": "nrg_shelter",
+          "name": "NRG Center (Harvey mega-shelter)",
+          "lat": 29.6878061,
+          "lon": -95.406349,
+          "site_type": "mega_shelter",
+          "operator": "Harris County",
+          "source": "https://www.cbsnews.com/news/harvey-flooding-houston-adds-more-shelters-evacuees-greg-abbott",
+          "note": "Opened Aug 29 for up to 10,000 evacuees."
+        },
+        {
+          "site_id": "toyota_center",
+          "name": "Toyota Center (overflow shelter)",
+          "lat": 29.752002091501,
+          "lon": -95.362319064525,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": "500 cots for families with children (Fox 26)."
+        },
+        {
+          "site_id": "mo_campbell",
+          "name": "M.O. Campbell Center shelter",
+          "lat": 29.931593191255,
+          "lon": -95.358624781836,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_denver_harbor",
+          "name": "Denver Harbor Multi-Service Center",
+          "lat": 29.772804570939,
+          "lon": -95.30521412821,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_fifth_ward",
+          "name": "Fifth Ward Multi-Service Center",
+          "lat": 29.772538028037,
+          "lon": -95.330444163419,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_sunnyside",
+          "name": "Sunnyside Multi-Service Center",
+          "lat": 29.657022433725,
+          "lon": -95.355545735046,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_third_ward",
+          "name": "Third Ward Multi-Service Center",
+          "lat": 29.728774839079,
+          "lon": -95.361848576283,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_west_end",
+          "name": "West End Multi-Service Center",
+          "lat": 29.77315399656,
+          "lon": -95.397278015668,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_living_stones",
+          "name": "Living Stones Church (Red Cross shelter)",
+          "lat": 29.452258795544,
+          "lon": -95.229937016057,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_abundant_life",
+          "name": "Abundant Life Christian Center (Red Cross shelter)",
+          "lat": 29.381711299212,
+          "lon": -95.02077658825,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_dobie",
+          "name": "Dobie High School (Red Cross shelter)",
+          "lat": 29.5912006,
+          "lon": -95.250606,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_terry",
+          "name": "B.F. Terry High School (Red Cross shelter)",
+          "lat": 29.545078580992,
+          "lon": -95.771714847,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "rc_stafford",
+          "name": "Stafford High School (Red Cross shelter)",
+          "lat": 29.600693606378,
+          "lon": -95.543759182713,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "rc_george_ranch",
+          "name": "George Ranch High School (Red Cross shelter)",
+          "lat": 29.51675824475,
+          "lon": -95.693698252556,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "drc_st_john_vianney",
+          "name": "St. John Vianney Catholic Church (FEMA recovery center)",
+          "lat": 29.770039673554,
+          "lon": -95.613003613796,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_humble",
+          "name": "Humble Senior Activity Center (FEMA recovery center)",
+          "lat": 30.007297555441,
+          "lon": -95.258535109613,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_netrality",
+          "name": "Netrality Building (FEMA recovery center)",
+          "lat": 29.754106360234,
+          "lon": -95.365801824926,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_bayland",
+          "name": "Bayland Community Center (FEMA recovery center)",
+          "lat": 29.693905053333,
+          "lon": -95.494904390283,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_sienna",
+          "name": "Sienna Annex (FEMA recovery center)",
+          "lat": 29.53340226326,
+          "lon": -95.537965103287,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_greenspoint",
+          "name": "Greenspoint Mall (FEMA recovery center)",
+          "lat": 29.9452038,
+          "lon": -95.4115827,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_webster",
+          "name": "Webster Civic Center (FEMA recovery center)",
+          "lat": 29.533935930945,
+          "lon": -95.118316328352,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_katy_mills",
+          "name": "Katy Mills Mall (FEMA recovery center)",
+          "lat": 29.780127072341,
+          "lon": -95.809216428746,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_league_city",
+          "name": "Johnnie Arolfo Civic Center (FEMA recovery center)",
+          "lat": 29.502967556709,
+          "lon": -95.094000689595,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_baytown",
+          "name": "Baytown Community Center (FEMA recovery center)",
+          "lat": 29.728380688766,
+          "lon": -94.996845150218,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": "Listed with ZIP 77522; geocoded at 77520."
+        },
+        {
+          "site_id": "drc_dickinson",
+          "name": "Old Amegy Bank (FEMA recovery center)",
+          "lat": 29.460629308705,
+          "lon": -95.055129840735,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_simonton",
+          "name": "Simonton Community Church (FEMA recovery center)",
+          "lat": 29.6749267,
+          "lon": -95.9762356,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_magnolia",
+          "name": "Friendship Center (FEMA recovery center)",
+          "lat": 30.192672025738,
+          "lon": -95.729097712106,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_wharton",
+          "name": "Wharton Civic Center (FEMA recovery center)",
+          "lat": 29.327673909479,
+          "lon": -96.093418814329,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": "Outside the five study counties."
+        },
+        {
+          "site_id": "drc_church_without_walls",
+          "name": "The Church Without Walls (FEMA recovery center)",
+          "lat": 29.857085864342,
+          "lon": -95.669238550557,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        }
+      ],
+      "unofficial_sites": [
+        {
+          "site_id": "katy_staging",
+          "name": "Katy Buc-ee's (improvised responder staging)",
+          "lat": 29.7784781,
+          "lon": -95.8474752,
+          "site_type": "responder_staging",
+          "operator": "Buc-ee's lot used by responders",
+          "source": "Eye of the Storm (2018), PDF p.100",
+          "note": "Responders moved staging here when floodwaters forced them away from Houston."
+        },
+        {
+          "site_id": "gallery_north",
+          "name": "Gallery Furniture, North Freeway (makeshift shelter)",
+          "lat": 29.854665503474,
+          "lon": -95.398812051231,
+          "site_type": "makeshift_shelter",
+          "operator": "Gallery Furniture (private business)",
+          "source": "https://www.foxnews.com/us/grab-a-mattress-businesses-become-storm-shelters-in-texas",
+          "note": "Owner sent staff to pick up stranded residents; beds, food and restrooms."
+        },
+        {
+          "site_id": "gallery_grand_pkwy",
+          "name": "Gallery Furniture, Grand Parkway (makeshift shelter)",
+          "lat": 29.672073845068,
+          "lon": -95.751617591443,
+          "site_type": "makeshift_shelter",
+          "operator": "Gallery Furniture (private business)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "lakewood_church",
+          "name": "Lakewood Church (makeshift shelter)",
+          "lat": 29.7303601,
+          "lon": -95.434718,
+          "site_type": "makeshift_shelter",
+          "operator": "Lakewood Church (megachurch)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": "Opened as a shelter on Aug 29 after public criticism."
+        },
+        {
+          "site_id": "heb_league_city",
+          "name": "H-E-B League City (makeshift shelter)",
+          "lat": 29.506071915156,
+          "lon": -95.040254835413,
+          "site_type": "makeshift_shelter",
+          "operator": "H-E-B (private business)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "bay_harbor_umc",
+          "name": "Bay Harbor UMC (church shelter)",
+          "lat": 29.497340576571,
+          "lon": -95.135067060372,
+          "site_type": "makeshift_shelter",
+          "operator": "Bay Harbor United Methodist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "sacred_heart_richmond",
+          "name": "Sacred Heart Church (church shelter)",
+          "lat": 29.580574402411,
+          "lon": -95.760613430492,
+          "site_type": "makeshift_shelter",
+          "operator": "Sacred Heart Catholic Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "sugar_land_fumc",
+          "name": "Sugar Land First United Methodist (church shelter)",
+          "lat": 29.628721995183,
+          "lon": -95.618697114776,
+          "site_type": "makeshift_shelter",
+          "operator": "Sugar Land First United Methodist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "golden_acres_baptist",
+          "name": "Golden Acres Baptist Church (church shelter)",
+          "lat": 29.670268823555,
+          "lon": -95.163069215223,
+          "site_type": "makeshift_shelter",
+          "operator": "Golden Acres Baptist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "fbc_highlands",
+          "name": "First Baptist Church Highlands (church shelter)",
+          "lat": 29.817656087987,
+          "lon": -95.058796837771,
+          "site_type": "makeshift_shelter",
+          "operator": "First Baptist Church Highlands",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        }
+      ],
+      "with_unofficial": {
+        "weighted_road_km": 10.3,
+        "weighted_travel_minutes": 20.6
+      },
+      "top_candidates": [
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.10_-95.45",
+          "latitude": 29.1,
+          "longitude": -95.45,
+          "weighted_road_km": 10.21,
+          "weighted_travel_minutes": 20.4,
+          "minutes_saved": 1.7,
+          "pct_travel_reduction": 7.7
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.10_-95.50",
+          "latitude": 29.1,
+          "longitude": -95.5,
+          "weighted_road_km": 10.2,
+          "weighted_travel_minutes": 20.4,
+          "minutes_saved": 1.7,
+          "pct_travel_reduction": 7.8
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.15_-95.50",
+          "latitude": 29.15,
+          "longitude": -95.5,
+          "weighted_road_km": 10.22,
+          "weighted_travel_minutes": 20.4,
+          "minutes_saved": 1.7,
+          "pct_travel_reduction": 7.6
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.05_-95.45",
+          "latitude": 29.05,
+          "longitude": -95.45,
+          "weighted_road_km": 10.24,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.4
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.05_-95.50",
+          "latitude": 29.05,
+          "longitude": -95.5,
+          "weighted_road_km": 10.23,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.5
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.05_-95.55",
+          "latitude": 29.05,
+          "longitude": -95.55,
+          "weighted_road_km": 10.26,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.2
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.10_-95.40",
+          "latitude": 29.1,
+          "longitude": -95.4,
+          "weighted_road_km": 10.25,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.3
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.10_-95.55",
+          "latitude": 29.1,
+          "longitude": -95.55,
+          "weighted_road_km": 10.23,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.5
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.15_-95.45",
+          "latitude": 29.15,
+          "longitude": -95.45,
+          "weighted_road_km": 10.23,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.5
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_29.15_-95.55",
+          "latitude": 29.15,
+          "longitude": -95.55,
+          "weighted_road_km": 10.25,
+          "weighted_travel_minutes": 20.5,
+          "minutes_saved": 1.6,
+          "pct_travel_reduction": 7.3
+        }
+      ]
+    },
+    "power": {
+      "scenario": "power",
+      "label": "Power outages",
+      "facility": "utility service centers",
+      "demand": "customer-days without power (Harvey ZIP file)",
+      "unit": "customer-days",
+      "baseline_sites": 12,
+      "demand_points": 198,
+      "baseline_weighted_road_km": 13.35,
+      "baseline_weighted_travel_minutes": 26.7,
+      "best_candidate": {
+        "scenario": "power",
+        "candidate_id": "cand_29.85_-95.15",
+        "latitude": 29.85,
+        "longitude": -95.15,
+        "weighted_road_km": 12.28,
+        "weighted_travel_minutes": 24.6,
+        "minutes_saved": 2.1,
+        "pct_travel_reduction": 8.0
+      },
+      "sites": [
+        {
+          "site_id": "cnp_bellaire",
+          "name": "Bellaire / Magnolia Park service center",
+          "lat": 29.717348552706,
+          "lon": -95.449023940116,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_baytown",
+          "name": "Baytown / Channelview / Berry service center",
+          "lat": 29.74195323341,
+          "lon": -94.961320780644,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_galveston",
+          "name": "Galveston service center",
+          "lat": 29.30326980535,
+          "lon": -94.79810502589,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": "List snippet showed ZIP 77450; 27th St Galveston is 77550 and geocoded there."
+        },
+        {
+          "site_id": "cnp_greenspoint",
+          "name": "Greenspoint service center",
+          "lat": 29.94587708535,
+          "lon": -95.455081380044,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_cypress",
+          "name": "Cypress service center",
+          "lat": 29.997252960397,
+          "lon": -95.699301632752,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_fort_bend",
+          "name": "Fort Bend / Wharton service center",
+          "lat": 29.561687406861,
+          "lon": -95.786348409428,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_harrisburg",
+          "name": "Harrisburg service center (major underground)",
+          "lat": 29.750839204623,
+          "lon": -95.344973065717,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": "Serves major underground services across the metro."
+        },
+        {
+          "site_id": "cnp_humble",
+          "name": "Humble service center",
+          "lat": 30.001548952864,
+          "lon": -95.275733704781,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": "Serves Huffman, Humble, Kingwood, Oak Ridge North, Spring."
+        },
+        {
+          "site_id": "cnp_katy",
+          "name": "Katy / Sealy service center",
+          "lat": 29.785696898902,
+          "lon": -95.816875147439,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": "List shows ZIP 77449; the Census geocoder places the address in 77494."
+        },
+        {
+          "site_id": "cnp_south_houston",
+          "name": "South Houston service center",
+          "lat": 29.642510922261,
+          "lon": -95.2078190923,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_spring_branch",
+          "name": "Spring Branch service center",
+          "lat": 29.820893728522,
+          "lon": -95.569991973805,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        },
+        {
+          "site_id": "cnp_sugar_land",
+          "name": "Sugar Land service center",
+          "lat": 29.661904913126,
+          "lon": -95.617195551033,
+          "site_type": "utility_service_center",
+          "operator": "CenterPoint Energy",
+          "source": "https://web.archive.org/web/20251206133358/https://www.centerpointenergy.com/en-us/Documents/service-centers.pdf",
+          "note": ""
+        }
+      ],
+      "unofficial_sites": [],
+      "top_candidates": [
+        {
+          "scenario": "power",
+          "candidate_id": "cand_29.85_-95.15",
+          "latitude": 29.85,
+          "longitude": -95.15,
+          "weighted_road_km": 12.28,
+          "weighted_travel_minutes": 24.6,
+          "minutes_saved": 2.1,
+          "pct_travel_reduction": 8.0
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_29.85_-95.20",
+          "latitude": 29.85,
+          "longitude": -95.2,
+          "weighted_road_km": 12.28,
+          "weighted_travel_minutes": 24.6,
+          "minutes_saved": 2.1,
+          "pct_travel_reduction": 8.0
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_30.10_-95.50",
+          "latitude": 30.1,
+          "longitude": -95.5,
+          "weighted_road_km": 12.32,
+          "weighted_travel_minutes": 24.6,
+          "minutes_saved": 2.1,
+          "pct_travel_reduction": 7.7
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_29.90_-95.15",
+          "latitude": 29.9,
+          "longitude": -95.15,
+          "weighted_road_km": 12.34,
+          "weighted_travel_minutes": 24.7,
+          "minutes_saved": 2.0,
+          "pct_travel_reduction": 7.6
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_29.90_-95.20",
+          "latitude": 29.9,
+          "longitude": -95.2,
+          "weighted_road_km": 12.33,
+          "weighted_travel_minutes": 24.7,
+          "minutes_saved": 2.0,
+          "pct_travel_reduction": 7.6
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_30.10_-95.45",
+          "latitude": 30.1,
+          "longitude": -95.45,
+          "weighted_road_km": 12.37,
+          "weighted_travel_minutes": 24.7,
+          "minutes_saved": 2.0,
+          "pct_travel_reduction": 7.3
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_29.85_-95.25",
+          "latitude": 29.85,
+          "longitude": -95.25,
+          "weighted_road_km": 12.44,
+          "weighted_travel_minutes": 24.9,
+          "minutes_saved": 1.8,
+          "pct_travel_reduction": 6.8
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_30.05_-95.45",
+          "latitude": 30.05,
+          "longitude": -95.45,
+          "weighted_road_km": 12.43,
+          "weighted_travel_minutes": 24.9,
+          "minutes_saved": 1.8,
+          "pct_travel_reduction": 6.9
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_30.10_-95.55",
+          "latitude": 30.1,
+          "longitude": -95.55,
+          "weighted_road_km": 12.43,
+          "weighted_travel_minutes": 24.9,
+          "minutes_saved": 1.8,
+          "pct_travel_reduction": 6.9
+        },
+        {
+          "scenario": "power",
+          "candidate_id": "cand_30.15_-95.50",
+          "latitude": 30.15,
+          "longitude": -95.5,
+          "weighted_road_km": 12.46,
+          "weighted_travel_minutes": 24.9,
+          "minutes_saved": 1.8,
+          "pct_travel_reduction": 6.7
+        }
+      ],
+      "evidence": {
+        "n_zips_timed": 193,
+        "r_distance_vs_days_to_half": -0.1408,
+        "supports_distance_effect": false
+      }
+    },
+    "flood": {
+      "scenario": "flood",
+      "label": "Flood relief",
+      "facility": "mega-shelters",
+      "demand": "Harvey NFIP flood claims",
+      "unit": "claims",
+      "baseline_sites": 30,
+      "demand_points": 157,
+      "baseline_weighted_road_km": 11.17,
+      "baseline_weighted_travel_minutes": 22.3,
+      "best_candidate": {
+        "scenario": "flood",
+        "candidate_id": "cand_29.10_-95.45",
+        "latitude": 29.1,
+        "longitude": -95.45,
+        "weighted_road_km": 9.72,
+        "weighted_travel_minutes": 19.4,
+        "minutes_saved": 2.9,
+        "pct_travel_reduction": 13.0
+      },
+      "sites": [
+        {
+          "site_id": "grb_shelter",
+          "name": "George R. Brown Convention Center (Harvey mega-shelter)",
+          "lat": 29.752626925756,
+          "lon": -95.358540950173,
+          "site_type": "mega_shelter",
+          "operator": "City of Houston",
+          "source": "https://www.cbsnews.com/news/harvey-flooding-houston-adds-more-shelters-evacuees-greg-abbott",
+          "note": "Over 9,000 evacuees at peak (CBS News)."
+        },
+        {
+          "site_id": "nrg_shelter",
+          "name": "NRG Center (Harvey mega-shelter)",
+          "lat": 29.6878061,
+          "lon": -95.406349,
+          "site_type": "mega_shelter",
+          "operator": "Harris County",
+          "source": "https://www.cbsnews.com/news/harvey-flooding-houston-adds-more-shelters-evacuees-greg-abbott",
+          "note": "Opened Aug 29 for up to 10,000 evacuees."
+        },
+        {
+          "site_id": "toyota_center",
+          "name": "Toyota Center (overflow shelter)",
+          "lat": 29.752002091501,
+          "lon": -95.362319064525,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": "500 cots for families with children (Fox 26)."
+        },
+        {
+          "site_id": "mo_campbell",
+          "name": "M.O. Campbell Center shelter",
+          "lat": 29.931593191255,
+          "lon": -95.358624781836,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_denver_harbor",
+          "name": "Denver Harbor Multi-Service Center",
+          "lat": 29.772804570939,
+          "lon": -95.30521412821,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_fifth_ward",
+          "name": "Fifth Ward Multi-Service Center",
+          "lat": 29.772538028037,
+          "lon": -95.330444163419,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_sunnyside",
+          "name": "Sunnyside Multi-Service Center",
+          "lat": 29.657022433725,
+          "lon": -95.355545735046,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_third_ward",
+          "name": "Third Ward Multi-Service Center",
+          "lat": 29.728774839079,
+          "lon": -95.361848576283,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "msc_west_end",
+          "name": "West End Multi-Service Center",
+          "lat": 29.77315399656,
+          "lon": -95.397278015668,
+          "site_type": "shelter",
+          "operator": "City of Houston",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_living_stones",
+          "name": "Living Stones Church (Red Cross shelter)",
+          "lat": 29.452258795544,
+          "lon": -95.229937016057,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_abundant_life",
+          "name": "Abundant Life Christian Center (Red Cross shelter)",
+          "lat": 29.381711299212,
+          "lon": -95.02077658825,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_dobie",
+          "name": "Dobie High School (Red Cross shelter)",
+          "lat": 29.5912006,
+          "lon": -95.250606,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "rc_terry",
+          "name": "B.F. Terry High School (Red Cross shelter)",
+          "lat": 29.545078580992,
+          "lon": -95.771714847,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "rc_stafford",
+          "name": "Stafford High School (Red Cross shelter)",
+          "lat": 29.600693606378,
+          "lon": -95.543759182713,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "rc_george_ranch",
+          "name": "George Ranch High School (Red Cross shelter)",
+          "lat": 29.51675824475,
+          "lon": -95.693698252556,
+          "site_type": "shelter",
+          "operator": "American Red Cross",
+          "source": "https://www.fox26houston.com/news/shelters-resources-for-residents-affected-by-harvey",
+          "note": ""
+        },
+        {
+          "site_id": "drc_st_john_vianney",
+          "name": "St. John Vianney Catholic Church (FEMA recovery center)",
+          "lat": 29.770039673554,
+          "lon": -95.613003613796,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_humble",
+          "name": "Humble Senior Activity Center (FEMA recovery center)",
+          "lat": 30.007297555441,
+          "lon": -95.258535109613,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_netrality",
+          "name": "Netrality Building (FEMA recovery center)",
+          "lat": 29.754106360234,
+          "lon": -95.365801824926,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_bayland",
+          "name": "Bayland Community Center (FEMA recovery center)",
+          "lat": 29.693905053333,
+          "lon": -95.494904390283,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_sienna",
+          "name": "Sienna Annex (FEMA recovery center)",
+          "lat": 29.53340226326,
+          "lon": -95.537965103287,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_greenspoint",
+          "name": "Greenspoint Mall (FEMA recovery center)",
+          "lat": 29.9452038,
+          "lon": -95.4115827,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_webster",
+          "name": "Webster Civic Center (FEMA recovery center)",
+          "lat": 29.533935930945,
+          "lon": -95.118316328352,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_katy_mills",
+          "name": "Katy Mills Mall (FEMA recovery center)",
+          "lat": 29.780127072341,
+          "lon": -95.809216428746,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_league_city",
+          "name": "Johnnie Arolfo Civic Center (FEMA recovery center)",
+          "lat": 29.502967556709,
+          "lon": -95.094000689595,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_baytown",
+          "name": "Baytown Community Center (FEMA recovery center)",
+          "lat": 29.728380688766,
+          "lon": -94.996845150218,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": "Listed with ZIP 77522; geocoded at 77520."
+        },
+        {
+          "site_id": "drc_dickinson",
+          "name": "Old Amegy Bank (FEMA recovery center)",
+          "lat": 29.460629308705,
+          "lon": -95.055129840735,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_simonton",
+          "name": "Simonton Community Church (FEMA recovery center)",
+          "lat": 29.6749267,
+          "lon": -95.9762356,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_magnolia",
+          "name": "Friendship Center (FEMA recovery center)",
+          "lat": 30.192672025738,
+          "lon": -95.729097712106,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        },
+        {
+          "site_id": "drc_wharton",
+          "name": "Wharton Civic Center (FEMA recovery center)",
+          "lat": 29.327673909479,
+          "lon": -96.093418814329,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": "Outside the five study counties."
+        },
+        {
+          "site_id": "drc_church_without_walls",
+          "name": "The Church Without Walls (FEMA recovery center)",
+          "lat": 29.857085864342,
+          "lon": -95.669238550557,
+          "site_type": "recovery_center",
+          "operator": "FEMA",
+          "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
+          "note": ""
+        }
+      ],
+      "unofficial_sites": [
+        {
+          "site_id": "gallery_north",
+          "name": "Gallery Furniture, North Freeway (makeshift shelter)",
+          "lat": 29.854665503474,
+          "lon": -95.398812051231,
+          "site_type": "makeshift_shelter",
+          "operator": "Gallery Furniture (private business)",
+          "source": "https://www.foxnews.com/us/grab-a-mattress-businesses-become-storm-shelters-in-texas",
+          "note": "Owner sent staff to pick up stranded residents; beds, food and restrooms."
+        },
+        {
+          "site_id": "gallery_grand_pkwy",
+          "name": "Gallery Furniture, Grand Parkway (makeshift shelter)",
+          "lat": 29.672073845068,
+          "lon": -95.751617591443,
+          "site_type": "makeshift_shelter",
+          "operator": "Gallery Furniture (private business)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "lakewood_church",
+          "name": "Lakewood Church (makeshift shelter)",
+          "lat": 29.7303601,
+          "lon": -95.434718,
+          "site_type": "makeshift_shelter",
+          "operator": "Lakewood Church (megachurch)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": "Opened as a shelter on Aug 29 after public criticism."
+        },
+        {
+          "site_id": "heb_league_city",
+          "name": "H-E-B League City (makeshift shelter)",
+          "lat": 29.506071915156,
+          "lon": -95.040254835413,
+          "site_type": "makeshift_shelter",
+          "operator": "H-E-B (private business)",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "bay_harbor_umc",
+          "name": "Bay Harbor UMC (church shelter)",
+          "lat": 29.497340576571,
+          "lon": -95.135067060372,
+          "site_type": "makeshift_shelter",
+          "operator": "Bay Harbor United Methodist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "sacred_heart_richmond",
+          "name": "Sacred Heart Church (church shelter)",
+          "lat": 29.580574402411,
+          "lon": -95.760613430492,
+          "site_type": "makeshift_shelter",
+          "operator": "Sacred Heart Catholic Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "sugar_land_fumc",
+          "name": "Sugar Land First United Methodist (church shelter)",
+          "lat": 29.628721995183,
+          "lon": -95.618697114776,
+          "site_type": "makeshift_shelter",
+          "operator": "Sugar Land First United Methodist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "golden_acres_baptist",
+          "name": "Golden Acres Baptist Church (church shelter)",
+          "lat": 29.670268823555,
+          "lon": -95.163069215223,
+          "site_type": "makeshift_shelter",
+          "operator": "Golden Acres Baptist Church",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        },
+        {
+          "site_id": "fbc_highlands",
+          "name": "First Baptist Church Highlands (church shelter)",
+          "lat": 29.817656087987,
+          "lon": -95.058796837771,
+          "site_type": "makeshift_shelter",
+          "operator": "First Baptist Church Highlands",
+          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "note": ""
+        }
+      ],
+      "with_unofficial": {
+        "weighted_road_km": 10.44,
+        "weighted_travel_minutes": 20.9
+      },
+      "top_candidates": [
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.10_-95.45",
+          "latitude": 29.1,
+          "longitude": -95.45,
+          "weighted_road_km": 9.72,
+          "weighted_travel_minutes": 19.4,
+          "minutes_saved": 2.9,
+          "pct_travel_reduction": 13.0
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.10_-95.50",
+          "latitude": 29.1,
+          "longitude": -95.5,
+          "weighted_road_km": 9.68,
+          "weighted_travel_minutes": 19.4,
+          "minutes_saved": 2.9,
+          "pct_travel_reduction": 13.3
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.10_-95.55",
+          "latitude": 29.1,
+          "longitude": -95.55,
+          "weighted_road_km": 9.72,
+          "weighted_travel_minutes": 19.4,
+          "minutes_saved": 2.9,
+          "pct_travel_reduction": 13.0
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.05_-95.50",
+          "latitude": 29.05,
+          "longitude": -95.5,
+          "weighted_road_km": 9.75,
+          "weighted_travel_minutes": 19.5,
+          "minutes_saved": 2.8,
+          "pct_travel_reduction": 12.7
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.05_-95.55",
+          "latitude": 29.05,
+          "longitude": -95.55,
+          "weighted_road_km": 9.77,
+          "weighted_travel_minutes": 19.5,
+          "minutes_saved": 2.8,
+          "pct_travel_reduction": 12.5
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.15_-95.45",
+          "latitude": 29.15,
+          "longitude": -95.45,
+          "weighted_road_km": 9.76,
+          "weighted_travel_minutes": 19.5,
+          "minutes_saved": 2.8,
+          "pct_travel_reduction": 12.6
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.15_-95.50",
+          "latitude": 29.15,
+          "longitude": -95.5,
+          "weighted_road_km": 9.73,
+          "weighted_travel_minutes": 19.5,
+          "minutes_saved": 2.8,
+          "pct_travel_reduction": 12.9
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.15_-95.55",
+          "latitude": 29.15,
+          "longitude": -95.55,
+          "weighted_road_km": 9.76,
+          "weighted_travel_minutes": 19.5,
+          "minutes_saved": 2.8,
+          "pct_travel_reduction": 12.6
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.05_-95.45",
+          "latitude": 29.05,
+          "longitude": -95.45,
+          "weighted_road_km": 9.78,
+          "weighted_travel_minutes": 19.6,
+          "minutes_saved": 2.7,
+          "pct_travel_reduction": 12.4
+        },
+        {
+          "scenario": "flood",
+          "candidate_id": "cand_29.10_-95.40",
+          "latitude": 29.1,
+          "longitude": -95.4,
+          "weighted_road_km": 9.78,
+          "weighted_travel_minutes": 19.6,
+          "minutes_saved": 2.7,
+          "pct_travel_reduction": 12.4
+        }
+      ]
+    }
+  }
+}
