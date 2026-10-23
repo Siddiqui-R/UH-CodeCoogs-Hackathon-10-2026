@@ -1,0 +1,10 @@
+.git
+.vercel
+.venv
+**/__pycache__
+*.pyc
+data/cache
+public
+tests
+Challenge 1 - Hurricane Datasets Brief & Getting Started Guide.pdf
+UH AI Hackathon*Helpful Tips.pdf

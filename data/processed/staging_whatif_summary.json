@@ -16,9 +16,9 @@
       "facility": "shelters and responder staging",
       "demand": "combined need: half outage burden, half flood claims",
       "unit": "need points",
-      "baseline_sites": 30,
+      "baseline_sites": 31,
       "demand_points": 355,
-      "baseline_weighted_road_km": 11.06,
+      "baseline_weighted_road_km": 11.05,
       "baseline_weighted_travel_minutes": 22.1,
       "best_candidate": {
         "scenario": "relief",
@@ -28,7 +28,7 @@
         "weighted_road_km": 10.21,
         "weighted_travel_minutes": 20.4,
         "minutes_saved": 1.7,
-        "pct_travel_reduction": 7.7
+        "pct_travel_reduction": 7.6
       },
       "sites": [
         {
@@ -330,6 +330,16 @@
           "operator": "FEMA",
           "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
           "note": ""
+        },
+        {
+          "site_id": "bay_harbor_umc",
+          "name": "Bay Harbour UMC (Red Cross shelter)",
+          "lat": 29.497340576571,
+          "lon": -95.135067060372,
+          "site_type": "shelter",
+          "operator": "American Red Cross (at Bay Harbour United Methodist Church)",
+          "source": "https://www.pressreader.com/usa/houston-chronicle/20170829/282419874387132",
+          "note": "Red Cross cots and nearly 500 evacuees by Aug 29 (Houston Chronicle). A physician on site called it League City's only official Red Cross center (JEMS)."
         }
       ],
       "unofficial_sites": [
@@ -340,7 +350,7 @@
           "lon": -95.8474752,
           "site_type": "responder_staging",
           "operator": "Buc-ee's lot used by responders",
-          "source": "Eye of the Storm (2018), PDF p.100",
+          "source": "https://ticc.tamu.edu/IncidentResponse/ahimt_conf/12-11-18-EYE-OF-THE-STORM-digital.pdf#page=100",
           "note": "Responders moved staging here when floodwaters forced them away from Houston."
         },
         {
@@ -360,8 +370,8 @@
           "lon": -95.751617591443,
           "site_type": "makeshift_shelter",
           "operator": "Gallery Furniture (private business)",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://www.furnituretoday.com/business-news/gallery-furniture-opens-stores-hurricane-shelters",
+          "note": "Opened as a shelter alongside the North Freeway store."
         },
         {
           "site_id": "lakewood_church",
@@ -370,7 +380,7 @@
           "lon": -95.434718,
           "site_type": "makeshift_shelter",
           "operator": "Lakewood Church (megachurch)",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "source": "https://www.fox4news.com/news/joel-osteens-houston-megachurch-opens-doors-as-shelter",
           "note": "Opened as a shelter on Aug 29 after public criticism."
         },
         {
@@ -381,17 +391,7 @@
           "site_type": "makeshift_shelter",
           "operator": "H-E-B (private business)",
           "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
-        },
-        {
-          "site_id": "bay_harbor_umc",
-          "name": "Bay Harbor UMC (church shelter)",
-          "lat": 29.497340576571,
-          "lon": -95.135067060372,
-          "site_type": "makeshift_shelter",
-          "operator": "Bay Harbor United Methodist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "note": "Listed in Patch's Aug 28-30, 2017 shelter roundup; no article was found confirming an H-E-B shelter."
         },
         {
           "site_id": "sacred_heart_richmond",
@@ -400,8 +400,8 @@
           "lon": -95.760613430492,
           "site_type": "makeshift_shelter",
           "operator": "Sacred Heart Catholic Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "http://www.catholicsun.org/2017/08/30/prayers-aid-offered-amid-floods-as-texas-parishes-grapple-with-harvey/",
+          "note": "Served as a shelter until Brazos River flooding forced evacuations (Catholic News Service, Aug 30, 2017)."
         },
         {
           "site_id": "sugar_land_fumc",
@@ -410,7 +410,7 @@
           "lon": -95.618697114776,
           "site_type": "makeshift_shelter",
           "operator": "Sugar Land First United Methodist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "source": "https://communityimpact.com/sugar-land-missouri-city/environment/270485/",
           "note": ""
         },
         {
@@ -420,8 +420,8 @@
           "lon": -95.163069215223,
           "site_type": "makeshift_shelter",
           "operator": "Golden Acres Baptist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://baptiststandard.com/news/texas/gulf-coast-texas-baptists-hammered-harvey",
+          "note": "Named by the Baptist Standard among churches that opened their buildings to displaced people."
         },
         {
           "site_id": "fbc_highlands",
@@ -430,8 +430,8 @@
           "lon": -95.058796837771,
           "site_type": "makeshift_shelter",
           "operator": "First Baptist Church Highlands",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://baptiststandard.com/news/texas/gulf-coast-texas-baptists-hammered-harvey",
+          "note": "Named by the Baptist Standard among churches that opened their buildings to displaced people."
         }
       ],
       "with_unofficial": {
@@ -447,14 +447,14 @@
           "weighted_road_km": 10.21,
           "weighted_travel_minutes": 20.4,
           "minutes_saved": 1.7,
-          "pct_travel_reduction": 7.7
+          "pct_travel_reduction": 7.6
         },
         {
           "scenario": "relief",
           "candidate_id": "cand_29.10_-95.50",
           "latitude": 29.1,
           "longitude": -95.5,
-          "weighted_road_km": 10.2,
+          "weighted_road_km": 10.19,
           "weighted_travel_minutes": 20.4,
           "minutes_saved": 1.7,
           "pct_travel_reduction": 7.8
@@ -467,7 +467,17 @@
           "weighted_road_km": 10.22,
           "weighted_travel_minutes": 20.4,
           "minutes_saved": 1.7,
-          "pct_travel_reduction": 7.6
+          "pct_travel_reduction": 7.5
+        },
+        {
+          "scenario": "relief",
+          "candidate_id": "cand_30.05_-95.50",
+          "latitude": 30.05,
+          "longitude": -95.5,
+          "weighted_road_km": 10.22,
+          "weighted_travel_minutes": 20.4,
+          "minutes_saved": 1.7,
+          "pct_travel_reduction": 7.5
         },
         {
           "scenario": "relief",
@@ -477,7 +487,7 @@
           "weighted_road_km": 10.24,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
-          "pct_travel_reduction": 7.4
+          "pct_travel_reduction": 7.3
         },
         {
           "scenario": "relief",
@@ -487,14 +497,14 @@
           "weighted_road_km": 10.23,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
-          "pct_travel_reduction": 7.5
+          "pct_travel_reduction": 7.4
         },
         {
           "scenario": "relief",
           "candidate_id": "cand_29.05_-95.55",
           "latitude": 29.05,
           "longitude": -95.55,
-          "weighted_road_km": 10.26,
+          "weighted_road_km": 10.25,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
           "pct_travel_reduction": 7.2
@@ -504,7 +514,7 @@
           "candidate_id": "cand_29.10_-95.40",
           "latitude": 29.1,
           "longitude": -95.4,
-          "weighted_road_km": 10.25,
+          "weighted_road_km": 10.24,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
           "pct_travel_reduction": 7.3
@@ -517,27 +527,17 @@
           "weighted_road_km": 10.23,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
-          "pct_travel_reduction": 7.5
+          "pct_travel_reduction": 7.4
         },
         {
           "scenario": "relief",
-          "candidate_id": "cand_29.15_-95.45",
-          "latitude": 29.15,
-          "longitude": -95.45,
-          "weighted_road_km": 10.23,
+          "candidate_id": "cand_29.10_-95.60",
+          "latitude": 29.1,
+          "longitude": -95.6,
+          "weighted_road_km": 10.27,
           "weighted_travel_minutes": 20.5,
           "minutes_saved": 1.6,
-          "pct_travel_reduction": 7.5
-        },
-        {
-          "scenario": "relief",
-          "candidate_id": "cand_29.15_-95.55",
-          "latitude": 29.15,
-          "longitude": -95.55,
-          "weighted_road_km": 10.25,
-          "weighted_travel_minutes": 20.5,
-          "minutes_saved": 1.6,
-          "pct_travel_reduction": 7.3
+          "pct_travel_reduction": 7.1
         }
       ]
     },
@@ -798,7 +798,7 @@
       "facility": "mega-shelters",
       "demand": "Harvey NFIP flood claims",
       "unit": "claims",
-      "baseline_sites": 30,
+      "baseline_sites": 31,
       "demand_points": 157,
       "baseline_weighted_road_km": 11.17,
       "baseline_weighted_travel_minutes": 22.3,
@@ -1112,6 +1112,16 @@
           "operator": "FEMA",
           "source": "https://abc13.com/amp/post/full-list-fema-recovery-centers-around-houston-area/2435030/",
           "note": ""
+        },
+        {
+          "site_id": "bay_harbor_umc",
+          "name": "Bay Harbour UMC (Red Cross shelter)",
+          "lat": 29.497340576571,
+          "lon": -95.135067060372,
+          "site_type": "shelter",
+          "operator": "American Red Cross (at Bay Harbour United Methodist Church)",
+          "source": "https://www.pressreader.com/usa/houston-chronicle/20170829/282419874387132",
+          "note": "Red Cross cots and nearly 500 evacuees by Aug 29 (Houston Chronicle). A physician on site called it League City's only official Red Cross center (JEMS)."
         }
       ],
       "unofficial_sites": [
@@ -1132,8 +1142,8 @@
           "lon": -95.751617591443,
           "site_type": "makeshift_shelter",
           "operator": "Gallery Furniture (private business)",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://www.furnituretoday.com/business-news/gallery-furniture-opens-stores-hurricane-shelters",
+          "note": "Opened as a shelter alongside the North Freeway store."
         },
         {
           "site_id": "lakewood_church",
@@ -1142,7 +1152,7 @@
           "lon": -95.434718,
           "site_type": "makeshift_shelter",
           "operator": "Lakewood Church (megachurch)",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "source": "https://www.fox4news.com/news/joel-osteens-houston-megachurch-opens-doors-as-shelter",
           "note": "Opened as a shelter on Aug 29 after public criticism."
         },
         {
@@ -1153,17 +1163,7 @@
           "site_type": "makeshift_shelter",
           "operator": "H-E-B (private business)",
           "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
-        },
-        {
-          "site_id": "bay_harbor_umc",
-          "name": "Bay Harbor UMC (church shelter)",
-          "lat": 29.497340576571,
-          "lon": -95.135067060372,
-          "site_type": "makeshift_shelter",
-          "operator": "Bay Harbor United Methodist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "note": "Listed in Patch's Aug 28-30, 2017 shelter roundup; no article was found confirming an H-E-B shelter."
         },
         {
           "site_id": "sacred_heart_richmond",
@@ -1172,8 +1172,8 @@
           "lon": -95.760613430492,
           "site_type": "makeshift_shelter",
           "operator": "Sacred Heart Catholic Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "http://www.catholicsun.org/2017/08/30/prayers-aid-offered-amid-floods-as-texas-parishes-grapple-with-harvey/",
+          "note": "Served as a shelter until Brazos River flooding forced evacuations (Catholic News Service, Aug 30, 2017)."
         },
         {
           "site_id": "sugar_land_fumc",
@@ -1182,7 +1182,7 @@
           "lon": -95.618697114776,
           "site_type": "makeshift_shelter",
           "operator": "Sugar Land First United Methodist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
+          "source": "https://communityimpact.com/sugar-land-missouri-city/environment/270485/",
           "note": ""
         },
         {
@@ -1192,8 +1192,8 @@
           "lon": -95.163069215223,
           "site_type": "makeshift_shelter",
           "operator": "Golden Acres Baptist Church",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://baptiststandard.com/news/texas/gulf-coast-texas-baptists-hammered-harvey",
+          "note": "Named by the Baptist Standard among churches that opened their buildings to displaced people."
         },
         {
           "site_id": "fbc_highlands",
@@ -1202,8 +1202,8 @@
           "lon": -95.058796837771,
           "site_type": "makeshift_shelter",
           "operator": "First Baptist Church Highlands",
-          "source": "https://patch.com/texas/houston/hurricane-harvey-houston-area-shelter-list-30-000-displaced-floods",
-          "note": ""
+          "source": "https://baptiststandard.com/news/texas/gulf-coast-texas-baptists-hammered-harvey",
+          "note": "Named by the Baptist Standard among churches that opened their buildings to displaced people."
         }
       ],
       "with_unofficial": {

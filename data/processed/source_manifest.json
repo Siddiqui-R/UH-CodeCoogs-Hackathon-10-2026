@@ -128,7 +128,7 @@
     },
     {
       "file": "data/raw/staging/staging_sites.csv",
-      "sha256": "3f3f7e98c504aa5fb64798f381d1aa075030147602296cb844cbf94343ea12e7",
+      "sha256": "08d2ea5bc1ad73f922386ff269f9f2b34ecd8c3babc263b8cc71f5bd71b29dc7",
       "source_url": null,
       "provenance_status": "hand_curated_from_cited_sources",
       "original_retrieval_date": null

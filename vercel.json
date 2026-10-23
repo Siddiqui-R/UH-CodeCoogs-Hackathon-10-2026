@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "python scripts/build_vercel.py",
+  "outputDirectory": "public",
+  "functions": {
+    "api/readiness.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{public/**,dashboard/**,docs/**,tests/**,.git/**,.vercel/**,data/cache/**}"
+    }
+  },
+  "redirects": [
+    { "source": "/", "destination": "/dashboard/", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [{ "key": "X-Content-Type-Options", "value": "nosniff" }]
+    },
+    {
+      "source": "/api/readiness",
+      "headers": [{ "key": "Cache-Control", "value": "no-store" }]
+    }
+  ]
+}

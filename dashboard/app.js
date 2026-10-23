@@ -324,36 +324,37 @@
     map.fitBounds(L.latLngBounds(D.zips.map(z=>[z.latitude,z.longitude])).pad(0.03));
     window.refitDrivers=()=>{map.invalidateSize();map.fitBounds(L.latLngBounds(D.zips.map(z=>[z.latitude,z.longitude])).pad(0.03));};
   }
-  function renderHero(){
-    const svg=$('heroCurve'),byTime={};
-    d.hourly.filter(h=>h.storm_event==='Hurricane_Beryl_2024').forEach(h=>{(byTime[h.time_utc]??=[]).push(h);});
-    let pts=Object.entries(byTime).sort().map(([t,rows])=>({t:new Date(t),local:rows[0].time_local,v:rows.length===5&&rows.every(r=>r.outage_customers_mean_observed!==null)?rows.reduce((a,r)=>a+r.outage_customers_mean_observed,0):null})).filter(p=>p.v!==null);
-    // Drop one-hour source dropouts: a point far below both neighbours.
-    pts=pts.filter((p,i)=>!(i>0&&i<pts.length-1&&p.v<0.9*pts[i-1].v&&p.v<0.9*pts[i+1].v));
-    const W=1200,H=380,L=70,R=1180,T=30,B=330,t0=+pts[0].t,t1=+pts.at(-1).t,max=Math.max(...pts.map(p=>p.v));
-    const x=t=>L+(t-t0)/(t1-t0)*(R-L),y=v=>B-v/(max*1.08)*(B-T),at=s=>+new Date(s);
-    [0,1e6,2e6].forEach(v=>{svg.append(create('line',{x1:L,x2:R,y1:y(v),y2:y(v),class:'grid'}));svg.append(create('text',{x:L-10,y:y(v)+4,'text-anchor':'end',class:'tick'},v?`${v/1e6}M`:'0'));});
-    for(let day=new Date('2024-07-05T05:00:00Z');+day<=t1;day=new Date(+day+864e5)){const xx=x(+day);svg.append(create('text',{x:xx,y:B+24,class:'tick'},day.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'America/Chicago'})));svg.append(create('line',{x1:xx,x2:xx,y1:B,y2:B+6,class:'grid'}));}
-    // The no-information window: landfall to the first replacement map (PUCT p.37).
-    svg.append(create('rect',{x:x(at('2024-07-08T09:00:00Z')),y:T,width:x(at('2024-07-10T05:00:00Z'))-x(at('2024-07-08T09:00:00Z')),height:B-T,class:'blackout'}));
-    const area='M'+x(t0)+','+B+pts.map(p=>'L'+x(+p.t)+','+y(p.v)).join('')+'L'+x(t1)+','+B+'Z';
-    svg.append(create('path',{d:area,class:'curve-fill'}));
-    svg.append(create('path',{d:'M'+pts.map(p=>x(+p.t)+','+y(p.v)).join('L'),class:'curve'}));
-    const peak=pts.reduce((a,p)=>p.v>a.v?p:a),last=pts.at(-1);
-    const note=(px,py,lines,anchor='start',dy=0)=>{svg.append(create('circle',{cx:px,cy:py,r:5,class:'pin'}));lines.forEach((l,i)=>svg.append(create('text',{x:px+(anchor==='end'?-12:12),y:py+dy+i*17,'text-anchor':anchor,class:i?'note-q':'note-h'},l)));};
-    note(x(+peak.t),y(peak.v),[`Peak: ${fmt(peak.v/1e6,2)} million out`,new Date(peak.t).toLocaleString('en-US',{hour:'numeric',timeZone:'America/Chicago'})+' on Jul 8, the day of landfall'],'end',4);
-    const mid=x(at('2024-07-09T05:00:00Z'));
-    svg.append(create('text',{x:mid,y:B-62,'text-anchor':'middle',class:'note-h'},'No working outage map'));
-    svg.append(create('text',{x:mid,y:B-44,'text-anchor':'middle',class:'note-q'},'“over 2.2 million CenterPoint customers lacked'));
-    svg.append(create('text',{x:mid,y:B-27,'text-anchor':'middle',class:'note-q'},'independent access to information” (p.37)'));
-    const sp=pts.find(p=>+p.t>=at('2024-07-10T17:00:00Z'));
-    note(x(+sp.t),y(sp.v),['Crews staged far outside Houston','“longer transit times to worksites” (p.59)'],'start',-40);
-    note(x(+last.t),y(last.v),[`${fmt(last.v/1e6,2)} million still out`,'when this record ends, Jul 12','Below 10,000 only on Jul 19 (p.15)'],'end',30);
+  // Key findings cards: values read from the built dataset.
+  function renderKeyFindings(){
+    const D=d.drivers,r2=D.recommendations.find(r=>r.id==='R2');
+    if(r2){
+      // Group the hotspot ZIPs by area name; the Lake Houston area and Sheldon ZIPs read as one area.
+      const groups=new Map();
+      for(const z of r2.target_ids.split(';')){
+        const row=D.zips.find(x=>x.zip_code===z),name=!row||!row.area_name?'ZIP '+z:['Lake Houston area','Sheldon'].includes(row.area_name)?'Lake Houston/Sheldon area':row.area_name;
+        groups.set(name,[...(groups.get(name)||[]),z]);
+      }
+      const order=['Porter','Kingwood','Huffman','Lake Houston/Sheldon area'],names=[...groups.keys()].sort((a,b)=>(order.indexOf(a)+1||99)-(order.indexOf(b)+1||99));
+      const list=names.map(n=>`${n.endsWith(' area')?'the ':''}${esc(n)} (${groups.get(n).sort().join(', ')})`);
+      $('kfHotspots').innerHTML=`Harvey’s longest outages clustered in ${list.slice(0,-1).join(', ')} and ${list.at(-1)}. Start hardening, crew staging and relief there.`;
+    }
+    const fl=D.correlations.find(c=>c.trait==='flood_claims_per_1k_customers');
+    if(fl){
+      $('kfFloodFigure').textContent=`${fmt(fl.high_over_low,1)}×`;
+      $('kfFlood').textContent=`The slowest-restored Harvey ZIPs had ${fmt(fl.high_over_low,1)}× the flood-claim rate of the fastest-restored ZIPs (${fmt(fl.high_downtime_median,0)} vs ${fmt(fl.low_downtime_median,0)} claims per 1,000 customers). This is an association in Harvey data, not proof that flooding caused the longer outages.`;
+    }
+    const rs=d.staging.scenarios.relief,b=rs&&rs.best_candidate;
+    if(b){
+      $('kfReliefFigure').textContent=`${fmt(b.pct_travel_reduction,1)}%`;
+      $('kfRelief').textContent=`Modeled estimate: adding the best single relief site cuts the average estimated trip from ${fmt(rs.baseline_weighted_travel_minutes,0)} to ${fmt(b.weighted_travel_minutes,0)} minutes, ${fmt(b.pct_travel_reduction,1)}% less driving. Move sites on the map to test your own plan.`;
+    }
   }
-  renderHero();renderEvidence();renderStaging();renderDrivers();
+  renderKeyFindings();
+  renderEvidence();renderStaging();renderDrivers();
   const pages=[...document.querySelectorAll('[data-nav]')].map(a=>({key:a.dataset.nav,label:a.textContent}));
   function route(){
-    let key=(location.hash.match(/^#\/(\w+)/)||[])[1];
+    const parts=location.hash.match(/^#\/(\w+)(?:\/([\w-]+))?/)||[];
+    let key=parts[1];const section=parts[2];
     if(!pages.some(p=>p.key===key)){
       // Old in-page links (e.g. #staging) still land on the right page.
       const target=location.hash.length>1?document.getElementById(location.hash.slice(1)):null;
@@ -369,7 +370,11 @@
     if(key==='outages'&&window.refitDrivers)window.refitDrivers();
     if(key==='outages'&&window.refitRecMap)window.refitRecMap();
     if(key==='explorer'){if(window.refitCounty)window.refitCounty();else render();}
-    window.scrollTo(0,0);
+    // Deep links: #/whatif/relief opens that scenario tab; other sections scroll to the element with that id.
+    const tab=key==='whatif'&&section?$('tab-'+section):null;
+    if(tab)tab.click();
+    const target=tab?$('staging'):section?$(section):null;
+    if(target&&!target.closest('[hidden]'))target.scrollIntoView({block:'start'});else window.scrollTo(0,0);
   }
   window.addEventListener('hashchange',route);route();
   $('centerpoint').innerHTML=d.centerpoint.map(r=>`<div class="milestone"><time>${esc(r.report_time_local.slice(0,16).replace('T',' '))} CDT</time><strong>${esc(r.source_phrase)}</strong><small>${r.metric==='customers_restored'?'Customers restored':'Restoration share'}</small><br><a href="${esc(r.source_url)}" target="_blank" rel="noopener">Official release index</a></div>`).join('');

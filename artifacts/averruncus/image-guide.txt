@@ -1,0 +1,7 @@
+Averruncus Kaggle image guide
+
+Use 00-averruncus-card.png as the 560 x 280 thumbnail/card image.
+Use 00-averruncus-title.png as the title image in the media gallery.
+Add the numbered 01-09 JPGs as examples in the same order as the nine walkthrough examples already saved in the Kaggle draft.
+Screenshots show the actual deployed dashboard and retain its earlier interface label.
+The title graphic is a project illustration; its three yellow markers are illustrative locations rather than a ranked measurement layer.

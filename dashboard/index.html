@@ -13,11 +13,37 @@
 <body>
 <div class="topbar"><nav class="app-nav" aria-label="Pages"><a href="#/overview" data-nav="overview">Overview</a><a href="#/explorer" data-nav="explorer">Storm explorer</a><a href="#/reports" data-nav="reports">Official reports</a><a href="#/outages" data-nav="outages">Outages & recommendations</a><a href="#/whatif" data-nav="whatif">What-if map</a><a href="#/data" data-nav="data">Data & sources</a></nav></div>
 <header class="hero" data-page="overview">
-  <p class="kicker">Houston storm evidence, 2017–2024</p>
-  <h1>When the power went out, the information went out with it.</h1>
-  <p class="lede">Hurricane Beryl cut power to millions of Houston-area customers in July 2024. Four of the five official reports reviewed here name unreliable information as a core failure. The curve below is the outage record for Harris, Fort Bend, Montgomery, Brazoria and Galveston counties, with the reports' own words pinned to the hours they describe.</p>
-  <figure class="hero-chart"><svg id="heroCurve" viewBox="0 0 1200 380" role="img" aria-labelledby="heroCaption"></svg>
-    <figcaption id="heroCaption">Customers without power in the five counties combined, hourly, from DOE/ORNL EAGLE-I records (July 5–12, 2024). One-hour source dropouts are left out. The shaded span is landfall to CenterPoint’s first replacement outage map. Quotes and page numbers are from the PUCT investigation, November 2024.</figcaption></figure>
+  <h1>Where Houston lost power—and where to prepare next.</h1>
+  <p class="lede">Explore storm impacts, identify ZIP-level outage priorities, and test how relief-site locations change estimated travel times.</p>
+  <div class="findings" aria-label="Key findings">
+    <article class="finding">
+      <h2>Start with the outage hotspots</h2>
+      <p id="kfHotspots">Harvey’s longest outages clustered northeast of Houston.</p>
+      <a class="finding-link" href="#/outages/hotspots">See the hotspots in Outages &amp; recommendations</a>
+    </article>
+    <article class="finding">
+      <h2>Flood claims distinguish longer outages</h2>
+      <p class="finding-figure" id="kfFloodFigure"></p>
+      <p id="kfFlood"></p>
+      <a class="finding-link" href="#/outages/drivers">Compare outage drivers</a>
+    </article>
+    <article class="finding">
+      <h2>Test better relief-site locations</h2>
+      <p class="finding-figure" id="kfReliefFigure"></p>
+      <p id="kfRelief"></p>
+      <a class="finding-link" href="#/whatif/relief">Open the Disaster relief what-if map</a>
+    </article>
+  </div>
+  <section class="tab-guide" aria-labelledby="guide-title">
+    <h2 id="guide-title">What each tab covers</h2>
+    <ul class="guide-list">
+      <li><h3>Storm explorer</h3><p>Compare rainfall, wind, power outages and flood-insurance payments across five counties and four storms: Harvey, Imelda, Nicholas and Beryl. Pick a storm and county to see the hour-by-hour record, Harvey’s daily ZIP-code outages and CenterPoint’s Beryl restoration milestones.</p><a href="#/explorer">Open Storm explorer</a></li>
+      <li><h3>Official reports</h3><p>See what five official reviews of Harvey and Beryl agree went wrong, with page-cited quotes, and where the reports and the outage data disagree.</p><a href="#/reports">Open Official reports</a></li>
+      <li><h3>Outages &amp; recommendations</h3><p>See how long power stayed out in each county, what the slowest-restored ZIP codes had in common, and five recommendations mapped to the areas where each applies.</p><a href="#/outages">Open Outages &amp; recommendations</a></li>
+      <li><h3>What-if map</h3><p>Move, add or remove relief sites on a street map for disaster relief, power outages and flood relief, and see how estimated travel times change.</p><a href="#/whatif">Open the What-if map</a></li>
+      <li><h3>Data &amp; sources</h3><p>Download the processed data, trace every number to its source, see what data to collect next, and run the file checks.</p><a href="#/data">Open Data &amp; sources</a></li>
+    </ul>
+  </section>
 </header>
 <main>
   <div id="fatal" role="alert" hidden></div>
@@ -75,7 +101,7 @@
     <div class="split"><div>
       <div class="table-wrap"><table><caption>Harvey, 198 ZIP codes. Fastest-restored quarter vs slowest-restored quarter (medians), and the rank correlation with outage length. Select a trait to see those ZIPs on the map.</caption>
         <thead><tr><th>Trait</th><th>Fastest quarter</th><th>Slowest quarter</th><th>Link to outage length</th></tr></thead><tbody id="driversTable"></tbody></table></div>
-      <h3 class="plan-title">Where outages lasted longest</h3><ol id="hotspotList" class="hotspots"></ol>
+      <h3 class="plan-title" id="hotspots">Where outages lasted longest</h3><ol id="hotspotList" class="hotspots"></ol>
     </div>
     <div><div id="driversMap" class="leaflet-map" role="img" aria-label="Map of Harvey ZIP codes colored by outage length, with the longest-outage areas labeled"></div>
       <p class="legend-q" id="driversLegend"><span><i style="background:#9cc3c8"></i>Fastest quarter</span><span><i style="background:#5f9aa3"></i>Second</span><span><i style="background:#d08a3c"></i>Third</span><span><i style="background:#b5452a"></i>Slowest quarter</span></p></div></div>
