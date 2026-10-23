@@ -87,5 +87,7 @@
   $('map').addEventListener('click',e=>{if(e.target.closest('path'))refresh();});
   $('map').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')refresh();});
   $('summary').addEventListener('click',e=>{if(e.target.closest('button'))refresh();});
+  // Harvey summary buttons set both county and storm (to Harvey) before this bubbling listener runs.
+  $('harveySummary').addEventListener('click',e=>{if(e.target.closest('button'))refresh();});
   if(window.STORM_DATA)refresh();
 })();

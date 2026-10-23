@@ -21,31 +21,16 @@
 </header>
 <main>
   <div id="fatal" role="alert" hidden></div>
-  <section class="controls" aria-label="Explore the dataset" id="explore" data-page="overview explorer">
+  <section class="controls" aria-label="Explore the dataset" id="explore" data-page="data explorer">
     <label>Storm<select id="storm" aria-label="Storm"></select></label>
     <label>County<select id="county" aria-label="County"></select></label>
-    <label>Map measure<select id="metric" aria-label="Map measure">
+    <label data-page="explorer">Map measure<select id="metric" aria-label="Map measure">
       <option value="total_precipitation_in">Rainfall (inches)</option>
       <option value="peak_wind_gust_mph">Peak wind gust (mph)</option>
       <option value="outage_peak_customers_observed">Peak observed customers out</option>
       <option value="nfip_total_net_payment_usd">NFIP net payments (USD)</option>
       <option value="nfip_recorded_claims">Recorded NFIP claims</option>
     </select></label>
-  </section>
-  <section class="panel readiness-panel" id="readiness" data-page="overview" aria-labelledby="readiness-title">
-    
-    <div class="readiness-heading"><h2 id="readiness-title">Can I trust these results?</h2><button id="recheck" class="action-button" type="button">Check files again</button></div>
-    <div id="live-status" class="status-pill pending" role="status">Waiting for local checks</div>
-    <p id="readiness-verdict" aria-live="polite">Checking the evidence behind this selection.</p>
-    <p id="last-checked" class="note"></p>
-    <p id="readiness-error" role="alert" hidden></p>
-    <div class="readiness-grid"><div id="selection-coverage" class="coverage-card" aria-live="polite"></div><div>
-      <label for="analysis-goal">What do you want to do?</label><select id="analysis-goal"><option value="history">Historical comparisons</option><option value="forecasting">Predict future outages</option><option value="preparedness">Prioritize emergency resources</option></select>
-      <p id="goal-meaning" class="note"></p>
-    </div></div>
-    <label for="evidence-question">Ask about the evidence</label><select id="evidence-question"></select>
-    <div id="evidence-answer" class="answer-box" aria-live="polite"></div>
-    <details><summary>What do the file checks cover?</summary><ul id="live-checks"></ul><p class="note">These are processing and integrity checks. They do not independently validate every measurement or certify source accuracy.</p></details>
   </section>
   <section class="panel" id="collection" data-page="data"><h2>What data would strengthen this?</h2><p class="note">Recommendations change with your selected county, storm, and intended use.</p><div id="next-data" class="needs-grid"></div></section>
   <p class="scope" id="scope" aria-live="polite" data-page="explorer"></p>
@@ -148,6 +133,21 @@
       <a href="../docs/DATA_DICTIONARY.md">Data dictionary</a>
       <a href="../data/processed/validation_report.json" download>Validation report</a>
     </div>
+  </section>
+  <section class="panel readiness-panel" id="readiness" data-page="data" aria-labelledby="readiness-title">
+    
+    <div class="readiness-heading"><h2 id="readiness-title">Can I trust these results?</h2><button id="recheck" class="action-button" type="button">Check files again</button></div>
+    <div id="live-status" class="status-pill pending" role="status">Waiting for local checks</div>
+    <p id="readiness-verdict" aria-live="polite">Checking the evidence behind this selection.</p>
+    <p id="last-checked" class="note"></p>
+    <p id="readiness-error" role="alert" hidden></p>
+    <div class="readiness-grid"><div id="selection-coverage" class="coverage-card" aria-live="polite"></div><div>
+      <label for="analysis-goal">What do you want to do?</label><select id="analysis-goal"><option value="history">Historical comparisons</option><option value="forecasting">Predict future outages</option><option value="preparedness">Prioritize emergency resources</option></select>
+      <p id="goal-meaning" class="note"></p>
+    </div></div>
+    <label for="evidence-question">Ask about the evidence</label><select id="evidence-question"></select>
+    <div id="evidence-answer" class="answer-box" aria-live="polite"></div>
+    <details><summary>What do the file checks cover?</summary><ul id="live-checks"></ul><p class="note">These are processing and integrity checks. They do not independently validate every measurement or certify source accuracy.</p></details>
   </section>
   <nav class="pager" id="pager" aria-label="Previous and next page"></nav>
 </main>
